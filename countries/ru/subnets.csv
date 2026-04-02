@@ -92,9 +92,11 @@ ASN,subnet,name
 0,45.144.220.0/22,Nikoff SPB LLC
 0,45.150.8.0/22,JSC Datacenter
 0,45.150.110.0/23,Sysoev Aleksey Anatolevich
+0,45.152.85.0/24,ServGuru LLC
 0,45.152.120.0/22,Navant LLC
 0,45.153.28.0/22,Inmarsoft LLC
 0,45.153.72.0/22,"LLC ""Internet Tehnologii"""
+0,45.154.0.0/24,ServGuru LLC
 0,45.156.0.0/22,Erlivideo LLC
 0,45.159.124.0/22,Yury Dolin
 0,46.19.64.0/21,Quasar LLC
@@ -8513,6 +8515,8 @@ ASN,subnet,name
 48282,185.231.152.0/22,VDSINA-AS Hosting technology LTD
 48282,185.244.180.0/22,VDSINA-AS Hosting technology LTD
 48282,192.144.56.0/22,VDSINA-AS Hosting technology LTD
+48282,193.124.64.0/22,VDSINA-AS Hosting technology LTD
+48282,193.124.128.0/22,VDSINA-AS Hosting technology LTD
 48282,193.178.170.0/24,VDSINA-AS Hosting technology LTD
 48282,195.2.66.0/23,VDSINA-AS Hosting technology LTD
 48282,195.2.70.0/23,VDSINA-AS Hosting technology LTD
@@ -11424,8 +11428,6 @@ ASN,subnet,name
 62462,2a00:dea0::/32,CONCEPTCOMM_2 'Concept comm' Ltd
 64429,185.236.131.0/24,OPTIKNET-AS DDS Service LLC
 64429,2a10:8cc0::/29,OPTIKNET-AS DDS Service LLC
-64439,45.152.85.0/24,RocketCloud IT Outsourcing LLC
-64439,45.154.0.0/24,RocketCloud IT Outsourcing LLC
 64439,193.242.153.0/24,RocketCloud IT Outsourcing LLC
 64439,2a0b:b200::/32,RocketCloud IT Outsourcing LLC
 64450,195.3.219.0/24,YADRO-AS GK YADRO LLC
