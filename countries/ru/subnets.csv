@@ -2,7 +2,7 @@ ASN,subnet,name
 0,2.56.88.0/22,McHost LLC
 0,2.56.180.0/22,Skynetwork LLC
 0,2.57.52.0/22,Active.domains LLC
-0,2.58.124.0/22,Sysoev Aleksey Anatolevich
+0,2.58.124.0/22,Anton Rashitovich Khalikov
 0,2.59.240.0/22,"""A-Siti"" Limited Liability Company"
 0,5.35.100.0/22,Internet-Hosting Ltd
 0,5.44.40.0/23,"LLC ""Internet Tehnologii"""
@@ -532,7 +532,7 @@ ASN,subnet,name
 0,153.80.184.0/23,
 0,153.80.186.0/24,
 0,153.80.248.0/24,
-0,153.80.249.0/24,
+0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
 0,157.186.0.0/16,
 0,158.255.0.0/21,LLC IT BASIS
@@ -672,7 +672,7 @@ ASN,subnet,name
 0,185.137.176.0/22,DalCOMTEL LLC
 0,185.142.99.0/24,Quasar LLC
 0,185.142.128.0/24,Nikolai Lytkin
-0,185.142.129.0/24,IT Outsourcing LLC
+0,185.142.129.0/24,ServGuru LLC
 0,185.144.28.0/22,PDK LLC
 0,185.146.156.0/22,JSC Datacenter
 0,185.148.104.0/22,IP Khnykin Vitaliy Yakovlevich
@@ -831,7 +831,6 @@ ASN,subnet,name
 0,193.169.178.0/23,
 0,193.176.233.0/24,LLC Pismo
 0,193.178.131.0/24,
-0,193.178.158.0/23,
 0,193.178.215.0/24,Navant LLC
 0,193.186.14.0/24,DiMachine Limited
 0,193.187.82.0/23,
@@ -839,7 +838,6 @@ ASN,subnet,name
 0,193.200.12.0/23,VVT LLC
 0,193.200.183.0/24,
 0,193.201.88.0/22,
-0,193.201.118.0/23,
 0,193.218.136.0/22,
 0,193.222.109.0/24,
 0,193.227.134.0/24,
@@ -1519,6 +1517,7 @@ ASN,subnet,name
 0,2a13:8c40::/29,Mikhail Tonkonog
 0,2a13:9340::/29,Mikhail Tonkonog
 0,2a13:93c0::/29,Mikhail Tonkonog
+0,2a13:95c0::/29,WILDBERRIES Bank Company Limited
 0,2a13:ac80::/29,Mikhail Tonkonog
 0,2a13:ad80::/29,VVT LLC
 0,2a13:cf40::/29,NEDRIX Joint Stock Company
@@ -4920,6 +4919,8 @@ ASN,subnet,name
 20483,217.150.0.0/20,EUROCOM EUROCOM Ltd.
 20483,217.150.16.0/20,EUROCOM EUROCOM Ltd.
 20483,2a07:5880::/29,EUROCOM EUROCOM Ltd.
+20499,193.178.158.0/23,IPC-AS IP Connect LLC
+20499,193.201.118.0/23,IPC-AS IP Connect LLC
 20576,5.226.152.0/21,GAZSVYAZ Gazprom telecom LLC
 20576,31.186.56.0/21,GAZSVYAZ Gazprom telecom LLC
 20576,80.247.112.0/20,GAZSVYAZ Gazprom telecom LLC
