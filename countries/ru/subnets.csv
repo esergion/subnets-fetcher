@@ -370,6 +370,7 @@ ASN,subnet,name
 0,91.226.92.0/22,
 0,91.226.104.0/22,
 0,91.226.172.0/22,
+0,91.226.204.0/23,
 0,91.227.12.0/23,
 0,91.227.44.0/22,
 0,91.227.195.0/24,"LLC ""Avtomaticheskie vorota - 2000"""
@@ -1231,7 +1232,6 @@ ASN,subnet,name
 0,2a0c:9480::/29,Auction LLC
 0,2a0c:b980::/29,"Mws Cloud, Limited Liability Company"
 0,2a0c:c580::/29,TK Rustelekom LLC
-0,2a0c:c700::/29,"JSC ""TSIFROVYE INVESTITSII"""
 0,2a0c:cec0::/29,Touroperator INTOURIST LLC
 0,2a0c:d800::/29,"LLC ""Avtomaticheskie vorota - 2000"""
 0,2a0c:f280::/29,Anton Rashitovich Khalikov
@@ -10125,7 +10125,6 @@ ASN,subnet,name
 51437,185.168.60.0/22,"glavnivz FSUE ""GlavNIVZ"""
 51437,2a12:480::/29,"glavnivz FSUE ""GlavNIVZ"""
 51442,91.217.46.0/23,StreamTelecom-AS Stream Telecom Ltd.
-51443,91.217.159.0/24,itlogic IT Logic ltd.
 51444,37.18.2.0/23,IT-LITE-NET IT Lite LLC
 51444,37.18.83.0/24,IT-LITE-NET IT Lite LLC
 51444,37.18.84.0/24,IT-LITE-NET IT Lite LLC
@@ -10485,7 +10484,6 @@ ASN,subnet,name
 56741,91.226.64.0/22,"GLORIA-JEANS-AS JSC ""Gloria-Jeans"""
 56760,91.227.79.0/25,GAU-RK-CIT-AS Autonomous state organization or The Komi Republic Centre of informational technologies
 56760,91.227.92.0/22,GAU-RK-CIT-AS Autonomous state organization or The Komi Republic Centre of informational technologies
-56763,91.226.204.0/23,INFOTELL-AS Infotell UK OOO
 56776,91.227.140.0/22,DIALOGSIBERIA-AS DialogSiberia-Barnaul Ltd
 56779,31.40.96.0/21,"ASDRUZHBA OOO UJK "" Druzhba"""
 56785,91.227.136.0/24,GUP-GK-Berlin-AS JSC GK Berlin
