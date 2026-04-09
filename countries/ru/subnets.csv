@@ -490,8 +490,6 @@ ASN,subnet,name
 0,95.161.140.0/22,Account Style SPB LTD
 0,95.172.48.0/20,Clouds-NN LLC
 0,95.181.224.0/21,Internet-Hosting Ltd
-0,95.181.248.0/22,LLC Service Telecom
-0,95.181.252.0/22,LLC Service Telecom
 0,95.183.8.0/21,Internet-Hosting Ltd
 0,95.215.230.0/23,
 0,103.228.2.0/24,Navant LLC
@@ -648,7 +646,6 @@ ASN,subnet,name
 0,185.70.104.0/22,LLC IT BASIS
 0,185.70.164.0/22,"JSC ""Sport-Express"""
 0,185.75.248.0/23,Skystark LLC
-0,185.78.32.0/22,LLC Service Telecom
 0,185.78.108.0/22,ANTARES LLC
 0,185.80.148.0/22,"LLC ""Internet Tehnologii"""
 0,185.87.192.0/22,Internet-Hosting Ltd
@@ -893,6 +890,7 @@ ASN,subnet,name
 0,194.50.190.0/24,New Communication Technologies LLC
 0,194.54.12.0/22,
 0,194.54.176.0/22,
+0,194.55.236.0/22,IVT Office LLC
 0,194.60.247.0/24,
 0,194.60.248.0/23,
 0,194.67.69.0/24,RADIO-FSU/RADIO-MSU NETWORK Ltd
@@ -1107,7 +1105,6 @@ ASN,subnet,name
 0,2a03:2140::/32,VMLAB LLC
 0,2a03:29a0::/32,LLC Stolichnaya Telecommunication Company
 0,2a03:34e0::/32,"JSC ""Sport-Express"""
-0,2a03:57a0::/32,LLC Service Telecom
 0,2a03:5a00::/29,LeaderTelecom Ltd.
 0,2a03:80c0::/32,Internet-Hosting Ltd
 0,2a03:a0e0::/32,PDK LLC
@@ -5907,7 +5904,6 @@ ASN,subnet,name
 31514,91.210.132.0/22,INF-NET-AS Invest Mobile LLC
 31514,91.233.88.0/24,INF-NET-AS Invest Mobile LLC
 31514,94.141.116.0/22,INF-NET-AS Invest Mobile LLC
-31514,161.104.100.0/22,INF-NET-AS Invest Mobile LLC
 31514,168.222.202.0/23,INF-NET-AS Invest Mobile LLC
 31514,193.106.68.0/22,INF-NET-AS Invest Mobile LLC
 31514,217.12.32.0/22,INF-NET-AS Invest Mobile LLC
@@ -12089,6 +12085,7 @@ ASN,subnet,name
 199430,2001:67c:11fc::/48,GOODWOOD Limited Liability Company GOODWOOD
 199445,185.207.22.0/24,SENTASERV Senta Service LLC
 199445,2a12:ba40::/29,SENTASERV Senta Service LLC
+199546,161.104.100.0/22,MOSCOMNET-AS Moscomnet LLC
 199546,185.180.125.0/24,MOSCOMNET-AS Moscomnet LLC
 199546,185.221.164.0/23,MOSCOMNET-AS Moscomnet LLC
 199546,2a01:f880::/29,MOSCOMNET-AS Moscomnet LLC
@@ -12176,6 +12173,10 @@ ASN,subnet,name
 200044,185.159.64.0/22,"stackgroup Stack Group, LLC"
 200044,2a00:eb8::/32,"stackgroup Stack Group, LLC"
 200044,2a0d:380::/29,"stackgroup Stack Group, LLC"
+200065,95.181.248.0/22,LLC Service Telecom
+200065,95.181.252.0/22,LLC Service Telecom
+200065,185.78.32.0/22,LLC Service Telecom
+200065,2a03:57a0::/32,LLC Service Telecom
 200066,91.247.192.0/20,ASNETKOM NETKOM-E Ltd.
 200161,83.217.26.0/23,"DATAPRO-AS ""DATAPRO"" Limited Liability Company"
 200161,91.107.104.0/21,"DATAPRO-AS ""DATAPRO"" Limited Liability Company"
@@ -12431,7 +12432,6 @@ ASN,subnet,name
 202234,185.49.108.0/22,SemanticNetwork Semantic LLC
 202234,2a04:b940::/29,SemanticNetwork Semantic LLC
 202378,168.222.200.0/24,"METINVEST-AS PJSC SCB ""Metallinvestbank"""
-202406,194.55.236.0/22,LINE-BIT Limited Company LineBit
 202423,185.149.194.0/24,MGNHost-AS Tyurin Viktor Mihaylovich
 202423,2a0b:9080::/29,MGNHost-AS Tyurin Viktor Mihaylovich
 202486,5.183.180.0/22,SKYTELECOM TSK LLC
