@@ -505,6 +505,7 @@ ASN,subnet,name
 0,109.238.86.0/23,Mikhail Tonkonog
 0,109.254.0.0/16,ENERGO-TELECOM LLC
 0,111.88.212.0/22,Mikhail Tonkonog
+0,130.49.140.0/23,
 0,130.49.166.0/23,
 0,130.49.172.0/22,Internet-Hosting Ltd
 0,130.49.212.0/23,"LLC ""Internet Tehnologii"""
@@ -531,6 +532,7 @@ ASN,subnet,name
 0,153.80.248.0/24,
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
+0,157.22.252.0/23,
 0,157.186.0.0/16,
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
