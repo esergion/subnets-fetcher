@@ -6419,8 +6419,8 @@ ASN,subnet,name
 35511,185.123.64.0/22,AS-SKYNET-B2B SkyNet Ltd.
 35511,188.242.0.0/15,AS-SKYNET-B2B SkyNet Ltd.
 35511,2a05:3580::/29,AS-SKYNET-B2B SkyNet Ltd.
-35522,194.88.200.0/23,Business-center_Capital_AS JSC Business-center Capital
-35522,2001:678:9c4::/48,Business-center_Capital_AS JSC Business-center Capital
+35522,194.88.200.0/23,Business-center_Capital_AS SZ Stadion Spartak LLC
+35522,2001:678:9c4::/48,Business-center_Capital_AS SZ Stadion Spartak LLC
 35526,91.218.108.0/22,MASTERBIT-AS Smart Technology LLC
 35526,176.100.252.0/22,MASTERBIT-AS Smart Technology LLC
 35526,185.93.40.0/22,MASTERBIT-AS Smart Technology LLC
@@ -9189,7 +9189,7 @@ ASN,subnet,name
 49403,93.157.168.0/21,AVK-WELLCOM-AS AVK-Wellcom Ltd.
 49403,178.218.112.0/20,AVK-WELLCOM-AS AVK-Wellcom Ltd.
 49404,193.169.52.0/23,RVS Russian Servers Limited
-49411,91.214.120.0/23,SEDNA Petrov Dmitriy Sergeevich
+49411,91.214.120.0/23,SEDAN Petrov Dmitriy Sergeevich
 49426,188.94.160.0/21,LINTECSAS1-AS LInTeCS ltd (Laboratory of Information Technologies and Computer Systems)
 49444,91.212.248.0/24,LUTACOM-AS Lutacom LLC
 49444,91.225.88.0/22,LUTACOM-AS Lutacom LLC
