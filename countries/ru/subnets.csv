@@ -296,7 +296,7 @@ ASN,subnet,name
 0,91.208.249.0/24,
 0,91.209.65.0/24,
 0,91.209.77.0/24,
-0,91.209.94.0/24,"LLC ""Avtomaticheskie vorota - 2000"""
+0,91.209.94.0/24,"LLC ""AUTOMATIC GATE - 2000"""
 0,91.209.119.0/24,
 0,91.209.127.0/24,
 0,91.210.104.0/22,
@@ -346,6 +346,7 @@ ASN,subnet,name
 0,91.221.18.0/23,
 0,91.221.132.0/23,
 0,91.221.136.0/23,
+0,91.221.162.0/23,
 0,91.221.194.0/23,
 0,91.221.246.0/23,Aleksandr Naydenko
 0,91.223.32.0/24,
@@ -371,7 +372,7 @@ ASN,subnet,name
 0,91.226.204.0/23,
 0,91.227.12.0/23,
 0,91.227.44.0/22,
-0,91.227.195.0/24,"LLC ""Avtomaticheskie vorota - 2000"""
+0,91.227.195.0/24,"LLC ""AUTOMATIC GATE - 2000"""
 0,91.227.244.0/24,
 0,91.228.48.0/22,
 0,91.228.54.0/23,
@@ -510,7 +511,7 @@ ASN,subnet,name
 0,130.49.215.0/24,Aleksandr Valerevich Mokhonko
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
-0,131.222.134.0/23,
+0,131.222.134.0/23,"LLC ""ESCROW TELECOM"""
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
 0,141.98.233.0/24,Quasar LLC
@@ -529,7 +530,6 @@ ASN,subnet,name
 0,153.80.248.0/24,
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
-0,157.22.252.0/23,
 0,157.186.0.0/16,
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
@@ -693,7 +693,7 @@ ASN,subnet,name
 0,185.190.40.0/22,Uralskie Kabelnie Seti - Ozersk LLC
 0,185.190.180.0/22,MIR TELEKOM LLC
 0,185.191.196.0/22,Max Host LLC
-0,185.193.46.0/24,"LLC ""Avtomaticheskie vorota - 2000"""
+0,185.193.46.0/24,"LLC ""AUTOMATIC GATE - 2000"""
 0,185.193.88.0/23,IP Khnykin Vitaliy Yakovlevich
 0,185.199.144.0/22,LOGOS-K LLC
 0,185.200.171.0/24,OOO TeleMontag
@@ -1224,7 +1224,7 @@ ASN,subnet,name
 0,2a0c:b980::/29,"Mws Cloud, Limited Liability Company"
 0,2a0c:c580::/29,TK Rustelekom LLC
 0,2a0c:cec0::/29,Touroperator INTOURIST LLC
-0,2a0c:d800::/29,"LLC ""Avtomaticheskie vorota - 2000"""
+0,2a0c:d800::/29,"LLC ""AUTOMATIC GATE - 2000"""
 0,2a0c:f280::/29,Anton Rashitovich Khalikov
 0,2a0d:6c0::/29,Aleksandr Valerevich Mokhonko
 0,2a0d:10c0::/29,Skynetwork LLC
@@ -6419,8 +6419,8 @@ ASN,subnet,name
 35511,185.123.64.0/22,AS-SKYNET-B2B SkyNet Ltd.
 35511,188.242.0.0/15,AS-SKYNET-B2B SkyNet Ltd.
 35511,2a05:3580::/29,AS-SKYNET-B2B SkyNet Ltd.
-35522,194.88.200.0/23,Business-center_Capital_AS SZ Stadion Spartak LLC
-35522,2001:678:9c4::/48,Business-center_Capital_AS SZ Stadion Spartak LLC
+35522,194.88.200.0/23,StadionSpartak-AS SZ Stadion Spartak LLC
+35522,2001:678:9c4::/48,StadionSpartak-AS SZ Stadion Spartak LLC
 35526,91.218.108.0/22,MASTERBIT-AS Smart Technology LLC
 35526,176.100.252.0/22,MASTERBIT-AS Smart Technology LLC
 35526,185.93.40.0/22,MASTERBIT-AS Smart Technology LLC
@@ -7357,6 +7357,7 @@ ASN,subnet,name
 42514,94.102.16.0/20,SIGNAL-AS Signal Service LLC
 42514,95.141.176.0/20,SIGNAL-AS Signal Service LLC
 42514,128.204.160.0/19,SIGNAL-AS Signal Service LLC
+42514,153.80.172.0/22,SIGNAL-AS Signal Service LLC
 42514,178.17.128.0/20,SIGNAL-AS Signal Service LLC
 42514,185.12.84.0/22,SIGNAL-AS Signal Service LLC
 42514,213.166.76.0/22,SIGNAL-AS Signal Service LLC
@@ -7644,6 +7645,7 @@ ASN,subnet,name
 43598,193.187.192.0/22,EXPORT-AS Export Telecom LLC
 43600,91.198.69.0/24,SOVKOMBANK PJSC Sovcombank
 43605,193.46.77.0/24,SET_LLC Severo-Eniseysk-Telecom LLC
+43605,2001:678:b34::/48,SET_LLC Severo-Eniseysk-Telecom LLC
 43628,193.151.225.0/24,UNITEDMOTORS-AS ATD LLC
 43634,91.201.237.0/24,RCITSAKHA-AS State budgetary institution of Sakha Respublic (Yakutiya) Respublicanskiy Centr infokommunikatsionnykh tekhnologiy
 43634,91.207.6.0/23,RCITSAKHA-AS State budgetary institution of Sakha Respublic (Yakutiya) Respublicanskiy Centr infokommunikatsionnykh tekhnologiy
@@ -10449,7 +10451,7 @@ ASN,subnet,name
 56694,94.198.50.0/23,SmartApe LLC Smart Ape
 56694,94.198.52.0/23,SmartApe LLC Smart Ape
 56694,94.198.54.0/23,SmartApe LLC Smart Ape
-56694,109.238.92.0/22,SmartApe LLC Smart Ape
+56694,109.238.92.0/23,SmartApe LLC Smart Ape
 56694,152.89.216.0/22,SmartApe LLC Smart Ape
 56694,178.255.126.0/23,SmartApe LLC Smart Ape
 56694,185.9.144.0/22,SmartApe LLC Smart Ape
@@ -11244,6 +11246,9 @@ ASN,subnet,name
 60832,185.25.88.0/22,"ASOKEY O`KEY, Limited Liability Company"
 60832,2a00:7ce0::/32,"ASOKEY O`KEY, Limited Liability Company"
 60833,2001:67c:1b04::/48,NLMK-AS PJSC NLMK
+60839,178.216.120.0/24,VID-MEDIA-AS Vid Media Ltd.
+60839,178.216.123.0/24,VID-MEDIA-AS Vid Media Ltd.
+60839,195.39.210.0/23,VID-MEDIA-AS Vid Media Ltd.
 60840,84.21.164.0/22,TELECOMSERVICEVRN OJSC Telecom-Service
 60840,185.23.80.0/22,TELECOMSERVICEVRN OJSC Telecom-Service
 60840,194.5.60.0/23,TELECOMSERVICEVRN OJSC Telecom-Service
@@ -11575,7 +11580,6 @@ ASN,subnet,name
 197392,91.220.135.0/24,ASINFODOM Infodom Ltd
 197404,2001:67c:cd4::/48,infosysco Informational systems LLC
 197406,46.151.0.0/21,ASTELECOMLTD OOO Telecom LTD
-197449,91.221.162.0/23,LIGHTSOFT-AS BORISOV MIKHAIL ALEKSEEVICH
 197453,46.183.176.0/21,BIZTEL-AS Biz Telecom LLC
 197453,91.200.86.0/23,BIZTEL-AS Biz Telecom LLC
 197453,178.57.80.0/20,BIZTEL-AS Biz Telecom LLC
@@ -12151,6 +12155,7 @@ ASN,subnet,name
 199809,185.200.152.0/22,MAX-TEL Maxtel LLC
 199809,2a01:5260::/32,MAX-TEL Maxtel LLC
 199851,91.220.186.0/24,tutaev-dev Adam Muratovich Tutaev
+199851,153.80.176.0/23,tutaev-dev Adam Muratovich Tutaev
 199851,217.26.217.0/24,tutaev-dev Adam Muratovich Tutaev
 199851,2a13:5540::/29,tutaev-dev Adam Muratovich Tutaev
 199860,5.188.104.0/22,Xelent-AS ATOMDATA JSC
@@ -13128,6 +13133,7 @@ ASN,subnet,name
 210682,2a13:2500::/29,A3PAY-AS PAYMENT SERVICE A3 LLC
 210685,91.217.163.0/24,netlease1 Netlease JSC
 210739,213.5.135.0/24,neolinkgroup Neolink Grupp LLC
+210753,45.155.60.0/24,ru-tildapublishing-1 Tilda Publishing JSC
 210753,176.57.64.0/22,ru-tildapublishing-1 Tilda Publishing JSC
 210753,185.215.4.0/24,ru-tildapublishing-1 Tilda Publishing JSC
 210753,193.3.17.0/24,ru-tildapublishing-1 Tilda Publishing JSC
@@ -13218,13 +13224,11 @@ ASN,subnet,name
 211002,195.69.151.0/24,G2NET-AS G2 LLC
 211002,2a11:de00::/29,G2NET-AS G2 LLC
 211183,5.35.124.0/22,AdminVPS AdminVPS OOO
-211183,5.44.44.0/24,AdminVPS AdminVPS OOO
 211183,5.253.60.0/23,AdminVPS AdminVPS OOO
 211183,5.253.62.0/24,AdminVPS AdminVPS OOO
 211183,37.140.241.0/24,AdminVPS AdminVPS OOO
 211183,45.128.204.0/24,AdminVPS AdminVPS OOO
 211183,45.128.206.0/23,AdminVPS AdminVPS OOO
-211183,45.129.186.0/24,AdminVPS AdminVPS OOO
 211183,79.133.181.0/24,AdminVPS AdminVPS OOO
 211183,79.133.182.0/23,AdminVPS AdminVPS OOO
 211183,89.191.225.0/24,AdminVPS AdminVPS OOO
@@ -13236,6 +13240,7 @@ ASN,subnet,name
 211183,130.49.143.0/24,AdminVPS AdminVPS OOO
 211183,130.49.146.0/24,AdminVPS AdminVPS OOO
 211183,130.49.153.0/24,AdminVPS AdminVPS OOO
+211183,138.16.224.0/22,AdminVPS AdminVPS OOO
 211183,153.80.184.0/23,AdminVPS AdminVPS OOO
 211183,153.80.244.0/22,AdminVPS AdminVPS OOO
 211183,153.80.250.0/23,AdminVPS AdminVPS OOO
@@ -13244,6 +13249,7 @@ ASN,subnet,name
 211183,157.22.172.0/23,AdminVPS AdminVPS OOO
 211183,157.22.174.0/23,AdminVPS AdminVPS OOO
 211183,157.22.230.0/23,AdminVPS AdminVPS OOO
+211183,157.22.252.0/23,AdminVPS AdminVPS OOO
 211183,185.198.152.0/24,AdminVPS AdminVPS OOO
 211183,185.219.40.0/22,AdminVPS AdminVPS OOO
 211183,185.233.185.0/24,AdminVPS AdminVPS OOO
