@@ -3791,6 +3791,7 @@ ASN,subnet,name
 8219,45.155.6.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,62.106.76.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,77.87.124.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,80.71.154.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,89.251.160.0/20,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,91.132.216.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,91.198.175.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -3814,9 +3815,11 @@ ASN,subnet,name
 8219,185.239.128.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.239.132.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.252.60.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,188.95.71.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.3.40.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.34.128.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.47.240.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,193.135.13.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.162.130.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.163.197.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.168.188.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -3829,6 +3832,7 @@ ASN,subnet,name
 8219,193.242.99.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.242.105.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,194.127.112.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,195.18.26.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,195.191.246.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,2a11:f000::/29,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8241,95.215.176.0/21,RELLINE-AS Nets and Services JCS
@@ -3937,7 +3941,8 @@ ASN,subnet,name
 8402,213.234.192.0/18,"CORBINA-AS PJSC ""Vimpelcom"""
 8402,2a00:18c0::/32,"CORBINA-AS PJSC ""Vimpelcom"""
 8402,2a06:5300::/29,"CORBINA-AS PJSC ""Vimpelcom"""
-8410,194.0.120.0/22,"NIR-AS NovInvestRezerv, LLC"
+8410,194.0.120.0/24,"NIR-AS NovInvestRezerv, LLC"
+8410,194.0.122.0/23,"NIR-AS NovInvestRezerv, LLC"
 8410,194.55.161.0/24,"NIR-AS NovInvestRezerv, LLC"
 8410,194.55.163.0/24,"NIR-AS NovInvestRezerv, LLC"
 8410,194.55.168.0/24,"NIR-AS NovInvestRezerv, LLC"
@@ -5188,12 +5193,14 @@ ASN,subnet,name
 24955,136.169.128.0/17,"UBN-AS JSC ""Ufanet"""
 24955,145.255.0.0/19,"UBN-AS JSC ""Ufanet"""
 24955,171.25.177.0/24,"UBN-AS JSC ""Ufanet"""
+24955,176.117.0.0/21,"UBN-AS JSC ""Ufanet"""
 24955,178.214.224.0/19,"UBN-AS JSC ""Ufanet"""
 24955,185.1.0.0/24,"UBN-AS JSC ""Ufanet"""
 24955,185.44.8.0/22,"UBN-AS JSC ""Ufanet"""
 24955,185.162.32.0/22,"UBN-AS JSC ""Ufanet"""
 24955,188.191.112.0/20,"UBN-AS JSC ""Ufanet"""
 24955,193.104.64.0/24,"UBN-AS JSC ""Ufanet"""
+24955,195.191.78.0/23,"UBN-AS JSC ""Ufanet"""
 24955,213.5.104.0/21,"UBN-AS JSC ""Ufanet"""
 24955,2001:7f8:70::/48,"UBN-AS JSC ""Ufanet"""
 24955,2a02:1c8::/32,"UBN-AS JSC ""Ufanet"""
@@ -6643,10 +6650,10 @@ ASN,subnet,name
 39360,213.226.80.0/22,MOSOBLCOM-AS MOSOBLCOM LLC
 39360,2a09:4980::/32,MOSOBLCOM-AS MOSOBLCOM LLC
 39376,62.148.0.0/19,WTCMOSCOW-NET-AS PUBLIC JOINT-STOCK COMPANY WORLD TRADE CENTER MOSCOW
-39408,81.28.244.0/22,eehome Lavrentyev Alkesandr Arkadievich
-39408,185.246.180.0/22,eehome Lavrentyev Alkesandr Arkadievich
-39408,2a10:b300::/29,eehome Lavrentyev Alkesandr Arkadievich
-39408,2a10:b500::/29,eehome Lavrentyev Alkesandr Arkadievich
+39408,81.28.244.0/22,eehome Lavrentyev Aleksandr Arkadievich
+39408,185.246.180.0/22,eehome Lavrentyev Aleksandr Arkadievich
+39408,2a10:b300::/29,eehome Lavrentyev Aleksandr Arkadievich
+39408,2a10:b500::/29,eehome Lavrentyev Aleksandr Arkadievich
 39424,91.207.9.0/24,ZIBORT-AS Protocloud Plus LLC
 39434,81.24.80.0/20,Optika-Telecom Subnet LLC
 39434,81.163.32.0/19,Optika-Telecom Subnet LLC
@@ -10078,8 +10085,6 @@ ASN,subnet,name
 51229,195.200.248.0/23,UPSYSTEMS-NET Upsystems Ltd
 51230,85.159.116.0/24,Cifrabar-as Cifrabar Telekom LLC
 51230,2a0f:e340::/29,Cifrabar-as Cifrabar Telekom LLC
-51234,176.117.0.0/21,ASFIALKA Telecompany Fialka Ltd.
-51234,195.191.78.0/23,ASFIALKA Telecompany Fialka Ltd.
 51245,193.33.74.0/23,AS-CIT-RU Center of Information Technologies Ltd.
 51255,45.9.192.0/22,MTIKPRO-AS Martiushev Timofei Viktorovich
 51255,2a0e:1100::/29,MTIKPRO-AS Martiushev Timofei Viktorovich
@@ -11440,7 +11445,7 @@ ASN,subnet,name
 64492,91.207.31.0/24,PARTNERSERVICE-AS Partner-Service LLC
 196641,194.165.22.0/23,GRFC-AS Federal Unitary State Enterprise General Radio Freqency Centre
 196648,94.231.16.0/20,"YSU-AS North-Eastern Federal University n.a. M.K.Ammosov, State Federal Autonomous Educational Organisation of Higher Professional Education"
-196657,195.88.40.0/23,HIGHTECH Expressplus Ltd.
+196657,195.88.40.0/23,AS-EXPRESSPLUS Expressplus Ltd.
 196667,91.213.243.0/24,ApeksSecurity-AS Apeks Security Ltd
 196685,91.215.112.0/22,"OILTC-NET LLC ""OIL-TELECOM"""
 196686,195.88.68.0/23,COLC-AS Company Online City LLC
@@ -13298,6 +13303,7 @@ ASN,subnet,name
 211778,2a10:96c0::/29,Intarmit IntarmIT LLC
 211801,193.9.251.0/24,"sskzvezda LLC ""ZVEZDA SHIPBUILDING COMPLEX"""
 211821,193.93.60.0/24,BAKAEV-AS Individual Entrepreneur Bakaev Ivan Vladimirovich
+211821,194.0.121.0/24,BAKAEV-AS Individual Entrepreneur Bakaev Ivan Vladimirovich
 211830,185.219.4.0/24,FirstVPS-LTD RVISION Ltd.
 211830,212.108.109.0/24,FirstVPS-LTD RVISION Ltd.
 211830,2a10:df00::/29,FirstVPS-LTD RVISION Ltd.
