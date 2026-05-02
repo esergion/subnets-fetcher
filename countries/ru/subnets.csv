@@ -511,6 +511,10 @@ ASN,subnet,name
 0,130.49.215.0/24,Aleksandr Valerevich Mokhonko
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
+0,138.16.192.0/19,
+0,138.16.228.0/22,
+0,138.16.232.0/21,
+0,138.16.240.0/20,
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
 0,141.98.233.0/24,Quasar LLC
@@ -526,6 +530,7 @@ ASN,subnet,name
 0,146.19.234.0/24,Internet Technologies LLC
 0,147.78.8.0/22,OOO TeleMontag
 0,151.0.0.0/18,Vadim Druzev
+0,153.80.178.0/23,
 0,153.80.248.0/24,
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
