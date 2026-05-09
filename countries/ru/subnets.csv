@@ -511,8 +511,11 @@ ASN,subnet,name
 0,130.49.215.0/24,Aleksandr Valerevich Mokhonko
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
+0,138.16.128.0/21,
+0,138.16.136.0/23,
+0,138.16.140.0/22,
+0,138.16.144.0/20,
 0,138.16.208.0/20,
-0,138.16.228.0/22,
 0,138.16.232.0/21,
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
@@ -529,7 +532,7 @@ ASN,subnet,name
 0,146.19.234.0/24,Internet Technologies LLC
 0,147.78.8.0/22,OOO TeleMontag
 0,151.0.0.0/18,Vadim Druzev
-0,153.80.178.0/23,
+0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
 0,157.186.0.0/16,
@@ -731,7 +734,6 @@ ASN,subnet,name
 0,185.253.24.0/22,Yury Dolin
 0,185.253.32.0/22,JSC Datacenter
 0,185.255.176.0/22,LLC IT-service
-0,188.0.0.0/19,
 0,188.0.40.0/21,
 0,188.64.148.0/24,"LLC ""T1 INNOVATIONS"""
 0,188.72.76.0/23,"Mws Cloud, Limited Liability Company"
@@ -5741,9 +5743,13 @@ ASN,subnet,name
 30952,193.17.170.0/24,KIT-FINANCE-TC-AS KIT Finance (JSC)
 30953,185.177.108.0/22,PROC Niko-2001 LLC
 30953,217.117.112.0/20,PROC Niko-2001 LLC
-30960,80.76.128.0/20,"TETRA-AS OOO Scientific-Production Center ""Tetra"""
-30960,193.27.236.0/22,"TETRA-AS OOO Scientific-Production Center ""Tetra"""
-30960,193.27.240.0/23,"TETRA-AS OOO Scientific-Production Center ""Tetra"""
+30960,80.76.128.0/20,"TETRA-AS LLC SIP ""NIS"""
+30960,85.236.160.0/19,"TETRA-AS LLC SIP ""NIS"""
+30960,109.124.192.0/18,"TETRA-AS LLC SIP ""NIS"""
+30960,185.224.8.0/22,"TETRA-AS LLC SIP ""NIS"""
+30960,193.27.236.0/22,"TETRA-AS LLC SIP ""NIS"""
+30960,193.27.240.0/23,"TETRA-AS LLC SIP ""NIS"""
+30960,2a13:73c0::/29,"TETRA-AS LLC SIP ""NIS"""
 31028,46.174.80.0/21,NOVOE-KTV-AS Novoe Kabelnoe Television Ltd.
 31028,176.110.224.0/19,NOVOE-KTV-AS Novoe Kabelnoe Television Ltd.
 31028,178.213.208.0/21,NOVOE-KTV-AS Novoe Kabelnoe Television Ltd.
@@ -5909,6 +5915,7 @@ ASN,subnet,name
 31514,91.210.132.0/22,INF-NET-AS Invest Mobile LLC
 31514,91.233.88.0/24,INF-NET-AS Invest Mobile LLC
 31514,94.141.116.0/22,INF-NET-AS Invest Mobile LLC
+31514,161.104.16.0/20,INF-NET-AS Invest Mobile LLC
 31514,168.222.202.0/23,INF-NET-AS Invest Mobile LLC
 31514,193.106.68.0/22,INF-NET-AS Invest Mobile LLC
 31514,217.12.32.0/22,INF-NET-AS Invest Mobile LLC
@@ -6311,10 +6318,6 @@ ASN,subnet,name
 35026,37.139.84.0/22,GELICON-AS Gelicon-Apple Limited liability company
 35026,91.238.48.0/23,GELICON-AS Gelicon-Apple Limited liability company
 35026,2a03:cf40::/29,GELICON-AS Gelicon-Apple Limited liability company
-35032,85.236.160.0/19,"TAHIONISP-AS LLC SIP ""NIS"""
-35032,109.124.192.0/18,"TAHIONISP-AS LLC SIP ""NIS"""
-35032,185.224.8.0/22,"TAHIONISP-AS LLC SIP ""NIS"""
-35032,2a13:73c0::/29,"TAHIONISP-AS LLC SIP ""NIS"""
 35048,45.89.16.0/22,BITERIKA-AS Biterika Group LLC
 35048,45.134.180.0/22,BITERIKA-AS Biterika Group LLC
 35048,45.140.52.0/22,BITERIKA-AS Biterika Group LLC
@@ -8514,6 +8517,7 @@ ASN,subnet,name
 48282,95.142.46.0/23,VDSINA-AS Hosting technology LTD
 48282,109.172.84.0/22,VDSINA-AS Hosting technology LTD
 48282,109.172.88.0/22,VDSINA-AS Hosting technology LTD
+48282,138.16.160.0/19,VDSINA-AS Hosting technology LTD
 48282,178.20.40.0/22,VDSINA-AS Hosting technology LTD
 48282,178.20.44.0/22,VDSINA-AS Hosting technology LTD
 48282,178.130.131.0/24,VDSINA-AS Hosting technology LTD
@@ -10621,6 +10625,7 @@ ASN,subnet,name
 57250,91.236.246.0/23,RU-NET-AS Ru.Net Ltd.
 57250,193.41.203.0/24,RU-NET-AS Ru.Net Ltd.
 57250,193.242.170.0/23,RU-NET-AS Ru.Net Ltd.
+57261,188.0.0.0/19,YARTV-AS YarTV Ltd.
 57268,195.60.220.0/22,"ASZACHITAINFO FGYP ""ZachitaInfoTrans"""
 57272,85.255.184.0/21,ASORIONSKT Orion SKT LLC
 57274,91.232.126.0/24,PSCB JSC Petersburg Social Commercial Bank
@@ -11628,6 +11633,7 @@ ASN,subnet,name
 197668,91.223.244.0/24,AKO-NET Administration of the Governor and Government of the Kirov region
 197717,193.200.54.0/23,MGOK-AS JSC Mikhailovsky GOK im. A.V. Varicheva
 197718,31.41.160.0/21,Elektron-AS OOO Elektron
+197719,138.16.228.0/22,Rusich-TVN Rusich-TVN LLC
 197725,91.230.72.0/24,bashes-as Bashkirenergo LLC
 197725,185.64.52.0/22,bashes-as Bashkirenergo LLC
 197725,2a03:1260::/32,bashes-as Bashkirenergo LLC
