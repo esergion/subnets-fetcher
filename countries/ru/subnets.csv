@@ -415,7 +415,6 @@ ASN,subnet,name
 0,91.236.140.0/22,
 0,91.236.148.0/22,
 0,91.236.180.0/23,
-0,91.236.183.0/24,
 0,91.236.213.0/24,Active.domains LLC
 0,91.237.0.0/22,
 0,91.237.53.0/24,Active.domains LLC
@@ -511,7 +510,6 @@ ASN,subnet,name
 0,130.49.215.0/24,Aleksandr Valerevich Mokhonko
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
-0,138.16.132.0/22,
 0,138.16.136.0/23,
 0,138.16.144.0/20,
 0,138.16.208.0/20,
@@ -538,6 +536,7 @@ ASN,subnet,name
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
+0,161.104.88.0/21,
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -3804,6 +3803,7 @@ ASN,subnet,name
 8219,91.198.254.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,91.206.212.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,91.207.98.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,91.213.117.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,91.234.98.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,95.81.88.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,146.19.115.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -3815,6 +3815,7 @@ ASN,subnet,name
 8219,185.185.180.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.205.236.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.229.184.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,185.232.47.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.237.248.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.239.116.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,185.239.120.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -3826,6 +3827,7 @@ ASN,subnet,name
 8219,193.34.128.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.47.240.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.135.13.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,193.141.53.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.162.130.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.163.197.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.168.188.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -3840,6 +3842,7 @@ ASN,subnet,name
 8219,194.127.112.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,195.18.26.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,195.191.246.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
+8219,212.18.96.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,2a11:f000::/29,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8241,95.215.176.0/21,RELLINE-AS Nets and Services JCS
 8241,185.42.48.0/22,RELLINE-AS Nets and Services JCS
@@ -7114,7 +7117,8 @@ ASN,subnet,name
 41925,87.249.192.0/19,IZET-Chelyabinsk Limited Liability Company Izet Telecom Ural
 41925,185.141.232.0/22,IZET-Chelyabinsk Limited Liability Company Izet Telecom Ural
 41928,194.36.161.0/24,ITIS-AS Olympia Ltd
-41938,94.229.16.0/20,RTComm-Volga-Ural-AS RTK-Volga-Ural LLC
+41938,94.229.20.0/22,RTComm-Volga-Ural-AS RTK-Volga-Ural LLC
+41938,94.229.24.0/21,RTComm-Volga-Ural-AS RTK-Volga-Ural LLC
 41938,185.66.216.0/22,RTComm-Volga-Ural-AS RTK-Volga-Ural LLC
 41938,195.20.196.0/23,RTComm-Volga-Ural-AS RTK-Volga-Ural LLC
 41938,2a03:9400::/32,RTComm-Volga-Ural-AS RTK-Volga-Ural LLC
@@ -8132,6 +8136,8 @@ ASN,subnet,name
 47528,193.27.36.0/22,RU-PITER-IX-VKZ Piter-IX Co. Ltd.
 47528,2001:7f8:e6::/48,RU-PITER-IX-VKZ Piter-IX Co. Ltd.
 47528,2001:7f8:eb::/48,RU-PITER-IX-VKZ Piter-IX Co. Ltd.
+47528,2001:7f8:12c::/48,RU-PITER-IX-VKZ Piter-IX Co. Ltd.
+47528,2001:7f8:179::/48,RU-PITER-IX-VKZ Piter-IX Co. Ltd.
 47528,2a07:f5c0::/29,RU-PITER-IX-VKZ Piter-IX Co. Ltd.
 47530,62.122.48.0/21,NVTC-AS Novokuznetsk Telecom Ltd
 47530,81.162.24.0/21,NVTC-AS Novokuznetsk Telecom Ltd
@@ -10328,7 +10334,7 @@ ASN,subnet,name
 52108,194.247.54.0/24,ITC-AS Municipal Educational Establishment for Additional Professional Education of Specialists - Information Technology Center
 52118,195.20.135.0/24,GU-YAO-AS GU YaO Yaroslavl Centre for Telecommunications and Information Technologies in Education
 52131,91.221.252.0/23,CITY-AS CITY.NET LLC
-52141,195.20.140.0/24,DELRUS-AS DelRusKom LLC
+52141,195.20.140.0/24,DELRUS-AS Equiqa LLC
 52166,91.224.194.0/23,RUSAGRO-PRIMORIE Rusagro-Primorie LLC
 52194,46.173.176.0/20,IT-AS IT Ltd
 52197,91.223.37.0/24,SITC-OREL-MNT-AS Oblastnoe gosudarstvennoe uchrejdenie Centr Gosudarstvennyh Informacionnyh resursov Orlovskoy oblasti
@@ -10652,6 +10658,7 @@ ASN,subnet,name
 57334,212.59.126.0/24,"SATS-AS SPB State Unitary Enterprise ""ATS Smolnogo"""
 57339,91.231.176.0/23,TAN-AS TAN Ltd.
 57354,91.231.218.0/23,SYSTEMA-AS SYSTEMA Ltd
+57354,138.16.132.0/22,SYSTEMA-AS SYSTEMA Ltd
 57354,185.228.132.0/22,SYSTEMA-AS SYSTEMA Ltd
 57354,2a0d:1600::/32,SYSTEMA-AS SYSTEMA Ltd
 57363,91.231.234.0/23,CDNvideo-AS CDNvideo LLC
@@ -10831,7 +10838,6 @@ ASN,subnet,name
 58024,77.105.145.0/24,DZINET-AS Isaev Kamil Magomedovich
 58024,77.105.146.0/23,DZINET-AS Isaev Kamil Magomedovich
 58024,77.105.165.0/24,DZINET-AS Isaev Kamil Magomedovich
-58024,77.105.166.0/24,DZINET-AS Isaev Kamil Magomedovich
 58024,84.54.45.0/24,DZINET-AS Isaev Kamil Magomedovich
 58024,84.54.46.0/24,DZINET-AS Isaev Kamil Magomedovich
 58024,185.225.200.0/23,DZINET-AS Isaev Kamil Magomedovich
@@ -11343,6 +11349,7 @@ ASN,subnet,name
 61431,2001:67c:1494::/48,VOLS-AS TELECOMMUNICATION COMPANY KAMA - LINK LLC.
 61433,2001:67c:1480::/48,SFERANET-AS Region plus Ltd.
 61436,37.128.240.0/20,LANTA-AS INTEX ltd.
+61436,94.229.16.0/22,LANTA-AS INTEX ltd.
 61436,139.100.240.0/20,LANTA-AS INTEX ltd.
 61436,2a10:a680::/29,LANTA-AS INTEX ltd.
 61964,80.244.32.0/23,FREEDOM-AS Freedom LLC
@@ -11853,10 +11860,11 @@ ASN,subnet,name
 198481,176.122.28.0/24,Sistema-AS LLC Sistema
 198515,91.235.213.0/24,Multicom-net Multicom LLC
 198523,193.104.149.0/24,"MOEK-AS Public Joint Stock Company ""Moscow Integrated Power Company"""
-198539,185.228.112.0/22,ASUNITEDNETS Objedinennye Seti Ltd.
-198539,194.50.141.0/24,ASUNITEDNETS Objedinennye Seti Ltd.
-198539,194.50.142.0/23,ASUNITEDNETS Objedinennye Seti Ltd.
-198539,2a0d:e00::/29,ASUNITEDNETS Objedinennye Seti Ltd.
+198539,77.105.166.0/24,ASUNITEDNETS Objedinennye Seti LLC
+198539,185.228.112.0/22,ASUNITEDNETS Objedinennye Seti LLC
+198539,194.50.141.0/24,ASUNITEDNETS Objedinennye Seti LLC
+198539,194.50.142.0/23,ASUNITEDNETS Objedinennye Seti LLC
+198539,2a0d:e00::/29,ASUNITEDNETS Objedinennye Seti LLC
 198544,194.1.202.0/24,"UXM-AS OJSC ""UralKhimMash"""
 198546,91.236.14.0/23,DomMedia-AS Nenyus Dmitry Vladasovich
 198563,176.111.8.0/21,ASPASSIMSERVIS Passim-Servis Ltd.
@@ -12263,6 +12271,7 @@ ASN,subnet,name
 200350,111.88.144.0/20,YandexCloud Yandex.Cloud LLC
 200350,111.88.240.0/20,YandexCloud Yandex.Cloud LLC
 200350,130.193.32.0/19,YandexCloud Yandex.Cloud LLC
+200350,153.51.32.0/19,YandexCloud Yandex.Cloud LLC
 200350,158.160.0.0/16,YandexCloud Yandex.Cloud LLC
 200350,178.154.192.0/18,YandexCloud Yandex.Cloud LLC
 200350,178.170.222.0/24,YandexCloud Yandex.Cloud LLC
