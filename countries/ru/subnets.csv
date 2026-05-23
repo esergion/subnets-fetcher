@@ -511,7 +511,7 @@ ASN,subnet,name
 0,138.16.137.0/24,
 0,138.16.144.0/20,
 0,138.16.208.0/20,
-0,138.16.232.0/22,
+0,138.16.234.0/23,
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
 0,141.98.233.0/24,Quasar LLC
@@ -4916,7 +4916,6 @@ ASN,subnet,name
 20483,217.150.16.0/20,EUROCOM EUROCOM Ltd.
 20483,2a07:5880::/29,EUROCOM EUROCOM Ltd.
 20499,193.178.158.0/23,IPC-AS IP Connect LLC
-20499,193.201.118.0/23,IPC-AS IP Connect LLC
 20576,5.226.152.0/21,GAZSVYAZ Gazprom telecom LLC
 20576,31.186.56.0/21,GAZSVYAZ Gazprom telecom LLC
 20576,80.247.112.0/20,GAZSVYAZ Gazprom telecom LLC
@@ -9832,6 +9831,7 @@ ASN,subnet,name
 50241,194.125.236.0/22,UNITTEL-AS Unittel Ltd
 50241,2001:678:614::/48,UNITTEL-AS Unittel Ltd
 50248,193.104.195.0/24,VVO-AS Vladivostok international airport JSC
+50257,138.16.232.0/23,AMOBILE-AS JV A-Mobile Ltd.
 50257,185.10.172.0/22,AMOBILE-AS JV A-Mobile Ltd.
 50257,185.99.4.0/22,AMOBILE-AS JV A-Mobile Ltd.
 50257,195.191.4.0/23,AMOBILE-AS JV A-Mobile Ltd.
@@ -10378,6 +10378,7 @@ ASN,subnet,name
 56390,2001:67c:2bf0::/48,KEMOMS-AS TFOMS Kemerovskoy oblasti - Kuzbassa
 56392,91.224.136.0/23,ATK-AS Adygei Telephone Company JSC
 56394,185.31.201.0/24,"itsystems OOO ""IT-Systems"""
+56394,2a07:fb80::/29,"itsystems OOO ""IT-Systems"""
 56407,188.190.128.0/19,ASZHIGULI-NET Zhigulevsk Cable Network LLC
 56409,91.223.128.0/24,KALUGA-ORG-AS IT Ltd.
 56409,2001:67c:16f0::/48,KALUGA-ORG-AS IT Ltd.
@@ -11601,7 +11602,7 @@ ASN,subnet,name
 197315,195.162.78.0/23,ASRPK Rostovskaya proizvodstvennaya kompaniya Ltd.
 197349,217.78.224.0/22,IDALGO-TELECOM Ltd Novorossiysk Telecom Company
 197349,2a03:29e0::/32,IDALGO-TELECOM Ltd Novorossiysk Telecom Company
-197356,138.16.136.0/24,
+197356,138.16.136.0/24,PROMARK-AS PROMARK LLC
 197366,91.199.174.0/24,PT-AS OOO Parma-Telecom
 197379,91.217.227.0/24,INVITRO-AS INVITRO-Information technology LLC
 197379,2001:678:b3c::/48,INVITRO-AS INVITRO-Information technology LLC
@@ -13438,6 +13439,7 @@ ASN,subnet,name
 214066,193.105.175.0/24,Tatspirtprom-AS Tatspirtprom JSC
 214081,193.105.92.0/24,KOSHELNIK Koshelnik Sergey Valentinovich
 214091,83.143.154.0/23,"NordCom LLC ""Nord.Com"""
+214091,193.201.118.0/23,"NordCom LLC ""Nord.Com"""
 214126,194.117.70.0/24,T-Systems T-systems Limited Liability Company
 214126,217.78.232.0/24,T-Systems T-systems Limited Liability Company
 214126,2a01:e1c0::/29,T-Systems T-systems Limited Liability Company
