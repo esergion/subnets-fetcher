@@ -1571,9 +1571,9 @@ ASN,subnet,name
 2599,89.112.0.0/15,"PJSC ""Vimpelcom"""
 2599,89.188.224.0/19,"PJSC ""Vimpelcom"""
 2599,89.189.0.0/19,"PJSC ""Vimpelcom"""
-2599,91.193.176.0/22,
-2599,91.211.76.0/22,
-2599,91.228.177.0/24,
+2599,91.193.176.0/22,"PJSC ""Vimpelcom"""
+2599,91.211.76.0/22,"PJSC ""Vimpelcom"""
+2599,91.228.177.0/24,"PJSC ""Vimpelcom"""
 2599,92.242.64.0/19,"PJSC ""Vimpelcom"""
 2599,93.88.0.0/20,"PJSC ""Vimpelcom"""
 2599,93.92.176.0/21,"PJSC ""Vimpelcom"""
@@ -1583,7 +1583,7 @@ ASN,subnet,name
 2599,109.71.200.0/21,"PJSC ""Vimpelcom"""
 2599,109.105.160.0/19,"PJSC ""Vimpelcom"""
 2599,109.109.208.0/20,"PJSC ""Vimpelcom"""
-2599,109.197.200.0/21,
+2599,109.197.200.0/21,"PJSC ""Vimpelcom"""
 2599,149.62.0.0/19,"PJSC ""Vimpelcom"""
 2599,178.23.0.0/21,"PJSC ""Vimpelcom"""
 2599,185.13.136.0/22,"PJSC ""Vimpelcom"""
@@ -1592,7 +1592,7 @@ ASN,subnet,name
 2599,188.65.240.0/21,"PJSC ""Vimpelcom"""
 2599,188.66.32.0/21,"PJSC ""Vimpelcom"""
 2599,188.122.160.0/19,"PJSC ""Vimpelcom"""
-2599,193.160.158.0/24,
+2599,193.160.158.0/24,"PJSC ""Vimpelcom"""
 2599,194.67.0.0/18,"PJSC ""Vimpelcom"""
 2599,194.154.64.0/19,"PJSC ""Vimpelcom"""
 2599,194.186.0.0/16,"PJSC ""Vimpelcom"""
