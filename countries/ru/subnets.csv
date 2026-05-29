@@ -107,6 +107,7 @@ ASN,subnet,name
 0,46.150.160.0/19,
 0,46.151.240.0/21,
 0,46.172.192.0/19,
+0,46.173.22.0/23,
 0,46.173.208.0/20,
 0,46.175.208.0/20,
 0,46.235.48.0/21,"""AMTEL-SVYAZ"" JSC"
@@ -509,7 +510,6 @@ ASN,subnet,name
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
 0,138.16.144.0/20,
-0,138.16.208.0/20,
 0,138.16.234.0/23,
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
@@ -1497,7 +1497,6 @@ ASN,subnet,name
 0,2a13:3880::/29,Mikhail Tonkonog
 0,2a13:3b80::/29,Mikhail Tonkonog
 0,2a13:3c80::/29,Mikhail Tonkonog
-0,2a13:42c0::/29,"JSC ""Tander"""
 0,2a13:43c0::/29,SIMPLE CODE LLC
 0,2a13:4fc0::/29,Mikhail Tonkonog
 0,2a13:6e40::/29,Mikhail Tonkonog
@@ -10332,7 +10331,7 @@ ASN,subnet,name
 52104,185.54.48.0/22,runexis-as INTERNOD LLC
 52104,2a04:cfc0::/29,runexis-as INTERNOD LLC
 52108,194.247.54.0/24,ITC-AS Municipal Educational Establishment for Additional Professional Education of Specialists - Information Technology Center
-52118,195.20.135.0/24,GU-YAO-AS GU YaO Yaroslavl Centre for Telecommunications and Information Technologies in Education
+52118,195.20.135.0/24,"GU-YAO-AS State Autonomous Institution of Additional Professional Education of the Yaroslavl Region ""Institute for Education Development"""
 52131,91.221.252.0/23,CITY-AS CITY.NET LLC
 52141,195.20.140.0/24,DELRUS-AS Equiqa LLC
 52166,91.224.194.0/23,RUSAGRO-PRIMORIE Rusagro-Primorie LLC
@@ -10644,7 +10643,6 @@ ASN,subnet,name
 57312,91.231.112.0/23,ESOFT-AS E.Soft Ltd.
 57314,91.221.188.0/24,PKI-AS PKI LLC
 57314,109.207.166.0/24,PKI-AS PKI LLC
-57319,46.173.22.0/23,"TANDER-AS JSC ""Tander"""
 57319,193.19.168.0/22,"TANDER-AS JSC ""Tander"""
 57319,2001:678:4ac::/48,"TANDER-AS JSC ""Tander"""
 57323,91.231.128.0/22,"ASKUBANOPTPRODTORG CJSC ""Kubanoptprodtorg"""
@@ -11246,6 +11244,7 @@ ASN,subnet,name
 60651,185.27.192.0/22,Stek-Kazan Stek Kazan LLC
 60651,213.159.200.0/21,Stek-Kazan Stek Kazan LLC
 60651,2a00:97a0::/32,Stek-Kazan Stek Kazan LLC
+60691,2a13:42c0::/29,"TANDER-AS-M JSC ""Tander"""
 60720,185.26.192.0/22,POLYCOMM-AS Telenet Solution Ltd
 60720,185.116.200.0/22,POLYCOMM-AS Telenet Solution Ltd
 60720,2a00:8d60::/32,POLYCOMM-AS Telenet Solution Ltd
@@ -12794,6 +12793,7 @@ ASN,subnet,name
 206805,80.85.248.0/21,"T1CLOUD-AS LLC ""T1Cloud"""
 206805,130.49.132.0/22,"T1CLOUD-AS LLC ""T1Cloud"""
 206805,130.49.136.0/22,"T1CLOUD-AS LLC ""T1Cloud"""
+206805,138.16.208.0/20,"T1CLOUD-AS LLC ""T1Cloud"""
 206805,176.119.0.0/21,"T1CLOUD-AS LLC ""T1Cloud"""
 206805,178.159.32.0/23,"T1CLOUD-AS LLC ""T1Cloud"""
 206805,185.159.111.0/24,"T1CLOUD-AS LLC ""T1Cloud"""
