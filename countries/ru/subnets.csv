@@ -537,7 +537,6 @@ ASN,subnet,name
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,161.104.88.0/22,"LLC ""ESCROW TELECOM"""
 0,161.104.92.0/23,
-0,161.104.94.0/23,"LLC ""ESCROW TELECOM"""
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -13187,6 +13186,7 @@ ASN,subnet,name
 210682,91.236.29.0/24,A3PAY-AS PAYMENT SERVICE A3 LLC
 210682,2a13:2500::/29,A3PAY-AS PAYMENT SERVICE A3 LLC
 210685,91.217.163.0/24,netlease1 Netlease JSC
+210739,161.104.94.0/23,neolinkgroup Neolink Grupp LLC
 210739,213.5.135.0/24,neolinkgroup Neolink Grupp LLC
 210753,45.155.60.0/24,ru-tildapublishing-1 Tilda Publishing JSC
 210753,176.57.64.0/22,ru-tildapublishing-1 Tilda Publishing JSC
