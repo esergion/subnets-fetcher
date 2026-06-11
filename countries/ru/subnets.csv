@@ -183,7 +183,6 @@ ASN,subnet,name
 0,87.236.86.0/24,Cifrovoy svod LLC
 0,87.239.24.0/21,
 0,87.239.144.0/21,
-0,87.247.132.0/22,Alexey Andreevich Shantora
 0,87.251.64.0/20,Aleksandr Valerevich Mokhonko
 0,87.251.84.0/22,Aleksandr Valerevich Mokhonko
 0,87.251.88.0/23,Aleksandr Valerevich Mokhonko
@@ -1109,7 +1108,6 @@ ASN,subnet,name
 0,2a02:43c0::/32,Technosoft LLC
 0,2a02:d0c0::/29,Transit Telecom LLC
 0,2a02:e620::/30,Internet-Hosting Ltd
-0,2a02:e700::/32,Alexey Andreevich Shantora
 0,2a02:ec40::/29,Transit Telecom LLC
 0,2a03:e20::/32,JSC Datacenter
 0,2a03:2140::/32,VMLAB LLC
@@ -1160,6 +1158,7 @@ ASN,subnet,name
 0,2a07:f340::/29,Medvedev Vladislav Olegovich
 0,2a07:f480::/29,Virtal LLC
 0,2a07:fcc0::/29,Helou LLC
+0,2a09:bc0::/29,Telekom.ru LLC
 0,2a09:c80::/29,OOO Optimaset
 0,2a09:1180::/29,i7 LLC
 0,2a09:1a40::/29,OOO TeleMontag
@@ -8515,7 +8514,8 @@ ASN,subnet,name
 48241,91.233.88.0/24,TTECH-AS Invest Mobile LLC
 48241,94.141.116.0/22,TTECH-AS Invest Mobile LLC
 48241,161.104.20.0/22,TTECH-AS Invest Mobile LLC
-48241,161.104.24.0/21,TTECH-AS Invest Mobile LLC
+48241,161.104.24.0/22,TTECH-AS Invest Mobile LLC
+48241,161.104.28.0/22,TTECH-AS Invest Mobile LLC
 48241,193.106.68.0/22,TTECH-AS Invest Mobile LLC
 48241,217.12.32.0/22,TTECH-AS Invest Mobile LLC
 48241,217.12.36.0/24,TTECH-AS Invest Mobile LLC
@@ -13590,4 +13590,6 @@ ASN,subnet,name
 216341,2a14:b280::/29,OPTIMA-AS OPTIMA LLC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+219477,87.247.132.0/22,Alexey Andreevich Shantora
+219477,2a02:e700::/32,Alexey Andreevich Shantora
 219516,2a02:fd40::/29,"Limited Liability Company ""IZI"""
