@@ -12281,6 +12281,7 @@ ASN,subnet,name
 200293,2a12:d780::/29,estelecom ES TELECOM LLC
 200302,94.242.0.0/19,fnc-as VISP LLC
 200302,94.242.32.0/20,fnc-as VISP LLC
+200302,195.140.216.0/24,fnc-as VISP LLC
 200302,2a00:1838::/32,fnc-as VISP LLC
 200340,84.38.3.0/24,"skmiac Gbuz Sk ""Meditsinskiy Informatsionno-Analiticheskiy Tsentr"""
 200350,31.44.8.0/21,YandexCloud Yandex.Cloud LLC
