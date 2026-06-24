@@ -3050,10 +3050,6 @@ ASN,subnet,name
 5589,195.250.51.0/24,"OPEN-FC-1-AS JSC ""BM-Bank"""
 5589,2a0a:d0c0::/32,"OPEN-FC-1-AS JSC ""BM-Bank"""
 5598,176.101.96.0/19,NETLUX-AS Anton Bobrovnikov
-6662,5.159.96.0/22,"RU-KTS-AS ""Krasnoyarsk network"" Ltd."
-6662,5.159.104.0/21,"RU-KTS-AS ""Krasnoyarsk network"" Ltd."
-6662,2a04:8ea0::/29,"RU-KTS-AS ""Krasnoyarsk network"" Ltd."
-6662,2a09:4140::/29,"RU-KTS-AS ""Krasnoyarsk network"" Ltd."
 6672,37.202.8.0/21,ASRELCOMSPB LIMITED LIABILITY COMPANY RELCOM-SPB
 6672,212.113.96.0/19,ASRELCOMSPB LIMITED LIABILITY COMPANY RELCOM-SPB
 6672,2a02:9d8::/32,ASRELCOMSPB LIMITED LIABILITY COMPANY RELCOM-SPB
@@ -10863,6 +10859,10 @@ ASN,subnet,name
 57923,91.236.124.0/24,DYMOV-AS Dymovskoe sausage production Ltd.
 57940,91.236.164.0/22,"SVIAZSTROY-AS2 ""Sviaz-Stroy"" LLC"
 57947,91.236.200.0/24,BUSINESS-IT-NET Business IT Ltd.
+57952,5.159.96.0/22,"ASEXE24 ""Krasnoyarsk network"" Ltd."
+57952,5.159.104.0/21,"ASEXE24 ""Krasnoyarsk network"" Ltd."
+57952,2a04:8ea0::/29,"ASEXE24 ""Krasnoyarsk network"" Ltd."
+57952,2a09:4140::/29,"ASEXE24 ""Krasnoyarsk network"" Ltd."
 57953,91.237.32.0/24,"GRIDCOM-RT-AS JSC ""Grid Company"""
 57988,91.237.54.0/23,Foton-AS Foton Company Ltd
 57988,176.111.248.0/21,Foton-AS Foton Company Ltd
