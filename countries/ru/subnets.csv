@@ -539,7 +539,7 @@ ASN,subnet,name
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
-0,161.104.92.0/23,
+0,161.104.92.0/23,"LLC ""ESCROW TELECOM"""
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -1128,15 +1128,12 @@ ASN,subnet,name
 0,2a04:6e40::/29,Mikhail Tonkonog
 0,2a04:8a00::/29,Company Skala LLC
 0,2a04:a5c0::/29,Mikhail Tonkonog
-0,2a04:b100::/29,Svyazstroi LLC
 0,2a04:c480::/29,New Communication Technologies LLC
 0,2a04:e640::/29,New Communication Technologies LLC
 0,2a04:fa00::/29,Auction LLC
 0,2a05:540::/29,"LLC ""Internet Tehnologii"""
 0,2a05:b80::/29,LLC IT BASIS
 0,2a05:1e40::/29,Auction LLC
-0,2a05:3180::/29,OOO Trivon Networks
-0,2a05:54c0::/29,Touroperator INTOURIST LLC
 0,2a05:5940::/29,Internet Hosting LLC
 0,2a05:6840::/29,ANTARES LLC
 0,2a05:8e80::/29,Alex Group LLC
@@ -1239,7 +1236,6 @@ ASN,subnet,name
 0,2a0c:9480::/29,Auction LLC
 0,2a0c:b980::/29,"Mws Cloud, Limited Liability Company"
 0,2a0c:c580::/29,TK Rustelekom LLC
-0,2a0c:cec0::/29,Touroperator INTOURIST LLC
 0,2a0c:d800::/29,"LLC ""AUTOMATIC GATE - 2000"""
 0,2a0c:f280::/29,Anton Rashitovich Khalikov
 0,2a0d:6c0::/29,Aleksandr Valerevich Mokhonko
@@ -12453,7 +12449,6 @@ ASN,subnet,name
 201511,2a10:6bc0::/32,STARLINE ScPA Starline LLC
 201556,185.46.48.0/22,VIDEOLINE Videoline LLC
 201556,2a01:8260::/32,VIDEOLINE Videoline LLC
-201570,2a01:4460::/32,MTVS-AS LLC Mobile Television Systems
 201606,185.69.80.0/22,"RAMAX-AS LLC ""AFLT-SYSTEMS"""
 201606,2a03:2fe0::/32,"RAMAX-AS LLC ""AFLT-SYSTEMS"""
 201643,185.68.100.0/22,EGOV66-AS GBU SO Operator of Electronic Government
@@ -12961,8 +12956,6 @@ ASN,subnet,name
 208221,45.153.12.0/22,ORIONNET-BRK Orion telecom ltd
 208221,2a0f:8b00::/29,ORIONNET-BRK Orion telecom ltd
 208274,91.213.249.0/24,NETUP-AS NetUP LLC
-208312,83.97.73.0/24,redbytes Red Byte LLC
-208312,2a12:80c0::/29,redbytes Red Byte LLC
 208349,5.35.120.0/22,O2CLOUDRU O2 Cloud LLC
 208349,31.10.6.0/23,O2CLOUDRU O2 Cloud LLC
 208349,45.134.124.0/22,O2CLOUDRU O2 Cloud LLC
@@ -13372,7 +13365,6 @@ ASN,subnet,name
 211508,195.182.32.0/24,"DOS Educational Fund ""Talent and success"""
 211508,2a10:cfc0::/29,"DOS Educational Fund ""Talent and success"""
 211529,2001:67c:14ac::/48,"O-TEPLOSET Odintsovskaya teploset, JSC"
-211578,217.78.229.0/24,GameService-AS GameService LLC
 211609,31.132.32.0/22,OKKO-AS OKKO LLC
 211609,80.94.84.0/22,OKKO-AS OKKO LLC
 211609,178.18.217.0/24,OKKO-AS OKKO LLC
@@ -13385,7 +13377,6 @@ ASN,subnet,name
 211625,185.75.4.0/22,FiveCOM LTD 5COM
 211625,185.235.9.0/24,FiveCOM LTD 5COM
 211625,2a10:b7c0::/29,FiveCOM LTD 5COM
-211659,2a14:b780::/29,STIMUL-AS Stimul LLC
 211663,37.72.140.0/24,GALEON-AS GALEON LLC
 211663,2a14:b480::/29,GALEON-AS GALEON LLC
 211724,91.237.163.0/24,Systematica Systematica LLC
@@ -13468,7 +13459,6 @@ ASN,subnet,name
 212787,193.238.116.0/24,KONTi-AS KONTI-RUS JSC
 212863,193.238.117.0/24,BITELECOM BI TELECOM LLC
 212964,83.242.103.0/24,"TEKSPB-AS Joint-Stock Company ""Fuel and Energy Complex of St. Petersburg"""
-213021,2a14:b380::/29,PRIME-AS Prime LLC
 213067,2001:678:dbc::/48,TCSP-AS Joint stock company Tuapse Commercial Sea Port
 213381,195.206.237.0/24,PANDORATRADE-AS Pandora Trade LLC
 213381,2a10:2840::/29,PANDORATRADE-AS Pandora Trade LLC
@@ -13575,7 +13565,6 @@ ASN,subnet,name
 215895,195.211.43.0/24,RU_ZIBEN Ziben Group LLC
 215895,213.134.6.0/24,RU_ZIBEN Ziben Group LLC
 215948,2001:67c:5ac::/48,STAVCOM LLC STAVCOM
-216057,2a0e:4380::/29,mycheap Artem Filippov
 216109,2001:67c:2624::/48,"UG-as LLC ""UnityGroup"""
 216140,5.42.215.0/24,SPLF Join Stock Company Serenity Platforms
 216140,81.200.124.0/23,SPLF Join Stock Company Serenity Platforms
@@ -13590,7 +13579,6 @@ ASN,subnet,name
 216322,178.130.16.0/21,Atomdata-inn-AS Atomdata-Innopolis JSC
 216322,185.238.138.0/24,Atomdata-inn-AS Atomdata-Innopolis JSC
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
-216341,2a14:b280::/29,OPTIMA-AS OPTIMA LLC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
 219477,87.247.132.0/22,Alexey Andreevich Shantora
