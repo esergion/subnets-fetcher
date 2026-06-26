@@ -539,7 +539,6 @@ ASN,subnet,name
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
-0,161.104.92.0/23,"LLC ""ESCROW TELECOM"""
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -3984,11 +3983,13 @@ ASN,subnet,name
 8470,2a04:d900::/29,MAcomnet JSC Macomnet
 8484,193.32.60.0/22,NCLOUDTECH-AS Novye oblachnye technologii LLC
 8484,2001:67c:2a60::/48,NCLOUDTECH-AS Novye oblachnye technologii LLC
+8491,37.60.176.0/21,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8491,81.95.32.0/20,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8491,82.194.224.0/19,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8491,87.238.96.0/21,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8491,89.188.160.0/19,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8491,185.211.240.0/22,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
+8491,185.220.40.0/22,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8491,2a03:8640::/29,BSH-AS Scientific-Production Enterprise Business Sviaz Holding LLC
 8496,91.230.210.0/23,RU-OPTIBIT Optizon Ltd
 8496,185.1.81.0/24,RU-OPTIBIT Optizon Ltd
@@ -4886,8 +4887,6 @@ ASN,subnet,name
 16020,2a03:af60::/32,TASCOM PJSC Moscow city telephone network
 16020,2a03:d700::/32,TASCOM PJSC Moscow city telephone network
 16020,2a04:7240::/29,TASCOM PJSC Moscow city telephone network
-16047,37.60.176.0/21,YAR-TT-AS Limited Liability Company YarTranzitTelecom
-16047,185.220.40.0/22,YAR-TT-AS Limited Liability Company YarTranzitTelecom
 16083,81.16.208.0/22,"STACK-AS StackNet Service, LLC"
 16083,91.106.112.0/21,"STACK-AS StackNet Service, LLC"
 16083,178.209.192.0/19,"STACK-AS StackNet Service, LLC"
@@ -12682,6 +12681,7 @@ ASN,subnet,name
 204272,45.155.144.0/22,ASARTA-SPB-AS ASARTA LLC
 204272,185.108.208.0/22,ASARTA-SPB-AS ASARTA LLC
 204272,2a05:4100::/29,ASARTA-SPB-AS ASARTA LLC
+204276,161.104.92.0/23,Eutelsat Eutelsat Networks LLC
 204276,185.108.192.0/22,Eutelsat Eutelsat Networks LLC
 204276,185.200.160.0/22,Eutelsat Eutelsat Networks LLC
 204276,2a06:4c40::/29,Eutelsat Eutelsat Networks LLC
@@ -13354,8 +13354,6 @@ ASN,subnet,name
 211185,2001:678:f6c::/48,RUSCHEMALLIANCE-AS RusChemAlliance LLC
 211247,193.17.213.0/24,"heyling Heyling, LLC"
 211362,2001:678:f38::/48,KINOAFISHA-AS Traffic Ltd
-211400,193.36.91.0/24,MONOPOLY JSC MONOPOLY
-211400,2a04:4e80::/29,MONOPOLY JSC MONOPOLY
 211404,185.253.55.0/24,RG-AS Tetron LTD
 211404,213.5.75.0/24,RG-AS Tetron LTD
 211404,2a10:b840::/29,RG-AS Tetron LTD
