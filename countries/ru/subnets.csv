@@ -542,6 +542,10 @@ ASN,subnet,name
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
+0,168.113.232.0/21,
+0,168.113.240.0/21,
+0,168.113.248.0/22,
+0,168.113.252.0/22,
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -7716,7 +7720,10 @@ ASN,subnet,name
 43740,185.179.224.0/22,ZTK-AS Secure Telecommunication LLC
 43740,194.140.247.0/24,ZTK-AS Secure Telecommunication LLC
 43740,2a05:2940::/29,ZTK-AS Secure Telecommunication LLC
+43741,37.153.0.0/18,SITIRIT-AS Sitirit-Telecom Ltd.
+43741,37.153.64.0/21,SITIRIT-AS Sitirit-Telecom Ltd.
 43741,193.0.130.0/23,SITIRIT-AS Sitirit-Telecom Ltd.
+43741,2a0e:ba00::/29,SITIRIT-AS Sitirit-Telecom Ltd.
 43761,79.170.24.0/21,SVSERV-AS SvyazService Ltd
 43761,109.235.24.0/21,SVSERV-AS SvyazService Ltd
 43776,91.200.28.0/22,RELSOFTCOM-NET Relsoft communications Ltd.
@@ -11546,9 +11553,6 @@ ASN,subnet,name
 196742,158.255.48.0/21,EKRAN-AS LLC Ekran
 196742,185.17.128.0/22,EKRAN-AS LLC Ekran
 196742,2a00:7ac0::/32,EKRAN-AS LLC Ekran
-196750,37.153.0.0/18,SETI-WEBA SETI WEBA LTD
-196750,37.153.64.0/21,SETI-WEBA SETI WEBA LTD
-196750,2a0e:ba00::/29,SETI-WEBA SETI WEBA LTD
 196754,195.88.248.0/23,"Grant-Telecom-SPB-AS JSC ""Grant-Telecom"""
 196764,194.242.30.0/23,RFI-MNR RFI Minprirody Rossii FBGU
 196767,91.214.48.0/22,INMART1-AS INMART.UA LLC
@@ -13580,6 +13584,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+219221,2a09:cf40::/29,ITSystem LLC
 219477,87.247.132.0/22,Alexey Andreevich Shantora
 219477,2a02:e700::/32,Alexey Andreevich Shantora
 219516,2a02:fd40::/29,"Limited Liability Company ""IZI"""
