@@ -876,7 +876,6 @@ ASN,subnet,name
 0,194.5.95.0/24,Quasar LLC
 0,194.11.29.0/24,
 0,194.15.126.0/23,
-0,194.24.172.0/24,
 0,194.26.207.0/24,Internet Technologies LLC
 0,194.28.28.0/22,
 0,194.28.72.0/22,
@@ -11266,7 +11265,8 @@ ASN,subnet,name
 60553,91.227.54.0/24,RIGLA-MO-AS Rigla-MO LLC
 60554,192.166.116.0/22,MEGIONLINK-AS LLC Megion-Link
 60561,188.64.137.0/24,MONUMENT-A-AS Monument-A LLC
-60561,2a11:1040::/29,MONUMENT-A-AS Monument-A LLC
+60561,194.24.172.0/24,MONUMENT-A-AS Monument-A LLC
+60561,2a09:cf40::/29,MONUMENT-A-AS Monument-A LLC
 60569,93.158.240.0/20,ARD-Teleport ARD Teleport LTD.
 60569,185.29.56.0/22,ARD-Teleport ARD Teleport LTD.
 60569,2a00:aae0::/32,ARD-Teleport ARD Teleport LTD.
@@ -12321,7 +12321,9 @@ ASN,subnet,name
 200350,111.88.240.0/20,YandexCloud Yandex.Cloud LLC
 200350,130.193.32.0/19,YandexCloud Yandex.Cloud LLC
 200350,153.51.32.0/19,YandexCloud Yandex.Cloud LLC
+200350,153.51.64.0/19,YandexCloud Yandex.Cloud LLC
 200350,153.51.96.0/19,YandexCloud Yandex.Cloud LLC
+200350,153.51.160.0/19,YandexCloud Yandex.Cloud LLC
 200350,158.160.0.0/16,YandexCloud Yandex.Cloud LLC
 200350,178.154.192.0/18,YandexCloud Yandex.Cloud LLC
 200350,178.170.222.0/24,YandexCloud Yandex.Cloud LLC
@@ -13588,7 +13590,6 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
-219221,2a09:cf40::/29,ITSystem LLC
 219477,87.247.132.0/22,Alexey Andreevich Shantora
 219477,2a02:e700::/32,Alexey Andreevich Shantora
 219516,2a02:fd40::/29,"Limited Liability Company ""IZI"""
