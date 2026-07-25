@@ -123,6 +123,7 @@ ASN,subnet,name
 0,77.83.152.0/22,HiLink LLC
 0,77.87.100.0/22,
 0,77.87.208.0/21,
+0,77.105.146.0/23,"OOO ""MIR"""
 0,77.232.128.0/19,Viktoriya Alekseevna Golovina
 0,77.246.144.0/21,E-Planet Ltd.
 0,77.246.156.0/22,JSC Datacenter
@@ -691,6 +692,7 @@ ASN,subnet,name
 0,185.144.28.0/22,PDK LLC
 0,185.146.156.0/22,JSC Datacenter
 0,185.148.104.0/22,IP Khnykin Vitaliy Yakovlevich
+0,185.149.144.0/22,"OOO ""MIR"""
 0,185.153.92.0/22,Anton Rashitovich Khalikov
 0,185.154.52.0/22,McHost LLC
 0,185.154.120.0/22,INEWS LLC
@@ -727,6 +729,7 @@ ASN,subnet,name
 0,185.217.7.0/24,SIMPLE CODE LLC
 0,185.221.152.0/22,Internet-Hosting Ltd
 0,185.221.196.0/22,Yury Dolin
+0,185.225.200.0/23,"OOO ""MIR"""
 0,185.228.232.0/22,Mikhail Tonkonog
 0,185.230.190.0/23,Mikhail Tonkonog
 0,185.231.48.0/22,Internet Projects JSC
@@ -847,7 +850,6 @@ ASN,subnet,name
 0,193.178.158.0/23,Mikhail Tonkonog
 0,193.178.215.0/24,Navant LLC
 0,193.186.14.0/24,DiMachine Limited
-0,193.187.82.0/23,
 0,193.187.156.0/22,OOO Optimaset
 0,193.200.12.0/23,VVT LLC
 0,193.200.183.0/24,
@@ -10873,11 +10875,9 @@ ASN,subnet,name
 58009,91.237.213.0/24,ENERGODATA-AS CONSYST LLC
 58020,193.28.46.0/24,TERSYS-AS TERSYS COMPANY LLC
 58024,77.105.145.0/24,DZINET-AS Isaev Kamil Magomedovich
-58024,77.105.146.0/23,DZINET-AS Isaev Kamil Magomedovich
 58024,77.105.165.0/24,DZINET-AS Isaev Kamil Magomedovich
 58024,84.54.45.0/24,DZINET-AS Isaev Kamil Magomedovich
 58024,84.54.46.0/24,DZINET-AS Isaev Kamil Magomedovich
-58024,185.225.200.0/23,DZINET-AS Isaev Kamil Magomedovich
 58024,2a09:1280::/29,DZINET-AS Isaev Kamil Magomedovich
 58027,192.94.233.0/24,XYLONET-AS PE Korobeynikov Sergey Nikolaevich
 58027,2001:67c:1b00::/48,XYLONET-AS PE Korobeynikov Sergey Nikolaevich
@@ -11134,6 +11134,7 @@ ASN,subnet,name
 59534,2a09:d100::/29,NAVIGATOR-MUROM-AS Navigator Limited Liability Company
 59537,95.215.240.0/22,ASLIDERTELECOM Eroshenko Aleksey Borisovich
 59541,91.221.68.0/24,"Techcor-AS Limited Liability Company ""Technology Corporation"""
+59549,193.187.82.0/23,ASVIKINGSERVIS IMPULS-TV Ltd.
 59557,91.221.108.0/23,ASSTATUSTELECOM Status Telecom Ltd.
 59558,195.10.214.0/24,RCP-AS RC Prikamya Ltd.
 59559,193.151.192.0/19,ASGREENLINE Elektronnyj Yugansk Ltd
