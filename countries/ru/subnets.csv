@@ -1222,6 +1222,7 @@ ASN,subnet,name
 0,2a0a:f580::/29,LIR LLC
 0,2a0b:1580::/29,"LLC ""Internet Tehnologii"""
 0,2a0b:4bc0::/29,VVT LLC
+0,2a0b:4ec0::/29,Ilia Baikov
 0,2a0b:7a80::/29,Telenet LLC
 0,2a0b:8fc0::/29,Account Style SPB LTD
 0,2a0b:9000::/29,Auction LLC
@@ -4915,8 +4916,81 @@ ASN,subnet,name
 16262,94.199.4.0/24,DATACHEAP-LLC-AS Datacheap LLC
 16262,194.61.25.0/24,DATACHEAP-LLC-AS Datacheap LLC
 16262,2a13:3d80::/29,DATACHEAP-LLC-AS Datacheap LLC
+16321,5.8.0.0/20,AICONET-AS Aiconet Ltd.
+16321,5.8.16.0/21,AICONET-AS Aiconet Ltd.
+16321,5.8.44.0/22,AICONET-AS Aiconet Ltd.
+16321,5.8.48.0/20,AICONET-AS Aiconet Ltd.
+16321,5.8.64.0/22,AICONET-AS Aiconet Ltd.
+16321,5.8.80.0/21,AICONET-AS Aiconet Ltd.
+16321,5.8.88.0/22,AICONET-AS Aiconet Ltd.
+16321,5.101.0.0/21,AICONET-AS Aiconet Ltd.
+16321,5.101.32.0/22,AICONET-AS Aiconet Ltd.
+16321,5.101.44.0/22,AICONET-AS Aiconet Ltd.
+16321,5.101.64.0/22,AICONET-AS Aiconet Ltd.
+16321,5.101.80.0/20,AICONET-AS Aiconet Ltd.
+16321,5.101.208.0/21,AICONET-AS Aiconet Ltd.
+16321,5.188.8.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.44.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.48.0/21,AICONET-AS Aiconet Ltd.
+16321,5.188.60.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.68.0/23,AICONET-AS Aiconet Ltd.
+16321,5.188.84.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.88.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.164.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.192.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.200.0/21,AICONET-AS Aiconet Ltd.
+16321,5.188.208.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.216.0/21,AICONET-AS Aiconet Ltd.
+16321,5.188.232.0/22,AICONET-AS Aiconet Ltd.
+16321,5.188.236.0/23,AICONET-AS Aiconet Ltd.
+16321,5.189.216.0/22,AICONET-AS Aiconet Ltd.
+16321,5.189.248.0/21,AICONET-AS Aiconet Ltd.
+16321,31.44.176.0/20,AICONET-AS Aiconet Ltd.
+16321,31.184.192.0/21,AICONET-AS Aiconet Ltd.
+16321,31.184.228.0/22,AICONET-AS Aiconet Ltd.
+16321,31.184.236.0/22,AICONET-AS Aiconet Ltd.
+16321,31.184.240.0/22,AICONET-AS Aiconet Ltd.
+16321,37.9.40.0/21,AICONET-AS Aiconet Ltd.
+16321,37.9.48.0/22,AICONET-AS Aiconet Ltd.
+16321,37.139.36.0/22,AICONET-AS Aiconet Ltd.
+16321,37.139.44.0/22,AICONET-AS Aiconet Ltd.
+16321,37.139.48.0/21,AICONET-AS Aiconet Ltd.
+16321,37.139.56.0/22,AICONET-AS Aiconet Ltd.
+16321,45.156.212.0/22,AICONET-AS Aiconet Ltd.
+16321,45.159.200.0/22,AICONET-AS Aiconet Ltd.
+16321,46.161.0.0/19,AICONET-AS Aiconet Ltd.
+16321,46.161.32.0/22,AICONET-AS Aiconet Ltd.
+16321,46.161.40.0/21,AICONET-AS Aiconet Ltd.
+16321,46.161.48.0/22,AICONET-AS Aiconet Ltd.
+16321,46.161.56.0/21,AICONET-AS Aiconet Ltd.
+16321,91.151.176.0/20,AICONET-AS Aiconet Ltd.
 16321,91.196.252.0/22,AICONET-AS Aiconet Ltd.
+16321,91.212.7.0/24,AICONET-AS Aiconet Ltd.
+16321,91.243.32.0/19,AICONET-AS Aiconet Ltd.
+16321,91.243.88.0/21,AICONET-AS Aiconet Ltd.
+16321,94.26.128.0/18,AICONET-AS Aiconet Ltd.
+16321,95.215.0.0/22,AICONET-AS Aiconet Ltd.
+16321,146.185.200.0/21,AICONET-AS Aiconet Ltd.
+16321,146.185.212.0/23,AICONET-AS Aiconet Ltd.
+16321,146.185.222.0/23,AICONET-AS Aiconet Ltd.
+16321,146.185.224.0/21,AICONET-AS Aiconet Ltd.
+16321,146.185.232.0/22,AICONET-AS Aiconet Ltd.
+16321,146.185.238.0/23,AICONET-AS Aiconet Ltd.
+16321,146.185.244.0/22,AICONET-AS Aiconet Ltd.
+16321,146.185.252.0/22,AICONET-AS Aiconet Ltd.
 16321,176.116.240.0/20,AICONET-AS Aiconet Ltd.
+16321,185.232.28.0/22,AICONET-AS Aiconet Ltd.
+16321,188.143.128.0/17,AICONET-AS Aiconet Ltd.
+16321,193.93.192.0/22,AICONET-AS Aiconet Ltd.
+16321,194.110.80.0/22,AICONET-AS Aiconet Ltd.
+16321,195.2.240.0/23,AICONET-AS Aiconet Ltd.
+16321,2a00:1d78::/32,AICONET-AS Aiconet Ltd.
+16321,2a01:8380::/32,AICONET-AS Aiconet Ltd.
+16321,2a02:2510::/32,AICONET-AS Aiconet Ltd.
+16321,2a0c:8700::/29,AICONET-AS Aiconet Ltd.
+16321,2a0d:8fc0::/29,AICONET-AS Aiconet Ltd.
+16321,2a0f:3180::/29,AICONET-AS Aiconet Ltd.
+16321,2a0f:8580::/29,AICONET-AS Aiconet Ltd.
 16323,91.219.160.0/22,INFORM-SYSTEMY-I-TECHNOLOGII-AS Informatsionniye Systemy i Technologii CJSC.
 16323,194.8.228.0/23,INFORM-SYSTEMY-I-TECHNOLOGII-AS Informatsionniye Systemy i Technologii CJSC.
 16323,195.24.254.0/23,INFORM-SYSTEMY-I-TECHNOLOGII-AS Informatsionniye Systemy i Technologii CJSC.
@@ -6150,79 +6224,6 @@ ASN,subnet,name
 34629,217.174.0.0/20,"ORNRU-AS ""Resurs-Svyaz"" Ltd"
 34629,2a07:dc40::/32,"ORNRU-AS ""Resurs-Svyaz"" Ltd"
 34639,194.28.207.0/24,SAMOLET-AS SZ Samolet Development LLC
-34665,5.8.0.0/20,PINDC-AS Petersburg Internet Network ltd.
-34665,5.8.16.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.8.44.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.8.48.0/20,PINDC-AS Petersburg Internet Network ltd.
-34665,5.8.64.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.8.80.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.8.88.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.101.0.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.101.32.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.101.44.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.101.64.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.101.80.0/20,PINDC-AS Petersburg Internet Network ltd.
-34665,5.101.208.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.8.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.44.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.48.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.60.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.68.0/23,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.84.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.88.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.164.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.192.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.200.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.208.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.216.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.232.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.188.236.0/23,PINDC-AS Petersburg Internet Network ltd.
-34665,5.189.216.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,5.189.248.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,31.44.176.0/20,PINDC-AS Petersburg Internet Network ltd.
-34665,31.184.192.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,31.184.228.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,31.184.236.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,31.184.240.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,37.9.40.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,37.9.48.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,37.139.36.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,37.139.44.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,37.139.48.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,37.139.56.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,45.156.212.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,45.159.200.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,46.161.0.0/19,PINDC-AS Petersburg Internet Network ltd.
-34665,46.161.32.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,46.161.40.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,46.161.48.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,46.161.56.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,91.151.176.0/20,PINDC-AS Petersburg Internet Network ltd.
-34665,91.212.7.0/24,PINDC-AS Petersburg Internet Network ltd.
-34665,91.243.32.0/19,PINDC-AS Petersburg Internet Network ltd.
-34665,91.243.88.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,94.26.128.0/18,PINDC-AS Petersburg Internet Network ltd.
-34665,95.215.0.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.200.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.212.0/23,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.222.0/23,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.224.0/21,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.232.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.238.0/23,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.244.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,146.185.252.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,185.232.28.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,188.143.128.0/17,PINDC-AS Petersburg Internet Network ltd.
-34665,193.93.192.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,194.110.80.0/22,PINDC-AS Petersburg Internet Network ltd.
-34665,195.2.240.0/23,PINDC-AS Petersburg Internet Network ltd.
-34665,2a00:1d78::/32,PINDC-AS Petersburg Internet Network ltd.
-34665,2a01:8380::/32,PINDC-AS Petersburg Internet Network ltd.
-34665,2a02:2510::/32,PINDC-AS Petersburg Internet Network ltd.
-34665,2a0c:8700::/29,PINDC-AS Petersburg Internet Network ltd.
-34665,2a0d:8fc0::/29,PINDC-AS Petersburg Internet Network ltd.
-34665,2a0f:3180::/29,PINDC-AS Petersburg Internet Network ltd.
-34665,2a0f:8580::/29,PINDC-AS Petersburg Internet Network ltd.
 34671,91.193.88.0/23,TOMSKNEFTEHIM-AS Tomskneftehim Ltd.
 34687,77.87.200.0/21,KOLBI-AS Fastnet LLC
 34687,89.23.32.0/19,KOLBI-AS Fastnet LLC
