@@ -543,7 +543,7 @@ ASN,subnet,name
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,168.113.244.0/22,
 0,168.113.248.0/22,
-0,168.113.252.0/22,
+0,168.113.252.0/22,i7 LLC
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -3803,7 +3803,6 @@ ASN,subnet,name
 8219,45.66.168.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,45.140.80.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,45.149.40.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
-8219,45.155.6.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,62.106.76.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,77.87.124.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,80.71.154.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -3838,8 +3837,6 @@ ASN,subnet,name
 8219,193.47.240.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.135.13.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.141.53.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
-8219,193.162.130.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
-8219,193.163.197.0/24,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.168.188.0/22,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.176.154.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
 8219,193.176.156.0/23,RU-ISKH-20180719 Inna Grigorevna Khoruzhaya
@@ -4831,8 +4828,8 @@ ASN,subnet,name
 15850,193.46.88.0/24,AS15850 Cyberplat OOO
 15850,2a00:17d0::/32,AS15850 Cyberplat OOO
 15867,192.162.180.0/22,ED-PARTNER-AS ED-PARTNER LLC
-15870,91.216.46.0/24,BST-AS Bst Ltd.
-15870,2001:67c:1b28::/48,BST-AS Bst Ltd.
+15870,91.216.46.0/24,BST-AS BS-Telecom llc
+15870,2001:67c:1b28::/48,BST-AS BS-Telecom llc
 15880,46.175.32.0/21,CHIKALIN-AS Private entrepreneur Chikalin Anatoly Nikolaevich
 15880,91.233.92.0/22,CHIKALIN-AS Private entrepreneur Chikalin Anatoly Nikolaevich
 15884,5.182.92.0/22,EXPERT-PRO-AS EXPERT PRO LLC
@@ -4915,81 +4912,81 @@ ASN,subnet,name
 16262,94.199.4.0/24,DATACHEAP-LLC-AS Datacheap LLC
 16262,194.61.25.0/24,DATACHEAP-LLC-AS Datacheap LLC
 16262,2a13:3d80::/29,DATACHEAP-LLC-AS Datacheap LLC
-16321,5.8.0.0/20,AICONET-AS Aiconet Ltd.
-16321,5.8.16.0/21,AICONET-AS Aiconet Ltd.
-16321,5.8.44.0/22,AICONET-AS Aiconet Ltd.
-16321,5.8.48.0/20,AICONET-AS Aiconet Ltd.
-16321,5.8.64.0/22,AICONET-AS Aiconet Ltd.
-16321,5.8.80.0/21,AICONET-AS Aiconet Ltd.
-16321,5.8.88.0/22,AICONET-AS Aiconet Ltd.
-16321,5.101.0.0/21,AICONET-AS Aiconet Ltd.
-16321,5.101.32.0/22,AICONET-AS Aiconet Ltd.
-16321,5.101.44.0/22,AICONET-AS Aiconet Ltd.
-16321,5.101.64.0/22,AICONET-AS Aiconet Ltd.
-16321,5.101.80.0/20,AICONET-AS Aiconet Ltd.
-16321,5.101.208.0/21,AICONET-AS Aiconet Ltd.
-16321,5.188.8.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.44.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.48.0/21,AICONET-AS Aiconet Ltd.
-16321,5.188.60.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.68.0/23,AICONET-AS Aiconet Ltd.
-16321,5.188.84.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.88.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.164.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.192.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.200.0/21,AICONET-AS Aiconet Ltd.
-16321,5.188.208.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.216.0/21,AICONET-AS Aiconet Ltd.
-16321,5.188.232.0/22,AICONET-AS Aiconet Ltd.
-16321,5.188.236.0/23,AICONET-AS Aiconet Ltd.
-16321,5.189.216.0/22,AICONET-AS Aiconet Ltd.
-16321,5.189.248.0/21,AICONET-AS Aiconet Ltd.
-16321,31.44.176.0/20,AICONET-AS Aiconet Ltd.
-16321,31.184.192.0/21,AICONET-AS Aiconet Ltd.
-16321,31.184.228.0/22,AICONET-AS Aiconet Ltd.
-16321,31.184.236.0/22,AICONET-AS Aiconet Ltd.
-16321,31.184.240.0/22,AICONET-AS Aiconet Ltd.
-16321,37.9.40.0/21,AICONET-AS Aiconet Ltd.
-16321,37.9.48.0/22,AICONET-AS Aiconet Ltd.
-16321,37.139.36.0/22,AICONET-AS Aiconet Ltd.
-16321,37.139.44.0/22,AICONET-AS Aiconet Ltd.
-16321,37.139.48.0/21,AICONET-AS Aiconet Ltd.
-16321,37.139.56.0/22,AICONET-AS Aiconet Ltd.
-16321,45.156.212.0/22,AICONET-AS Aiconet Ltd.
-16321,45.159.200.0/22,AICONET-AS Aiconet Ltd.
-16321,46.161.0.0/19,AICONET-AS Aiconet Ltd.
-16321,46.161.32.0/22,AICONET-AS Aiconet Ltd.
-16321,46.161.40.0/21,AICONET-AS Aiconet Ltd.
-16321,46.161.48.0/22,AICONET-AS Aiconet Ltd.
-16321,46.161.56.0/21,AICONET-AS Aiconet Ltd.
-16321,91.151.176.0/20,AICONET-AS Aiconet Ltd.
-16321,91.196.252.0/22,AICONET-AS Aiconet Ltd.
-16321,91.212.7.0/24,AICONET-AS Aiconet Ltd.
-16321,91.243.32.0/19,AICONET-AS Aiconet Ltd.
-16321,91.243.88.0/21,AICONET-AS Aiconet Ltd.
-16321,94.26.128.0/18,AICONET-AS Aiconet Ltd.
-16321,95.215.0.0/22,AICONET-AS Aiconet Ltd.
-16321,146.185.200.0/21,AICONET-AS Aiconet Ltd.
-16321,146.185.212.0/23,AICONET-AS Aiconet Ltd.
-16321,146.185.222.0/23,AICONET-AS Aiconet Ltd.
-16321,146.185.224.0/21,AICONET-AS Aiconet Ltd.
-16321,146.185.232.0/22,AICONET-AS Aiconet Ltd.
-16321,146.185.238.0/23,AICONET-AS Aiconet Ltd.
-16321,146.185.244.0/22,AICONET-AS Aiconet Ltd.
-16321,146.185.252.0/22,AICONET-AS Aiconet Ltd.
-16321,176.116.240.0/20,AICONET-AS Aiconet Ltd.
-16321,185.232.28.0/22,AICONET-AS Aiconet Ltd.
-16321,188.143.128.0/17,AICONET-AS Aiconet Ltd.
-16321,193.93.192.0/22,AICONET-AS Aiconet Ltd.
-16321,194.110.80.0/22,AICONET-AS Aiconet Ltd.
-16321,195.2.240.0/23,AICONET-AS Aiconet Ltd.
-16321,2a00:1d78::/32,AICONET-AS Aiconet Ltd.
-16321,2a01:8380::/32,AICONET-AS Aiconet Ltd.
-16321,2a02:2510::/32,AICONET-AS Aiconet Ltd.
-16321,2a0c:8700::/29,AICONET-AS Aiconet Ltd.
-16321,2a0d:8fc0::/29,AICONET-AS Aiconet Ltd.
-16321,2a0f:3180::/29,AICONET-AS Aiconet Ltd.
-16321,2a0f:8580::/29,AICONET-AS Aiconet Ltd.
+16321,5.8.0.0/20,AICONET-AS Petersburg Internet Network ltd.
+16321,5.8.16.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.8.44.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.8.48.0/20,AICONET-AS Petersburg Internet Network ltd.
+16321,5.8.64.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.8.80.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.8.88.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.101.0.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.101.32.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.101.44.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.101.64.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.101.80.0/20,AICONET-AS Petersburg Internet Network ltd.
+16321,5.101.208.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.8.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.44.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.48.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.60.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.68.0/23,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.84.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.88.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.164.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.192.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.200.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.208.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.216.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.232.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.188.236.0/23,AICONET-AS Petersburg Internet Network ltd.
+16321,5.189.216.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,5.189.248.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,31.44.176.0/20,AICONET-AS Petersburg Internet Network ltd.
+16321,31.184.192.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,31.184.228.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,31.184.236.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,31.184.240.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,37.9.40.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,37.9.48.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,37.139.36.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,37.139.44.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,37.139.48.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,37.139.56.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,45.156.212.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,45.159.200.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,46.161.0.0/19,AICONET-AS Petersburg Internet Network ltd.
+16321,46.161.32.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,46.161.40.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,46.161.48.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,46.161.56.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,91.151.176.0/20,AICONET-AS Petersburg Internet Network ltd.
+16321,91.196.252.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,91.212.7.0/24,AICONET-AS Petersburg Internet Network ltd.
+16321,91.243.32.0/19,AICONET-AS Petersburg Internet Network ltd.
+16321,91.243.88.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,94.26.128.0/18,AICONET-AS Petersburg Internet Network ltd.
+16321,95.215.0.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.200.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.212.0/23,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.222.0/23,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.224.0/21,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.232.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.238.0/23,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.244.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,146.185.252.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,176.116.240.0/20,AICONET-AS Petersburg Internet Network ltd.
+16321,185.232.28.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,188.143.128.0/17,AICONET-AS Petersburg Internet Network ltd.
+16321,193.93.192.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,194.110.80.0/22,AICONET-AS Petersburg Internet Network ltd.
+16321,195.2.240.0/23,AICONET-AS Petersburg Internet Network ltd.
+16321,2a00:1d78::/32,AICONET-AS Petersburg Internet Network ltd.
+16321,2a01:8380::/32,AICONET-AS Petersburg Internet Network ltd.
+16321,2a02:2510::/32,AICONET-AS Petersburg Internet Network ltd.
+16321,2a0c:8700::/29,AICONET-AS Petersburg Internet Network ltd.
+16321,2a0d:8fc0::/29,AICONET-AS Petersburg Internet Network ltd.
+16321,2a0f:3180::/29,AICONET-AS Petersburg Internet Network ltd.
+16321,2a0f:8580::/29,AICONET-AS Petersburg Internet Network ltd.
 16323,91.219.160.0/22,INFORM-SYSTEMY-I-TECHNOLOGII-AS Informatsionniye Systemy i Technologii CJSC.
 16323,194.8.228.0/23,INFORM-SYSTEMY-I-TECHNOLOGII-AS Informatsionniye Systemy i Technologii CJSC.
 16323,195.24.254.0/23,INFORM-SYSTEMY-I-TECHNOLOGII-AS Informatsionniye Systemy i Technologii CJSC.
@@ -6102,7 +6099,7 @@ ASN,subnet,name
 34180,193.23.122.0/24,INKO-NET-AS Atsuta Pavel Georgievich
 34180,193.201.156.0/25,INKO-NET-AS Atsuta Pavel Georgievich
 34180,195.5.108.0/23,INKO-NET-AS Atsuta Pavel Georgievich
-34192,178.217.176.0/21,TRANSITEC TRANSITEC Ltd
+34192,178.217.176.0/21,AMROX Amrox LLC
 34211,185.44.68.0/22,LANPORT-AS Lanport-S LLC
 34211,2a04:99c0::/29,LANPORT-AS Lanport-S LLC
 34223,91.218.116.0/22,N-REGION N-Region LLC
@@ -6608,7 +6605,7 @@ ASN,subnet,name
 39156,80.76.224.0/20,FTELECOM-AS First Telecom Ltd
 39156,109.235.208.0/21,FTELECOM-AS First Telecom Ltd
 39156,2a03:5200::/32,FTELECOM-AS First Telecom Ltd
-39161,195.66.71.0/24,TOPOLOGIYA-AS TOPOLOGIYA LLC
+39161,195.66.71.0/24,TOPOLOGIYA-AS - TOPOLOGIYA LLC
 39167,195.34.192.0/22,KALIBR-AS PJSC Kalibr
 39178,88.82.160.0/19,OPTILINK-AS Optilink Ltd
 39178,2a05:a680::/29,OPTILINK-AS Optilink Ltd
@@ -7719,10 +7716,10 @@ ASN,subnet,name
 43740,185.179.224.0/22,ZTK-AS Secure Telecommunication LLC
 43740,194.140.247.0/24,ZTK-AS Secure Telecommunication LLC
 43740,2a05:2940::/29,ZTK-AS Secure Telecommunication LLC
-43741,37.153.0.0/18,SITIRIT-AS Sitirit-Telecom Ltd.
-43741,37.153.64.0/21,SITIRIT-AS Sitirit-Telecom Ltd.
-43741,193.0.130.0/23,SITIRIT-AS Sitirit-Telecom Ltd.
-43741,2a0e:ba00::/29,SITIRIT-AS Sitirit-Telecom Ltd.
+43741,37.153.0.0/18,SITIRIT-AS SETI WEBA LTD
+43741,37.153.64.0/21,SITIRIT-AS SETI WEBA LTD
+43741,193.0.130.0/23,SITIRIT-AS SETI WEBA LTD
+43741,2a0e:ba00::/29,SITIRIT-AS SETI WEBA LTD
 43761,79.170.24.0/21,SVSERV-AS SvyazService Ltd
 43761,109.235.24.0/21,SVSERV-AS SvyazService Ltd
 43776,91.200.28.0/22,RELSOFTCOM-NET Relsoft communications Ltd.
@@ -8718,7 +8715,7 @@ ASN,subnet,name
 48524,2a03:dec0::/29,"INTERRA-AS INTERRA telecommunications group, Ltd."
 48527,195.74.62.0/23,URALENRGOSBYT-AS Uralskaya energosbytovaya kompaniya Ltd.
 48530,195.2.192.0/23,STAVROPOL-COMPNET-AS Stavropol Computer Networks Ltd.
-48547,194.49.51.0/24,MCTOWER-AS Mac Tower Ltd
+48547,194.49.51.0/24,MCTOWER-AS Atlantic Aliance LLC
 48561,195.2.198.0/23,AUTOMIR-AS NP Automir CJSC.
 48578,91.193.110.0/24,VSEVTYRES-AS Nokian Tyres LTD
 48583,185.253.184.0/22,BUSINESSBOX-AS CJSC EN Telecom
@@ -9682,7 +9679,7 @@ ASN,subnet,name
 49732,94.230.240.0/20,TYVASVIAZINFORM-AS Joint Stock Company Tyvasviazinform
 49732,185.193.196.0/22,TYVASVIAZINFORM-AS Joint Stock Company Tyvasviazinform
 49732,2a0b:980::/32,TYVASVIAZINFORM-AS Joint Stock Company Tyvasviazinform
-49736,213.108.184.0/21,LOCTELECOM-AS Loctelecom PJSC
+49736,213.108.184.0/21,LOCTELECOM-AS TeleNet LLC
 49741,91.215.244.0/22,PRO-NET-REGION-AS PRO-NET-REGION Ltd.
 49749,91.244.72.0/21,VMS-AS VostokMediaSvyaz Ltd.
 49749,213.108.200.0/21,VMS-AS VostokMediaSvyaz Ltd.
@@ -9893,7 +9890,7 @@ ASN,subnet,name
 50396,91.232.70.0/24,Format-C-AS LLC Format-center
 50396,176.123.56.0/24,Format-C-AS LLC Format-center
 50403,195.191.64.0/24,NordStar-AS JSC Nordstar Airlines
-50425,193.105.27.0/24,"TVS-AS LLC ""Media-1 Management"""
+50425,193.105.27.0/24,"TVS-AS LLC ""UTV Holding"""
 50433,193.106.132.0/22,"TSPU-AS State educational institution of higher professional education ""Tomsk State Pedagogical University"""
 50439,109.196.208.0/20,MECTNET City Telephone Network Ltd.
 50448,91.206.196.0/23,SYSTEM-SERVICE-AS System Service Ltd.
@@ -10016,9 +10013,9 @@ ASN,subnet,name
 50895,91.224.34.0/23,"INIT-TINET Institute of New Information Technologies, LLC"
 50911,185.170.52.0/22,"AS-ELECTRON LLC ""Electron-Telecom"""
 50911,2a0a:8300::/29,"AS-ELECTRON LLC ""Electron-Telecom"""
-50916,91.238.222.0/23,NADYMSS-AS CityLink Ltd
-50916,195.191.220.0/23,NADYMSS-AS CityLink Ltd
-50916,195.242.216.0/24,NADYMSS-AS CityLink Ltd
+50916,91.238.222.0/23,NADYMSS-AS Yan Telecom Ltd
+50916,195.191.220.0/23,NADYMSS-AS Yan Telecom Ltd
+50916,195.242.216.0/24,NADYMSS-AS Yan Telecom Ltd
 50918,194.8.246.0/23,FSK-ESS-OJSC-AS PJSC Rosseti
 50923,5.53.16.0/20,METRO-SET-AS Metroset Ltd.
 50923,37.60.16.0/21,METRO-SET-AS Metroset Ltd.
@@ -10216,7 +10213,7 @@ ASN,subnet,name
 51623,195.93.144.0/23,GINAGENCY-AS Gin Agency Ltd.
 51624,178.212.128.0/21,ITC21VEK-AS 21 Century Telecom Ltd
 51633,91.220.12.0/24,CHRG-AS Novatek-Chelyabinsk LLC
-51635,91.221.0.0/23,"E-MORDOVIA SUE of RM ""SPC of Informatization and New Technologies"""
+51635,91.221.0.0/23,"E-MORDOVIA State Autonomous Institution of the Republic of Mordovia ""Gosinform"""
 51641,94.124.114.0/24,VSK VSK Insurance Joint Stock Company
 51641,193.8.0.0/24,VSK VSK Insurance Joint Stock Company
 51655,91.219.136.0/22,ILIM-NET Ilim Telecom Ltd.
@@ -11213,9 +11210,9 @@ ASN,subnet,name
 60098,2a02:5d60::/32,INSIT-AS Filippov Aleksei Vladilenovich
 60139,178.57.96.0/19,Sever-Telecom Sever Telecom JSC
 60139,185.77.148.0/22,Sever-Telecom Sever Telecom JSC
-60162,185.51.156.0/22,CLOUDDC-AS LLC IMT
-60162,185.143.108.0/22,CLOUDDC-AS LLC IMT
-60162,2a01:b420::/32,CLOUDDC-AS LLC IMT
+60162,185.51.156.0/22,CLOUDDC-AS SIBINTEK DATA CENTER LLC
+60162,185.143.108.0/22,CLOUDDC-AS SIBINTEK DATA CENTER LLC
+60162,2a01:b420::/32,CLOUDDC-AS SIBINTEK DATA CENTER LLC
 60172,185.34.152.0/22,YARNET-KALUGA YARNET LLC
 60172,185.42.76.0/22,YARNET-KALUGA YARNET LLC
 60172,185.179.172.0/22,YARNET-KALUGA YARNET LLC
@@ -11257,9 +11254,9 @@ ASN,subnet,name
 60510,91.238.34.0/23,VICTORY-AS Victory Ltd.
 60553,91.227.54.0/24,RIGLA-MO-AS Rigla-MO LLC
 60554,192.166.116.0/22,MEGIONLINK-AS LLC Megion-Link
-60561,188.64.137.0/24,MONUMENT-A-AS Monument-A LLC
-60561,194.24.172.0/24,MONUMENT-A-AS Monument-A LLC
-60561,2a09:cf40::/29,MONUMENT-A-AS Monument-A LLC
+60561,188.64.137.0/24,MONUMENT-A-AS ITSystem LLC
+60561,194.24.172.0/24,MONUMENT-A-AS ITSystem LLC
+60561,2a09:cf40::/29,MONUMENT-A-AS ITSystem LLC
 60569,93.158.240.0/20,ARD-Teleport ARD Teleport LTD.
 60569,185.29.56.0/22,ARD-Teleport ARD Teleport LTD.
 60569,2a00:aae0::/32,ARD-Teleport ARD Teleport LTD.
@@ -12131,7 +12128,7 @@ ASN,subnet,name
 199021,176.121.48.0/22,ASKOMTEKS Greenline Ltd.
 199021,176.121.60.0/22,ASKOMTEKS Greenline Ltd.
 199022,91.241.58.0/24,FALCON-PLUS-AS FALCON PLUS LTD.
-199024,193.56.202.0/24,OJSC-TH-Russkiy-Kholod-AS JSC TH Russkiy Kholod
+199024,193.56.202.0/24,Service-Desk-AS Service Desk Ltd.
 199063,193.104.139.0/24,Peremena-AS Peremena Ltd.
 199065,91.217.74.0/24,"SMARTDIGITALSOLUTIONS LLC ""SMART DIGITAL SOLUTIONS"""
 199067,91.233.212.0/24,STARTPACK-CLOUD Cloud LLC
@@ -12146,7 +12143,7 @@ ASN,subnet,name
 199112,176.126.36.0/24,SIGMA-AS Sigma-Soft Ltd
 199119,91.242.168.0/23,OOO-Barstel-AS OOO Barstel
 199126,195.66.67.0/24,VOLKSWAGENBANK-AS Pikhta Bank LLC
-199133,2001:678:978::/48,NyaIP Yanislav Basiuk
+199133,2001:678:978::/48,NyaEU Yanislav Basiuk
 199136,78.31.160.0/23,DELTA DELTA LLC
 199146,195.114.112.0/24,ATscriptum-AS AT scriptum Ltd.
 199148,194.0.219.0/24,MINZDRAV-RF-AS Ministry of Health of Russian Federation
@@ -12353,8 +12350,8 @@ ASN,subnet,name
 200408,2a10:d740::/29,Grigoryan KVANTA LLC
 200430,185.107.72.0/22,airee WEBO LLC
 200430,2a06:4480::/29,airee WEBO LLC
-200457,185.106.172.0/22,MBG Mind Bridge Group LLC
-200457,2a06:3d40::/29,MBG Mind Bridge Group LLC
+200457,185.106.172.0/22,"MBG Limited Liability Company ""New Travel Technologies"""
+200457,2a06:3d40::/29,"MBG Limited Liability Company ""New Travel Technologies"""
 200479,2001:67c:2344::/48,MERANN-AS Mera NN Ltd.
 200483,79.134.193.0/24,"ENEVA-AS ""Eneva"" Ltd"
 200483,79.134.198.0/23,"ENEVA-AS ""Eneva"" Ltd"
@@ -12405,10 +12402,10 @@ ASN,subnet,name
 200988,185.88.208.0/22,BRIDGETEL-AS Bridge Telecom LLC
 200988,2a05:cc40::/29,BRIDGETEL-AS Bridge Telecom LLC
 201008,195.206.244.0/23,"M3-AS CTC, Joint Stock Company"
-201012,176.109.112.0/20,Avito KEH eCommerce LLC
-201012,176.114.112.0/20,Avito KEH eCommerce LLC
-201012,185.89.12.0/22,Avito KEH eCommerce LLC
-201012,2a05:cf80::/29,Avito KEH eCommerce LLC
+201012,176.109.112.0/20,Avito_LLC KEH eCommerce LLC
+201012,176.114.112.0/20,Avito_LLC KEH eCommerce LLC
+201012,185.89.12.0/22,Avito_LLC KEH eCommerce LLC
+201012,2a05:cf80::/29,Avito_LLC KEH eCommerce LLC
 201022,185.88.160.0/22,ABS-as Active business systems Ltd.
 201022,2a03:8060::/32,ABS-as Active business systems Ltd.
 201037,157.22.228.0/24,"TRUE-ENGINEERING ""TRUE ENGINEERING"" LLC"
@@ -12471,8 +12468,8 @@ ASN,subnet,name
 201706,185.169.152.0/22,AS-SERVICEPIPE SERVICEPIPE LLC
 201706,212.67.24.0/22,AS-SERVICEPIPE SERVICEPIPE LLC
 201706,2a0a:4d00::/29,AS-SERVICEPIPE SERVICEPIPE LLC
-201745,185.65.20.0/22,"CSE-AS COURIER-SERVICE, LLC"
-201745,2a03:18a0::/32,"CSE-AS COURIER-SERVICE, LLC"
+201745,185.65.20.0/22,"CSE-AS Intellect Digital, LLC"
+201745,2a03:18a0::/32,"CSE-AS Intellect Digital, LLC"
 201786,185.63.196.0/22,COMLINE-AS OOO ComLine
 201786,2a03:e60::/29,COMLINE-AS OOO ComLine
 201788,193.105.53.0/24,"RUSENERGOSBYT RUSENERGOSBYT, JSC"
@@ -12620,8 +12617,11 @@ ASN,subnet,name
 203451,2.56.26.0/23,K-Telecom-Network K-telekom LLC
 203451,37.16.73.0/24,K-Telecom-Network K-telekom LLC
 203451,45.90.45.0/24,K-Telecom-Network K-telekom LLC
+203451,45.155.6.0/24,K-Telecom-Network K-telekom LLC
 203451,185.15.36.0/22,K-Telecom-Network K-telekom LLC
 203451,193.142.148.0/24,K-Telecom-Network K-telekom LLC
+203451,193.162.130.0/24,K-Telecom-Network K-telekom LLC
+203451,193.163.197.0/24,K-Telecom-Network K-telekom LLC
 203451,194.50.170.0/23,K-Telecom-Network K-telekom LLC
 203451,212.115.51.0/24,K-Telecom-Network K-telekom LLC
 203451,2a0d:9280::/32,K-Telecom-Network K-telekom LLC
@@ -13183,8 +13183,8 @@ ASN,subnet,name
 209890,91.90.220.0/24,RENAULT-AS JSC MOSCOW AUTOMOTIVE FACTORY MOSKVICH
 209930,91.195.21.0/24,DSP DataSpace Partners LLC
 209930,194.32.252.0/22,DSP DataSpace Partners LLC
-209950,212.115.56.0/22,GIGAVIDER-AS Voltaks-Aliance LLC
-209950,2a09:6c00::/29,GIGAVIDER-AS Voltaks-Aliance LLC
+209950,212.115.56.0/22,GIGAVIDER-AS GIGAVIDER LLC
+209950,2a09:6c00::/29,GIGAVIDER-AS GIGAVIDER LLC
 209955,178.215.232.0/22,UI USINSK-INFORM LLC
 210028,185.89.99.0/24,"cs LLC ""Complex Systems"""
 210028,194.12.56.0/21,"cs LLC ""Complex Systems"""
@@ -13594,7 +13594,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
-219120,87.236.86.0/24,Cifrovoy svod LLC
-219477,87.247.132.0/22,Alexey Andreevich Shantora
-219477,2a02:e700::/32,Alexey Andreevich Shantora
-219516,2a02:fd40::/29,"Limited Liability Company ""IZI"""
+219120,87.236.86.0/24,Cifrovoy_svod Cifrovoy svod LLC
+219477,87.247.132.0/22,border-as-01 Alexey Andreevich Shantora
+219477,2a02:e700::/32,border-as-01 Alexey Andreevich Shantora
+219516,2a02:fd40::/29,"IZI-AS Limited Liability Company ""IZI"""
