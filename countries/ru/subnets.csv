@@ -220,7 +220,6 @@ ASN,subnet,name
 0,91.107.117.0/24,Quasar LLC
 0,91.107.118.0/24,Quasar LLC
 0,91.123.80.0/20,
-0,91.132.228.0/22,M-Cloud LLC
 0,91.184.224.0/21,Navant LLC
 0,91.189.80.0/21,
 0,91.189.232.0/21,
@@ -368,7 +367,6 @@ ASN,subnet,name
 0,91.226.10.0/23,
 0,91.226.30.0/23,Auction LLC
 0,91.226.92.0/22,
-0,91.226.104.0/22,
 0,91.226.172.0/22,
 0,91.226.204.0/23,
 0,91.227.12.0/23,
@@ -450,7 +448,6 @@ ASN,subnet,name
 0,91.245.66.0/23,
 0,91.247.190.0/24,Quasar LLC
 0,91.247.232.0/21,
-0,92.53.224.0/21,M-Cloud LLC
 0,92.62.112.0/22,Department of Information Projects LLC
 0,92.63.96.0/20,JSC Datacenter
 0,92.63.196.0/22,IP Khnykin Vitaliy Yakovlevich
@@ -543,7 +540,6 @@ ASN,subnet,name
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,168.113.244.0/22,
 0,168.113.248.0/22,
-0,168.113.252.0/22,i7 LLC
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -979,6 +975,7 @@ ASN,subnet,name
 0,195.62.6.0/23,
 0,195.62.92.0/23,
 0,195.64.101.0/24,Internet Technologies LLC
+0,195.66.71.0/24,
 0,195.66.84.0/24,
 0,195.66.89.0/24,
 0,195.68.252.0/23,
@@ -1167,7 +1164,6 @@ ASN,subnet,name
 0,2a09:1a40::/29,OOO TeleMontag
 0,2a09:2980::/29,Auction LLC
 0,2a09:3700::/29,Telenet LLC
-0,2a09:55c0::/29,M-Cloud LLC
 0,2a09:6280::/29,Mikhail Tonkonog
 0,2a09:6800::/29,Telenet LLC
 0,2a09:6900::/29,Telenet LLC
@@ -5645,6 +5641,7 @@ ASN,subnet,name
 29184,171.33.244.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,176.118.0.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,176.118.32.0/24,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
+29184,178.175.168.0/21,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,185.103.24.0/23,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,185.124.164.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,185.238.104.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
@@ -6605,7 +6602,6 @@ ASN,subnet,name
 39156,80.76.224.0/20,FTELECOM-AS First Telecom Ltd
 39156,109.235.208.0/21,FTELECOM-AS First Telecom Ltd
 39156,2a03:5200::/32,FTELECOM-AS First Telecom Ltd
-39161,195.66.71.0/24,TOPOLOGIYA-AS - TOPOLOGIYA LLC
 39167,195.34.192.0/22,KALIBR-AS PJSC Kalibr
 39178,88.82.160.0/19,OPTILINK-AS Optilink Ltd
 39178,2a05:a680::/29,OPTILINK-AS Optilink Ltd
@@ -12350,8 +12346,8 @@ ASN,subnet,name
 200408,2a10:d740::/29,Grigoryan KVANTA LLC
 200430,185.107.72.0/22,airee WEBO LLC
 200430,2a06:4480::/29,airee WEBO LLC
-200457,185.106.172.0/22,"MBG Limited Liability Company ""New Travel Technologies"""
-200457,2a06:3d40::/29,"MBG Limited Liability Company ""New Travel Technologies"""
+200457,185.106.172.0/22,"NEW-TRAVEL-TECHNOLOGIES Limited Liability Company ""New Travel Technologies"""
+200457,2a06:3d40::/29,"NEW-TRAVEL-TECHNOLOGIES Limited Liability Company ""New Travel Technologies"""
 200479,2001:67c:2344::/48,MERANN-AS Mera NN Ltd.
 200483,79.134.193.0/24,"ENEVA-AS ""Eneva"" Ltd"
 200483,79.134.198.0/23,"ENEVA-AS ""Eneva"" Ltd"
@@ -13077,6 +13073,7 @@ ASN,subnet,name
 208677,141.101.152.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,141.101.201.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,152.89.196.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
+208677,168.113.252.0/22,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,168.222.176.0/22,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,176.108.240.0/20,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,176.109.96.0/20,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
@@ -13594,6 +13591,10 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+219089,91.132.228.0/22,M-Cloud LLC
+219089,91.226.104.0/22,
+219089,92.53.224.0/21,M-Cloud LLC
+219089,2a09:55c0::/29,M-Cloud LLC
 219120,87.236.86.0/24,Cifrovoy_svod Cifrovoy svod LLC
 219477,87.247.132.0/22,border-as-01 Alexey Andreevich Shantora
 219477,2a02:e700::/32,border-as-01 Alexey Andreevich Shantora
