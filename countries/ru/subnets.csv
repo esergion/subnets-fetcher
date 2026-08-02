@@ -13591,10 +13591,10 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
-219089,91.132.228.0/22,M-Cloud LLC
-219089,91.226.104.0/22,
-219089,92.53.224.0/21,M-Cloud LLC
-219089,2a09:55c0::/29,M-Cloud LLC
+219089,91.132.228.0/22,MI-CLOUD M-Cloud LLC
+219089,91.226.104.0/22,MI-CLOUD M-Cloud LLC
+219089,92.53.224.0/21,MI-CLOUD M-Cloud LLC
+219089,2a09:55c0::/29,MI-CLOUD M-Cloud LLC
 219120,87.236.86.0/24,Cifrovoy_svod Cifrovoy svod LLC
 219477,87.247.132.0/22,border-as-01 Alexey Andreevich Shantora
 219477,2a02:e700::/32,border-as-01 Alexey Andreevich Shantora
