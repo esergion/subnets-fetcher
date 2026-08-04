@@ -1228,6 +1228,7 @@ ASN,subnet,name
 0,2a0c:ac0::/29,Telenet LLC
 0,2a0c:b80::/29,Yury Dolin
 0,2a0c:1240::/29,Telenet LLC
+0,2a0c:1d40::/29,"CJSC ""NORSI-TRANS"""
 0,2a0c:2840::/29,Telenet LLC
 0,2a0c:5440::/29,FS LLC
 0,2a0c:5ec0::/29,LLC IT-service
