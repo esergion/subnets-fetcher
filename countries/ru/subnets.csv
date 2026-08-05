@@ -448,6 +448,7 @@ ASN,subnet,name
 0,91.245.66.0/23,
 0,91.247.190.0/24,Quasar LLC
 0,91.247.232.0/21,
+0,92.42.96.0/24,"OOO ""MIR"""
 0,92.62.112.0/22,Department of Information Projects LLC
 0,92.63.96.0/20,JSC Datacenter
 0,92.63.196.0/22,IP Khnykin Vitaliy Yakovlevich
@@ -692,6 +693,7 @@ ASN,subnet,name
 0,185.154.52.0/22,McHost LLC
 0,185.154.120.0/22,INEWS LLC
 0,185.156.72.0/22,IP Khnykin Vitaliy Yakovlevich
+0,185.157.120.0/24,"OOO ""MIR"""
 0,185.158.152.0/22,"Mws Cloud, Limited Liability Company"
 0,185.159.128.0/22,Mikhail Tonkonog
 0,185.161.251.0/24,Sysoev Aleksey Anatolevich
@@ -957,6 +959,7 @@ ASN,subnet,name
 0,195.2.227.0/24,
 0,195.2.238.0/23,
 0,195.5.178.0/24,
+0,195.10.205.0/24,"OOO ""MIR"""
 0,195.20.18.0/24,Sysoev Aleksey Anatolevich
 0,195.20.19.0/24,Sysoev Aleksey Anatolevich
 0,195.20.118.0/23,
@@ -1228,7 +1231,6 @@ ASN,subnet,name
 0,2a0c:ac0::/29,Telenet LLC
 0,2a0c:b80::/29,Yury Dolin
 0,2a0c:1240::/29,Telenet LLC
-0,2a0c:1d40::/29,"CJSC ""NORSI-TRANS"""
 0,2a0c:2840::/29,Telenet LLC
 0,2a0c:5440::/29,FS LLC
 0,2a0c:5ec0::/29,LLC IT-service
@@ -13592,6 +13594,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+219063,2a0c:1d40::/29,"CJSC ""NORSI-TRANS"""
 219089,91.132.228.0/22,MI-CLOUD M-Cloud LLC
 219089,91.226.104.0/22,MI-CLOUD M-Cloud LLC
 219089,92.53.224.0/21,MI-CLOUD M-Cloud LLC
