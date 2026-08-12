@@ -7899,16 +7899,16 @@ ASN,subnet,name
 44492,195.216.194.0/23,MKTECHNOLOGIYA-AS MKTechnologiya Ltd.
 44493,91.202.12.0/22,CHELYABINSK-SIGNAL-AS Chelyabinsk-Signal LLC
 44505,91.241.17.0/24,BETA-AS BETA Group LLC
-44507,5.175.88.0/21,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,46.42.0.0/18,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,46.228.96.0/20,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,134.90.152.0/21,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,146.247.32.0/21,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,178.57.32.0/19,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,185.16.56.0/22,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,188.120.48.0/20,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,194.58.160.0/19,KMTN-AS OJSC Kostroma Municipal Telephone Network
-44507,2a03:a1c0::/32,KMTN-AS OJSC Kostroma Municipal Telephone Network
+44507,5.175.88.0/21,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,46.42.0.0/18,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,46.228.96.0/20,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,134.90.152.0/21,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,146.247.32.0/21,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,178.57.32.0/19,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,185.16.56.0/22,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,188.120.48.0/20,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,194.58.160.0/19,KMTN-AS JSC Kostroma Municipal Telephone Network
+44507,2a03:a1c0::/32,KMTN-AS JSC Kostroma Municipal Telephone Network
 44532,91.202.36.0/22,WAPTAK-AS WapTak Ltd.
 44533,91.210.156.0/22,Davydov-NET Davydov Vladimir Dmitrievich
 44540,31.41.0.0/21,KARTEL-AS Kartel Ltd.
@@ -12751,7 +12751,7 @@ ASN,subnet,name
 205014,91.240.242.0/24,ITSAT Menshikov Vladimir
 205014,193.105.93.0/24,ITSAT Menshikov Vladimir
 205014,195.43.77.0/24,ITSAT Menshikov Vladimir
-205047,176.122.16.0/24,"Gevura-AS JSC ""Gevura"""
+205047,176.122.16.0/24,Gevura-AS Montera LLC
 205153,185.227.84.0/22,TSUM-AS TSUM Trading House OJSC
 205153,2a0c:9a00::/32,TSUM-AS TSUM Trading House OJSC
 205326,5.42.0.0/18,rost ROST LLC
