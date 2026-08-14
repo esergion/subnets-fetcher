@@ -10302,7 +10302,7 @@ ASN,subnet,name
 52002,91.216.205.0/24,psoft-as Platforma Soft Ltd.
 52008,91.221.176.0/23,NESTER-NET NesterTelecom LLC
 52008,91.238.28.0/23,NESTER-NET NesterTelecom LLC
-52010,91.221.189.0/24,STAVCOM-AS Stavropol Communications LLC
+52010,91.221.189.0/24,STAVCOM-AS Stavropol Communications LLC.
 52015,46.39.0.0/19,DANCER-AS Dancer LLC
 52015,185.10.152.0/22,DANCER-AS Dancer LLC
 52015,2a03:6a40::/32,DANCER-AS Dancer LLC
@@ -11581,7 +11581,7 @@ ASN,subnet,name
 196949,217.150.72.0/21,PODRYAD-AS Natalia Sergeevna Filicheva
 196949,2a0f:7000::/29,PODRYAD-AS Natalia Sergeevna Filicheva
 196963,79.170.152.0/21,TI-NT Igor Vladimirovich Gorodkov
-196986,91.218.24.0/22,SAAC-AS JSC 'MERIDIANS AND PARALLELS'
+196986,91.218.24.0/22,SAAC-AS LLC TARIFF MASTER
 196991,178.74.128.0/18,"SO-UPS System Operator of the United Power System, JSC"
 197007,193.105.255.0/24,LaserCraft Ural Electronics Factory Ltd.
 197015,83.242.97.0/24,DOMINION-AS Individual Entrepreneur Antipov Andrey Vyacheslavovich
@@ -13603,6 +13603,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+218962,2a05:9180::/29,"""INTELEROS"" LLC"
 219063,2a0c:1d40::/29,"NORSI-TRANS CJSC ""NORSI-TRANS"""
 219089,91.132.228.0/22,MI-CLOUD M-Cloud LLC
 219089,91.226.104.0/22,MI-CLOUD M-Cloud LLC
