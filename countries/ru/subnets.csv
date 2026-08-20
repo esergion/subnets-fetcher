@@ -122,9 +122,13 @@ ASN,subnet,name
 0,77.83.152.0/22,HiLink LLC
 0,77.87.100.0/22,
 0,77.87.208.0/21,
+0,77.91.64.0/22,"OOO ""MIR"""
+0,77.91.68.0/23,"OOO ""MIR"""
 0,77.91.70.0/23,"OOO ""MIR"""
 0,77.91.72.0/22,"OOO ""MIR"""
 0,77.91.78.0/23,"OOO ""MIR"""
+0,77.91.84.0/22,"OOO ""MIR"""
+0,77.91.88.0/21,"OOO ""MIR"""
 0,77.105.146.0/23,"OOO ""MIR"""
 0,77.232.128.0/19,Viktoriya Alekseevna Golovina
 0,77.246.144.0/21,E-Planet Ltd.
@@ -533,12 +537,15 @@ ASN,subnet,name
 0,147.78.8.0/22,OOO TeleMontag
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
+0,153.79.180.0/22,
+0,153.79.184.0/21,
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
 0,157.186.0.0/16,
 0,158.255.0.0/21,LLC IT BASIS
 0,159.93.0.0/16,
+0,159.200.200.0/24,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,168.113.212.0/22,
 0,168.113.244.0/22,
@@ -707,7 +714,6 @@ ASN,subnet,name
 0,185.166.2.0/24,Rusachenko Evgenii Sergeevich
 0,185.166.196.0/22,Quasar LLC
 0,185.176.24.0/22,IP Khnykin Vitaliy Yakovlevich
-0,185.177.220.0/22,MODUS LLC
 0,185.180.248.0/22,Vladimirskaya Gorodskaya Set Plus LLC
 0,185.182.108.0/24,RADIO-FSU/RADIO-MSU NETWORK Ltd
 0,185.183.160.0/22,"LLC ""Internet Tehnologii"""
@@ -1135,6 +1141,7 @@ ASN,subnet,name
 0,2a04:8a00::/29,Company Skala LLC
 0,2a04:a5c0::/29,Mikhail Tonkonog
 0,2a04:c480::/29,New Communication Technologies LLC
+0,2a04:d300::/29,AT Telecom llc
 0,2a04:e640::/29,New Communication Technologies LLC
 0,2a04:fa00::/29,Auction LLC
 0,2a05:540::/29,"LLC ""Internet Tehnologii"""
@@ -1244,6 +1251,7 @@ ASN,subnet,name
 0,2a0c:c580::/29,TK Rustelekom LLC
 0,2a0c:d800::/29,"LLC ""AUTOMATIC GATE - 2000"""
 0,2a0c:f280::/29,Anton Rashitovich Khalikov
+0,2a0d::/32,ONLANTA ltd
 0,2a0d:6c0::/29,Aleksandr Valerevich Mokhonko
 0,2a0d:10c0::/29,Skynetwork LLC
 0,2a0d:3040::/29,Telenet LLC
@@ -4011,6 +4019,7 @@ ASN,subnet,name
 8592,45.147.80.0/22,"IMT Research and production firm ""IMT-Center"" OOO"
 8592,212.16.0.0/19,"IMT Research and production firm ""IMT-Center"" OOO"
 8592,2a02:24f0::/32,"IMT Research and production firm ""IMT-Center"" OOO"
+8595,5.100.244.0/22,WESTCALL-AS OOO WestCall Ltd.
 8595,5.101.60.0/22,WESTCALL-AS OOO WestCall Ltd.
 8595,5.101.200.0/21,WESTCALL-AS OOO WestCall Ltd.
 8595,31.129.126.0/23,WESTCALL-AS OOO WestCall Ltd.
@@ -6252,8 +6261,6 @@ ASN,subnet,name
 34739,195.62.62.0/23,ESAS-AS Electronic Shield Ltd.
 34739,195.88.170.0/24,ESAS-AS Electronic Shield Ltd.
 34739,2001:67c:131c::/48,ESAS-AS Electronic Shield Ltd.
-34771,109.229.224.0/19,MEGASETI-AS Megaseti Ltd.
-34771,193.169.226.0/23,MEGASETI-AS Megaseti Ltd.
 34784,80.81.208.0/20,RUSAT-AS RuSat Ltd.
 34784,2a02:698::/32,RUSAT-AS RuSat Ltd.
 34802,91.201.248.0/22,"RCCF Commercial Bank ""Renaissance Credit"" LLC"
@@ -7450,6 +7457,7 @@ ASN,subnet,name
 42636,91.192.244.0/22,SEVERNET-AS Severnet Ltd.
 42668,89.107.11.0/24,"NEVALINK-AS Nevalink, LLC"
 42668,89.223.32.0/19,"NEVALINK-AS Nevalink, LLC"
+42668,157.228.96.0/24,"NEVALINK-AS Nevalink, LLC"
 42668,2a12:d2c0::/29,"NEVALINK-AS Nevalink, LLC"
 42674,194.110.18.0/24,BANKSOYUZ-AS Joint Stock Company Ingosstrakh Bank
 42676,37.157.232.0/21,SMARTKOM Joint Stock Company Smartkom
@@ -7795,8 +7803,13 @@ ASN,subnet,name
 44046,78.31.96.0/21,TVERLINE-AS TverLine Ltd.
 44048,91.198.231.0/24,MOSOBLGAZ-AS Mosoblgaz JSC
 44048,91.241.16.0/24,MOSOBLGAZ-AS Mosoblgaz JSC
+44056,31.130.120.0/21,TRYTECH-AS Trytek LLC
 44056,91.237.186.0/23,TRYTECH-AS Trytek LLC
+44056,91.237.209.0/24,TRYTECH-AS Trytek LLC
 44056,92.62.116.0/24,TRYTECH-AS Trytek LLC
+44056,109.229.224.0/19,TRYTECH-AS Trytek LLC
+44056,185.177.220.0/22,TRYTECH-AS Trytek LLC
+44056,193.169.226.0/23,TRYTECH-AS Trytek LLC
 44056,195.244.24.0/23,TRYTECH-AS Trytek LLC
 44056,2a13:2940::/29,TRYTECH-AS Trytek LLC
 44093,194.88.140.0/24,ESTEITINVEST JSC ESTEIT INVEST
@@ -8366,7 +8379,6 @@ ASN,subnet,name
 47909,94.154.80.0/21,BAIKAL-AS BAIKAL TELECOM LLC
 47909,194.143.148.0/23,BAIKAL-AS BAIKAL TELECOM LLC
 47910,193.42.142.0/24,"HTBS-AS HiTech Business Solutions, Ltd."
-47923,91.205.144.0/22,LANCRAFT-AS LanCraft Ltd.
 47939,91.205.164.0/22,"YALTANET TDV ""Teleradio company ""Yalta"" LLC"
 47939,176.108.184.0/21,"YALTANET TDV ""Teleradio company ""Yalta"" LLC"
 47939,178.212.64.0/21,"YALTANET TDV ""Teleradio company ""Yalta"" LLC"
@@ -10476,8 +10488,6 @@ ASN,subnet,name
 56667,176.113.120.0/21,INTERCOM-AS Intercom LLC
 56671,93.157.205.0/24,MEDIS-AS MEDIS LLC
 56674,91.226.148.0/22,MARYA-AS Mebelnaya fabrika Mariya Ltd.
-56676,31.130.120.0/21,MCS-AS OOO Modern Communication Systems
-56676,91.237.209.0/24,MCS-AS OOO Modern Communication Systems
 56677,91.226.152.0/22,TELECLUB-AS Tele-Club Ltd.
 56679,45.152.220.0/22,TECOM-AS Voin Telecom LLC
 56679,185.143.236.0/24,TECOM-AS Voin Telecom LLC
@@ -11609,6 +11619,7 @@ ASN,subnet,name
 197078,2a00:84c0::/32,YARNET-AS Yarnet Ltd
 197120,193.160.228.0/22,LANINTERCOM-AS LanInterCom LLC
 197145,153.76.178.0/23,IFB-AS INFRASTRUCTURE FOR BUSINESS LLC
+197147,91.205.144.0/22,SVYAZSERVICE-AS Svyazservice Ltd.
 197150,178.237.240.0/20,MCRBN-AS JSC Russian Broadcasting and Notification Networks
 197153,91.217.34.0/23,guvd Glavnoe Upravlenie Vnutrennih Del po Sverdlovskoi Oblasti
 197159,91.216.240.0/24,TriNet Trinet Ltd.
@@ -12676,8 +12687,6 @@ ASN,subnet,name
 204049,91.208.136.0/24,AS_LLC3DATA LLC 3data
 204049,217.78.236.0/24,AS_LLC3DATA LLC 3data
 204049,2a12:d740::/29,AS_LLC3DATA LLC 3data
-204128,5.100.244.0/22,AT-Telecom-AS AT Telecom llc
-204128,2a04:d300::/29,AT-Telecom-AS AT Telecom llc
 204137,185.112.224.0/22,ORIONNET-IRK Orion telecom ltd
 204137,2a02:6860::/32,ORIONNET-IRK Orion telecom ltd
 204161,45.9.140.0/22,TRITEL-MSK-204161 Alexey Geiner
@@ -13606,9 +13615,9 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
-218937,37.130.192.0/21,Nasonov Mikhail Mikhailovich
-218937,185.45.80.0/22,Nasonov Mikhail Mikhailovich
-218937,2a04:dc0::/29,Nasonov Mikhail Mikhailovich
+218937,37.130.192.0/21,NET-218937 Nasonov Mikhail Mikhailovich
+218937,185.45.80.0/22,NET-218937 Nasonov Mikhail Mikhailovich
+218937,2a04:dc0::/29,NET-218937 Nasonov Mikhail Mikhailovich
 218962,2a05:9180::/29,"INTELEROS-AS ""INTELEROS"" LLC"
 219063,2a0c:1d40::/29,"NORSI-TRANS CJSC ""NORSI-TRANS"""
 219089,91.132.228.0/22,MI-CLOUD M-Cloud LLC
