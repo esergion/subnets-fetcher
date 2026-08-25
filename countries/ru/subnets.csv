@@ -538,7 +538,9 @@ ASN,subnet,name
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
 0,153.79.180.0/22,
-0,153.79.184.0/21,
+0,153.79.184.0/23,
+0,153.79.186.0/23,
+0,153.79.188.0/22,"LLC ""ESCROW TELECOM"""
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
@@ -549,7 +551,7 @@ ASN,subnet,name
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,168.113.212.0/22,
 0,168.113.244.0/22,
-0,168.113.250.0/23,
+0,168.113.250.0/24,
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -13154,6 +13156,7 @@ ASN,subnet,name
 209008,2a0f:4380::/29,ugtelecom UGTELECOM LLC
 209030,82.202.186.0/23,KL-KDP AO Kaspersky Lab
 209030,82.202.188.0/22,KL-KDP AO Kaspersky Lab
+209030,168.113.251.0/24,KL-KDP AO Kaspersky Lab
 209030,2a13:c80::/32,KL-KDP AO Kaspersky Lab
 209059,93.177.126.0/24,GCOM-AS G COM Ltd.
 209059,176.124.192.0/19,GCOM-AS G COM Ltd.
