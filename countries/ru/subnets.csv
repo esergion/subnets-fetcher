@@ -6621,8 +6621,6 @@ ASN,subnet,name
 39178,88.82.160.0/19,OPTILINK-AS Optilink Ltd
 39178,2a05:a680::/29,OPTILINK-AS Optilink Ltd
 39186,195.14.12.0/24,SPSC-AS SPb Scientific Center RAS
-39191,194.147.28.0/22,GNR-GROUP-AS GNR Group LLC
-39191,2a0d:940::/32,GNR-GROUP-AS GNR Group LLC
 39238,79.143.64.0/22,OKBPROGRESS OKB PROGRESS LLC
 39238,79.143.76.0/22,OKBPROGRESS OKB PROGRESS LLC
 39238,185.38.160.0/22,OKBPROGRESS OKB PROGRESS LLC
@@ -8507,9 +8505,9 @@ ASN,subnet,name
 48128,178.217.104.0/21,U-LAN-AS Obyedinyonniye Lokalniye Seti Ltd.
 48128,193.150.92.0/22,U-LAN-AS Obyedinyonniye Lokalniye Seti Ltd.
 48129,91.210.44.0/22,IRBIS-TELECOMMUNICATIONS-AS IRBIS Telecommunications Ltd.
-48143,91.207.132.0/23,mirantis-as Mirantis IT LLC
-48143,91.218.144.0/22,mirantis-as Mirantis IT LLC
-48143,194.213.110.0/23,mirantis-as Mirantis IT LLC
+48143,91.207.132.0/23,"mirantis-as ""M-Tekhnologii"" Ltd"
+48143,91.218.144.0/22,"mirantis-as ""M-Tekhnologii"" Ltd"
+48143,194.213.110.0/23,"mirantis-as ""M-Tekhnologii"" Ltd"
 48148,94.198.0.0/21,"SAINF-AS SVIAZATOMINFORM, Ltd. Company"
 48149,46.254.216.0/21,ITKM-AS Ivanteevskie telecommunicacii Ltd
 48149,109.207.80.0/20,ITKM-AS Ivanteevskie telecommunicacii Ltd
@@ -11590,6 +11588,7 @@ ASN,subnet,name
 196949,37.200.72.0/21,PODRYAD-AS Natalia Sergeevna Filicheva
 196949,45.146.152.0/22,PODRYAD-AS Natalia Sergeevna Filicheva
 196949,109.110.32.0/19,PODRYAD-AS Natalia Sergeevna Filicheva
+196949,132.243.184.0/24,PODRYAD-AS Natalia Sergeevna Filicheva
 196949,217.150.72.0/21,PODRYAD-AS Natalia Sergeevna Filicheva
 196949,2a0f:7000::/29,PODRYAD-AS Natalia Sergeevna Filicheva
 196963,79.170.152.0/21,TI-NT Igor Vladimirovich Gorodkov
