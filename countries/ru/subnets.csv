@@ -530,14 +530,11 @@ ASN,subnet,name
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
 0,153.79.180.0/22,
-0,153.79.186.0/23,"LLC ""ESCROW TELECOM"""
-0,153.79.188.0/22,"LLC ""ESCROW TELECOM"""
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
 0,157.186.0.0/16,
 0,158.255.0.0/21,LLC IT BASIS
-0,159.93.0.0/16,
 0,159.200.200.0/24,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,168.113.212.0/23,
@@ -585,7 +582,6 @@ ASN,subnet,name
 0,176.117.112.0/20,
 0,176.118.37.0/24,Men Danil Valentinovich
 0,176.118.224.0/19,Timer.ru LLC
-0,176.120.21.0/24,AdminVPS OOO
 0,176.120.224.0/19,
 0,176.121.128.0/18,
 0,176.121.192.0/20,
@@ -794,7 +790,6 @@ ASN,subnet,name
 0,193.26.208.0/24,Navant LLC
 0,193.28.6.0/24,
 0,193.30.39.0/24,
-0,193.32.54.0/24,
 0,193.32.176.0/24,"LLC ""Internet Tehnologii"""
 0,193.32.177.0/24,Ilia Baikov
 0,193.32.178.0/23,Ilia Baikov
@@ -1659,6 +1654,7 @@ ASN,subnet,name
 2854,195.151.0.0/16,ROSPRINT-AS LLC Orange Business Services
 2854,212.176.0.0/16,ROSPRINT-AS LLC Orange Business Services
 2854,2a00:1ec8::/29,ROSPRINT-AS LLC Orange Business Services
+2875,159.93.0.0/16,JINR-AS Joint Institute for Nuclear Research
 2875,2a05:81c0::/29,JINR-AS Joint Institute for Nuclear Research
 2878,2.60.0.0/14,ULRT-AS PJSC Rostelecom
 2878,5.28.16.0/20,ULRT-AS PJSC Rostelecom
@@ -10712,7 +10708,7 @@ ASN,subnet,name
 57363,185.31.112.0/22,CDNvideo-AS CDNvideo LLC
 57363,2a02:aec0::/29,CDNvideo-AS CDNvideo LLC
 57364,194.110.152.0/23,KMARUDA-AS JSC Kombinat KMAruda
-57372,91.231.214.0/23,COMTELCO-AS OOO Comtelco
+57372,91.231.214.0/24,COMTELCO-AS OOO Comtelco
 57375,185.232.233.0/24,VN VillaNet LLC
 57375,2a10:ea80::/29,VN VillaNet LLC
 57383,176.98.48.0/21,ASTERRANET FLP Sidorenko Aleksandr Aleksandrovich
@@ -10733,6 +10729,7 @@ ASN,subnet,name
 57438,193.150.116.0/24,"KRASMED-AS Federal State Budgetary Educational Institution of Higher Education ""Krasnoyarsk State Medical University named after Professor V.F. Voino-Yasenetsky"" of the Ministry of Health of the Russian Federation"
 57449,193.150.117.0/24,"ARENTEL-AS LTD ""ARENTEL"""
 57451,91.232.34.0/24,TV-MEDIA-AS SITILAYN Ltd.
+57452,91.231.215.0/24,Summit-Systems-AS Summit Systems Ltd.
 57452,91.232.12.0/22,Summit-Systems-AS Summit Systems Ltd.
 57452,91.235.26.0/24,Summit-Systems-AS Summit Systems Ltd.
 57471,176.101.64.0/21,TRANS-INTERCOM-V-AS Orbita plus Vyazma Ltd.
@@ -12970,6 +12967,7 @@ ASN,subnet,name
 208003,2001:678:b40::/48,EMTIA-LINK Tsyapa Oleg Anatolyevich
 208008,91.216.114.0/24,LMV-AS Le Monlid LLC
 208008,2001:678:b48::/48,LMV-AS Le Monlid LLC
+208044,2a0d:c180::/32,"CMLT-AS ""Camelot-A"" LLC"
 208075,91.230.182.0/23,RSVO_Mirit_Sochi JSC Russian Broadcasting and Notification Networks
 208075,91.230.228.0/23,RSVO_Mirit_Sochi JSC Russian Broadcasting and Notification Networks
 208075,2a0a:af40::/29,RSVO_Mirit_Sochi JSC Russian Broadcasting and Notification Networks
@@ -13172,6 +13170,7 @@ ASN,subnet,name
 209367,2a07:fc80::/29,HAPOTELE LLC HAPOTELE
 209393,5.253.100.0/22,DONTEL-AS OOO Dontel
 209393,153.79.184.0/23,DONTEL-AS OOO Dontel
+209393,153.79.186.0/23,DONTEL-AS OOO Dontel
 209393,2a09:5540::/29,DONTEL-AS OOO Dontel
 209446,45.151.108.0/22,VASExperts VAS Experts Ltd
 209446,2a0f:1900::/29,VASExperts VAS Experts Ltd
@@ -13206,6 +13205,7 @@ ASN,subnet,name
 209885,91.90.210.0/24,AKIAC-AS ALTAI INSTITUTE OF DIGITAL TECHNOLOGIES AND EDUCATION QUALITY ASSESSMENT NAMED AFTER OLEG ROSTISLAVOVICH LVOV
 209890,91.90.220.0/24,RENAULT-AS JSC MOSCOW AUTOMOTIVE FACTORY MOSKVICH
 209930,91.195.21.0/24,DSP DataSpace Partners LLC
+209930,153.79.188.0/22,DSP DataSpace Partners LLC
 209930,194.32.252.0/22,DSP DataSpace Partners LLC
 209950,212.115.56.0/22,GIGAVIDER-AS GIGAVIDER LLC
 209950,2a09:6c00::/29,GIGAVIDER-AS GIGAVIDER LLC
@@ -13374,6 +13374,7 @@ ASN,subnet,name
 211183,157.22.230.0/23,AdminVPS AdminVPS OOO
 211183,157.22.252.0/23,AdminVPS AdminVPS OOO
 211183,168.113.208.0/22,AdminVPS AdminVPS OOO
+211183,176.120.21.0/24,AdminVPS AdminVPS OOO
 211183,185.198.152.0/24,AdminVPS AdminVPS OOO
 211183,185.219.40.0/22,AdminVPS AdminVPS OOO
 211183,185.233.185.0/24,AdminVPS AdminVPS OOO
