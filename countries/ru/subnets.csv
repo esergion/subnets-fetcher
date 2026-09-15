@@ -1236,7 +1236,6 @@ ASN,subnet,name
 0,2a0c:c580::/29,TK Rustelekom LLC
 0,2a0c:d800::/29,"LLC ""AUTOMATIC GATE - 2000"""
 0,2a0c:f280::/29,Anton Rashitovich Khalikov
-0,2a0d::/32,ONLANTA ltd
 0,2a0d:6c0::/29,Aleksandr Valerevich Mokhonko
 0,2a0d:10c0::/29,Skynetwork LLC
 0,2a0d:3040::/29,Telenet LLC
@@ -2361,6 +2360,7 @@ ASN,subnet,name
 3276,2a00:cfe0::/32,"MMC-AS ""OBIT"" Ltd."
 3276,2a01:590::/32,"MMC-AS ""OBIT"" Ltd."
 3276,2a05:a400::/29,"MMC-AS ""OBIT"" Ltd."
+3277,194.110.66.0/24,YG-SPB-RU Yury Gugel
 3285,80.90.176.0/20,HOME-IP Company Delfa Co. Ltd.
 3285,95.140.144.0/20,HOME-IP Company Delfa Co. Ltd.
 3285,185.69.220.0/22,HOME-IP Company Delfa Co. Ltd.
@@ -7478,7 +7478,6 @@ ASN,subnet,name
 42827,91.193.168.0/22,COMPLEXTELESYS-AS OOO Kolpinskie Internet-Seti
 42827,91.201.48.0/22,COMPLEXTELESYS-AS OOO Kolpinskie Internet-Seti
 42834,213.109.75.0/24,ASTROSTAR-AS Astrostar LLC
-42850,194.110.66.0/24,YG-SPB-RU Yury Gugel
 42861,91.214.76.0/23,FOTONTELECOM-TRANSIT-AS Foton Telecom CJSC
 42889,185.190.4.0/22,METAVIRA-AS Metavira LLC
 42889,2a03:b3c0::/32,METAVIRA-AS Metavira LLC
@@ -13537,8 +13536,8 @@ ASN,subnet,name
 214525,2001:678:ab0::/48,PLANETA-AS Kurochkin Evgeniy Anatolievich
 214540,185.31.11.0/24,"LIFEPAY-AS LTD ""Payment service provider"""
 214540,2a13:f300::/29,"LIFEPAY-AS LTD ""Payment service provider"""
-214548,212.47.32.0/24,PEGASNET-AS PEGAS NET LLC
-214548,212.74.254.0/23,PEGASNET-AS PEGAS NET LLC
+214548,212.47.32.0/24,PEGASNET-AS MT TEKHNOLOGII
+214548,212.74.254.0/23,PEGASNET-AS MT TEKHNOLOGII
 214607,45.8.107.0/24,AS_Avangard_Kzn Avangard LLC
 214653,2a14:6dc0::/29,SolarSpace Artem Izbaenkov
 214656,193.228.146.0/24,MARAPHON-AS Maraphon JSC
@@ -13622,6 +13621,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+218670,2a0d::/32,ONLANTA ltd
 218706,62.105.40.0/22,realtel PROEKT ODIN LLC
 218937,37.130.192.0/21,NET-218937 Nasonov Mikhail Mikhailovich
 218937,185.45.80.0/22,NET-218937 Nasonov Mikhail Mikhailovich
