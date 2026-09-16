@@ -246,7 +246,6 @@ ASN,subnet,name
 0,91.197.204.0/22,
 0,91.198.68.0/24,
 0,91.198.85.0/24,
-0,91.198.127.0/24,
 0,91.198.153.0/24,
 0,91.198.155.0/24,
 0,91.198.208.0/24,"OOO ""Sotnet"""
@@ -264,7 +263,6 @@ ASN,subnet,name
 0,91.200.62.0/24,
 0,91.200.148.0/24,Quasar LLC
 0,91.200.150.0/23,Quasar LLC
-0,91.200.164.0/22,
 0,91.201.40.0/22,Internet-Hosting Ltd
 0,91.202.8.0/22,
 0,91.202.204.0/22,
@@ -319,7 +317,6 @@ ASN,subnet,name
 0,91.214.160.0/22,
 0,91.214.212.0/22,Aleksandr Naydenko
 0,91.215.85.0/24,
-0,91.216.3.0/24,
 0,91.216.48.0/24,
 0,91.216.49.0/24,
 0,91.216.68.0/24,
@@ -538,7 +535,8 @@ ASN,subnet,name
 0,158.255.0.0/21,LLC IT BASIS
 0,159.200.200.0/24,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
-0,168.113.144.0/21,
+0,168.113.146.0/23,
+0,168.113.148.0/22,
 0,168.113.152.0/22,
 0,168.113.160.0/20,
 0,168.113.212.0/23,
@@ -647,7 +645,6 @@ ASN,subnet,name
 0,185.43.4.0/22,JSC Datacenter
 0,185.43.145.0/24,Dora LLC
 0,185.43.196.0/23,Company Skala LLC
-0,185.46.84.0/22,Trusov Ilya Igorevych
 0,185.47.36.0/22,Axiomatika LLC
 0,185.47.165.0/24,LLC Pismo
 0,185.48.36.0/22,PROMSVYAZ ENGINEERING LLC
@@ -1101,7 +1098,6 @@ ASN,subnet,name
 0,2a00:f160::/32,Clouds-NN LLC
 0,2a01:48a0::/32,Auction LLC
 0,2a01:55a0::/32,Open Joint-stock Company BystroBank
-0,2a01:81a0::/32,Trusov Ilya Igorevych
 0,2a01:e180::/29,Kokunov Evgeny Andreevich
 0,2a01:eac0::/29,DagNet LLC
 0,2a01:fc80::/29,"LLC ""Oblako.ru"""
@@ -2205,6 +2201,7 @@ ASN,subnet,name
 3175,193.138.70.0/24,CITYTELECOM-MSK Citytelecom LLC
 3175,194.50.6.0/24,CITYTELECOM-MSK Citytelecom LLC
 3175,194.149.90.0/24,CITYTELECOM-MSK Citytelecom LLC
+3175,195.3.142.0/24,CITYTELECOM-MSK Citytelecom LLC
 3175,195.128.48.0/21,CITYTELECOM-MSK Citytelecom LLC
 3175,213.184.128.0/20,CITYTELECOM-MSK Citytelecom LLC
 3175,213.184.144.0/21,CITYTELECOM-MSK Citytelecom LLC
@@ -7002,7 +6999,7 @@ ASN,subnet,name
 41349,185.180.188.0/22,MVMTECH-AS Limited Liability Company MVM Technology
 41349,2a00:4200::/32,MVMTECH-AS Limited Liability Company MVM Technology
 41361,31.41.245.0/24,GOZNAK-AS Joint Stock Company Goznak
-41377,195.3.142.0/23,"Faktor-AS OOO ""Faktor"""
+41377,195.3.143.0/24,"Faktor-AS OOO ""Faktor"""
 41388,91.232.172.0/23,ORIGINAL-AS JSC Original
 41389,195.74.95.0/24,"APKBANK-AS Joint-Stock Company Commercial bank ""Agropromcredit"""
 41443,89.31.16.0/21,SMART-TELEKOM-AS OOO SMART-TELEKOM
@@ -8885,6 +8882,7 @@ ASN,subnet,name
 48936,91.214.240.0/22,ECO-RESERV2-AS Altagen JSC
 48936,94.141.244.0/22,ECO-RESERV2-AS Altagen JSC
 48936,94.141.252.0/22,ECO-RESERV2-AS Altagen JSC
+48936,168.113.144.0/23,ECO-RESERV2-AS Altagen JSC
 48936,185.21.156.0/22,ECO-RESERV2-AS Altagen JSC
 48936,185.26.28.0/22,ECO-RESERV2-AS Altagen JSC
 48936,185.42.124.0/22,ECO-RESERV2-AS Altagen JSC
@@ -13621,7 +13619,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
-218670,2a0d::/32,ONLANTA ltd
+218670,2a0d::/32,ONLANTA-LTD-AS ONLANTA ltd
 218706,62.105.40.0/22,realtel PROEKT ODIN LLC
 218937,37.130.192.0/21,NET-218937 Nasonov Mikhail Mikhailovich
 218937,185.45.80.0/22,NET-218937 Nasonov Mikhail Mikhailovich
