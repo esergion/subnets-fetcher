@@ -527,7 +527,8 @@ ASN,subnet,name
 0,147.78.8.0/22,OOO TeleMontag
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
-0,153.79.180.0/22,
+0,153.79.180.0/23,
+0,153.79.182.0/23,"LLC ""ESCROW TELECOM"""
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
@@ -535,13 +536,14 @@ ASN,subnet,name
 0,158.255.0.0/21,LLC IT BASIS
 0,159.200.200.0/24,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
+0,160.5.208.0/20,Andrei Zaitsev
+0,168.113.128.0/20,Andrei Zaitsev
 0,168.113.148.0/22,
 0,168.113.152.0/22,
 0,168.113.160.0/20,
 0,168.113.212.0/23,
 0,168.113.214.0/23,"LLC ""Internet Tehnologii"""
 0,168.113.244.0/22,
-0,168.113.250.0/24,
 0,171.22.242.0/24,"LLC ""STORM LABS"""
 0,176.12.64.0/21,JSC Datacenter
 0,176.12.72.0/21,JSC Datacenter
@@ -10867,10 +10869,6 @@ ASN,subnet,name
 57923,91.236.124.0/24,DYMOV-AS Dymovskoe sausage production Ltd.
 57940,91.236.164.0/22,"SVIAZSTROY-AS2 ""Sviaz-Stroy"" LLC"
 57947,91.236.200.0/24,BUSINESS-IT-NET Business IT Ltd.
-57952,5.159.96.0/22,"ASEXE24 ""Krasnoyarsk network"" Ltd."
-57952,5.159.104.0/21,"ASEXE24 ""Krasnoyarsk network"" Ltd."
-57952,2a04:8ea0::/29,"ASEXE24 ""Krasnoyarsk network"" Ltd."
-57952,2a09:4140::/29,"ASEXE24 ""Krasnoyarsk network"" Ltd."
 57953,91.237.32.0/24,"GRIDCOM-RT-AS JSC ""Grid Company"""
 57988,91.237.54.0/23,Foton-AS Foton Company Ltd
 57988,176.111.248.0/21,Foton-AS Foton Company Ltd
@@ -11128,6 +11126,10 @@ ASN,subnet,name
 59504,2a11:e80::/29,vpsville-AS LLC Vpsville
 59504,2a11:af00::/29,vpsville-AS LLC Vpsville
 59504,2a12:7c00::/29,vpsville-AS LLC Vpsville
+59508,5.159.96.0/22,"kl-net ""Krasnoyarsk network"" Ltd."
+59508,5.159.104.0/21,"kl-net ""Krasnoyarsk network"" Ltd."
+59508,2a04:8ea0::/29,"kl-net ""Krasnoyarsk network"" Ltd."
+59508,2a09:4140::/29,"kl-net ""Krasnoyarsk network"" Ltd."
 59509,193.187.73.0/24,"RESOURCE-MEDIA LLC ""Resource-Media"""
 59512,176.122.247.0/24,COALCO-AS Coalco Development Ltd
 59515,176.123.192.0/20,INTER-COM-AS Inter.Com Ltd
@@ -12763,8 +12765,8 @@ ASN,subnet,name
 205014,193.105.93.0/24,ITSAT Menshikov Vladimir
 205014,195.43.77.0/24,ITSAT Menshikov Vladimir
 205047,176.122.16.0/24,Gevura-AS Montera LLC
-205153,185.227.84.0/22,TSUM-AS TSUM Trading House OJSC
-205153,2a0c:9a00::/32,TSUM-AS TSUM Trading House OJSC
+205153,185.227.84.0/22,MERCURY-MODA-AS Limited Liability Company Mercury Moda
+205153,2a0c:9a00::/32,MERCURY-MODA-AS Limited Liability Company Mercury Moda
 205326,5.42.0.0/18,rost ROST LLC
 205326,45.15.156.0/22,rost ROST LLC
 205326,217.196.96.0/21,rost ROST LLC
@@ -13623,6 +13625,7 @@ ASN,subnet,name
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
 218670,2a0d::/32,ONLANTA-LTD-AS ONLANTA ltd
 218706,62.105.40.0/22,realtel PROEKT ODIN LLC
+218762,168.113.250.0/24,VP NKO Perspektiva ltd
 218937,37.130.192.0/21,NET-218937 Nasonov Mikhail Mikhailovich
 218937,185.45.80.0/22,NET-218937 Nasonov Mikhail Mikhailovich
 218937,2a04:dc0::/29,NET-218937 Nasonov Mikhail Mikhailovich
