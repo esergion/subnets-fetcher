@@ -458,6 +458,7 @@ ASN,subnet,name
 0,93.157.57.0/24,
 0,93.157.120.0/21,
 0,93.157.160.0/21,
+0,93.157.240.0/22,
 0,93.159.216.0/22,intersat Ltd.
 0,93.159.220.0/22,"Mws Cloud, Limited Liability Company"
 0,93.183.68.0/22,Medvedev Vladislav Olegovich
@@ -528,7 +529,6 @@ ASN,subnet,name
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
 0,153.79.180.0/23,
-0,153.79.182.0/23,"LLC ""ESCROW TELECOM"""
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
@@ -1143,6 +1143,7 @@ ASN,subnet,name
 0,2a06:d640::/29,Auction LLC
 0,2a06:dc40::/29,E-Planet Ltd.
 0,2a06:ef80::/29,Petrenko Vladimir Nikolaevich
+0,2a07:57c0::/29,IP Khnykin Vitaliy Yakovlevich
 0,2a07:9b80::/29,IP Khnykin Vitaliy Yakovlevich
 0,2a07:c940::/29,RCNTEC RPCM LLC
 0,2a07:da80::/29,Yury Dolin
@@ -8404,7 +8405,6 @@ ASN,subnet,name
 47954,2a06:43c0::/29,AlfaNetTelecom-AS Alpha Net Telecom Ltd
 47955,91.206.248.0/23,CITYCOM-AS OOO KTS-Telecom
 47955,91.208.187.0/24,CITYCOM-AS OOO KTS-Telecom
-47963,93.157.240.0/22,INTRALINE-AS IntraLine Ltd.
 47974,91.207.40.0/23,"NETKOM-AS LLC ""CIT ""Alanit"""
 47989,45.14.223.0/24,MOSINFOCOM-AS Mosinfocom Llc
 47989,94.126.152.0/21,MOSINFOCOM-AS Mosinfocom Llc
@@ -8478,6 +8478,7 @@ ASN,subnet,name
 48078,80.244.5.0/24,DAGOMYS-AS Dagomys Telecom LLC
 48078,91.210.24.0/22,DAGOMYS-AS Dagomys Telecom LLC
 48078,91.215.88.0/22,DAGOMYS-AS Dagomys Telecom LLC
+48078,153.79.182.0/23,DAGOMYS-AS Dagomys Telecom LLC
 48078,185.15.60.0/22,DAGOMYS-AS Dagomys Telecom LLC
 48078,2a03:b9c0::/32,DAGOMYS-AS Dagomys Telecom LLC
 48080,195.10.193.0/24,ORG-DP125-RIPE Dmitriy Panchenko
