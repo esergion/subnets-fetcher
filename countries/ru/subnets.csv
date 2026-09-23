@@ -475,6 +475,7 @@ ASN,subnet,name
 0,94.140.240.0/23,M Svyaz LLC
 0,94.140.246.0/24,M Svyaz LLC
 0,94.140.255.0/24,M Svyaz LLC
+0,94.141.120.0/22,FS LLC
 0,94.158.220.0/24,
 0,94.198.216.0/21,Quasar LLC
 0,94.232.104.0/21,
@@ -534,6 +535,7 @@ ASN,subnet,name
 0,157.22.240.0/23,"LLC ""Internet Tehnologii"""
 0,157.186.0.0/16,
 0,158.255.0.0/21,LLC IT BASIS
+0,159.194.192.0/24,
 0,159.200.200.0/24,
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,160.5.208.0/20,Andrei Zaitsev
@@ -643,6 +645,7 @@ ASN,subnet,name
 0,185.36.172.0/22,Clouds-NN LLC
 0,185.39.204.0/22,Mikhail Tonkonog
 0,185.41.100.0/22,Open Joint-stock Company BystroBank
+0,185.42.163.0/24,FS LLC
 0,185.43.4.0/22,JSC Datacenter
 0,185.43.145.0/24,Dora LLC
 0,185.43.196.0/23,Company Skala LLC
