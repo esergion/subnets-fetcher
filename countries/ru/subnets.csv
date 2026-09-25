@@ -674,6 +674,7 @@ ASN,subnet,name
 0,185.102.180.0/22,TELECOM SERVICE LLC
 0,185.103.200.0/24,Vitaly Shchipov
 0,185.105.108.0/22,McHost LLC
+0,185.107.72.0/22,"OOO ""MIR"""
 0,185.108.220.0/22,Metrex LLC
 0,185.115.140.0/22,MegaServer LLC
 0,185.118.164.0/22,PDK LLC
@@ -10638,7 +10639,7 @@ ASN,subnet,name
 57045,2001:7f8:9a::/48,NGS Panin Kirill Evgenyevich
 57047,91.230.84.0/24,"ABIProduct AO ABI ""Product"""
 57064,91.230.62.0/23,SMedia-AS Sfinks Ltd
-57078,2001:678:bc8::/48,"RAPPORTO Limited Liability Company ""RAPPORTO"""
+57078,2001:678:bc8::/48,"RAPORTO Limited Liability Company ""RAPORTO"""
 57091,89.22.224.0/20,CNT-AS LLC Interion
 57091,185.185.120.0/22,CNT-AS LLC Interion
 57091,185.232.235.0/24,CNT-AS LLC Interion
@@ -12376,7 +12377,6 @@ ASN,subnet,name
 200390,94.143.160.0/22,"PSST-AS PETER-SERVICE Special Technologies, LLC"
 200390,2a06:d280::/29,"PSST-AS PETER-SERVICE Special Technologies, LLC"
 200408,2a10:d740::/29,Grigoryan KVANTA LLC
-200430,185.107.72.0/22,airee WEBO LLC
 200430,2a06:4480::/29,airee WEBO LLC
 200457,185.106.172.0/22,"NEW-TRAVEL-TECHNOLOGIES Limited Liability Company ""New Travel Technologies"""
 200457,2a06:3d40::/29,"NEW-TRAVEL-TECHNOLOGIES Limited Liability Company ""New Travel Technologies"""
