@@ -2692,6 +2692,8 @@ ASN,subnet,name
 5563,5.16.0.0/14,"URAL JSC ""ER-Telecom Holding"""
 5563,5.39.160.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,5.44.48.0/20,"URAL JSC ""ER-Telecom Holding"""
+5563,5.61.13.0/24,"URAL JSC ""ER-Telecom Holding"""
+5563,5.61.14.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,5.77.0.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,5.104.200.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,5.164.0.0/14,"URAL JSC ""ER-Telecom Holding"""
@@ -2711,6 +2713,7 @@ ASN,subnet,name
 5563,37.203.200.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,46.0.0.0/16,"URAL JSC ""ER-Telecom Holding"""
 5563,46.23.144.0/20,"URAL JSC ""ER-Telecom Holding"""
+5563,46.29.72.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,46.52.128.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,46.52.192.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,46.52.240.0/20,"URAL JSC ""ER-Telecom Holding"""
@@ -2848,6 +2851,7 @@ ASN,subnet,name
 5563,91.192.60.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,91.202.220.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,91.203.168.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,91.219.64.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,91.224.102.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,91.230.150.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,91.230.152.0/22,"URAL JSC ""ER-Telecom Holding"""
@@ -2859,6 +2863,7 @@ ASN,subnet,name
 5563,92.39.224.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,92.243.96.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,92.248.128.0/17,"URAL JSC ""ER-Telecom Holding"""
+5563,92.249.4.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,92.255.128.0/17,"URAL JSC ""ER-Telecom Holding"""
 5563,93.88.160.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,93.92.64.0/21,"URAL JSC ""ER-Telecom Holding"""
@@ -2891,6 +2896,7 @@ ASN,subnet,name
 5563,109.233.232.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,109.234.128.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,109.237.144.0/20,"URAL JSC ""ER-Telecom Holding"""
+5563,141.0.176.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,146.247.0.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,176.104.192.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,176.112.128.0/20,"URAL JSC ""ER-Telecom Holding"""
@@ -2898,6 +2904,7 @@ ASN,subnet,name
 5563,176.212.0.0/14,"URAL JSC ""ER-Telecom Holding"""
 5563,176.221.8.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,176.241.224.0/21,"URAL JSC ""ER-Telecom Holding"""
+5563,178.18.6.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,178.18.208.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,178.18.216.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,178.75.0.0/18,"URAL JSC ""ER-Telecom Holding"""
@@ -2915,6 +2922,7 @@ ASN,subnet,name
 5563,185.20.82.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,185.20.83.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,185.23.8.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,185.33.200.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.36.60.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.37.56.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.41.168.0/22,"URAL JSC ""ER-Telecom Holding"""
@@ -2935,6 +2943,8 @@ ASN,subnet,name
 5563,185.204.124.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.208.72.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.214.184.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,185.218.68.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,188.68.184.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,188.133.128.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,188.134.0.0/17,"URAL JSC ""ER-Telecom Holding"""
 5563,188.186.0.0/15,"URAL JSC ""ER-Telecom Holding"""
@@ -3001,6 +3011,7 @@ ASN,subnet,name
 5563,2a00:1c78::/29,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:5cc0::/29,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:6f80::/29,"URAL JSC ""ER-Telecom Holding"""
+5563,2a00:9801::/32,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:ebe0::/29,"URAL JSC ""ER-Telecom Holding"""
 5563,2a01:54e0::/29,"URAL JSC ""ER-Telecom Holding"""
 5563,2a01:6540::/29,"URAL JSC ""ER-Telecom Holding"""
@@ -8047,15 +8058,15 @@ ASN,subnet,name
 44943,178.22.48.0/21,RAMNET-AS Ramtel Ltd.
 44943,185.34.240.0/22,RAMNET-AS Ramtel Ltd.
 44943,2a00:b880::/32,RAMNET-AS Ramtel Ltd.
-44963,31.172.132.0/23,POTOK-AS Stavtelecom LLC
-44963,46.29.112.0/23,POTOK-AS Stavtelecom LLC
-44963,46.29.116.0/23,POTOK-AS Stavtelecom LLC
-44963,92.42.8.0/22,POTOK-AS Stavtelecom LLC
-44963,92.42.12.0/23,POTOK-AS Stavtelecom LLC
-44963,93.90.208.0/21,POTOK-AS Stavtelecom LLC
-44963,193.3.136.0/24,POTOK-AS Stavtelecom LLC
-44963,2a03:4700::/32,POTOK-AS Stavtelecom LLC
-44963,2a10:8f80::/29,POTOK-AS Stavtelecom LLC
+44963,31.172.132.0/23,KMVTELECOM-AS Stavtelecom LLC
+44963,46.29.112.0/23,KMVTELECOM-AS Stavtelecom LLC
+44963,46.29.116.0/23,KMVTELECOM-AS Stavtelecom LLC
+44963,92.42.8.0/22,KMVTELECOM-AS Stavtelecom LLC
+44963,92.42.12.0/23,KMVTELECOM-AS Stavtelecom LLC
+44963,93.90.208.0/21,KMVTELECOM-AS Stavtelecom LLC
+44963,193.3.136.0/24,KMVTELECOM-AS Stavtelecom LLC
+44963,2a03:4700::/32,KMVTELECOM-AS Stavtelecom LLC
+44963,2a10:8f80::/29,KMVTELECOM-AS Stavtelecom LLC
 44964,37.203.240.0/21,dapl DATAPLANET Ltd.
 44964,93.188.40.0/21,dapl DATAPLANET Ltd.
 44964,193.110.0.0/22,dapl DATAPLANET Ltd.
@@ -8619,6 +8630,8 @@ ASN,subnet,name
 48282,195.133.60.0/23,VDSINA-AS Hosting technology LTD
 48282,212.118.45.0/24,VDSINA-AS Hosting technology LTD
 48282,212.118.56.0/24,VDSINA-AS Hosting technology LTD
+48282,212.193.10.0/23,VDSINA-AS Hosting technology LTD
+48282,212.193.14.0/23,VDSINA-AS Hosting technology LTD
 48293,91.194.246.0/23,UNIONTEL-RU-AS Uniontel Ltd
 48293,91.212.217.0/24,UNIONTEL-RU-AS Uniontel Ltd
 48293,94.228.192.0/20,UNIONTEL-RU-AS Uniontel Ltd
@@ -10128,14 +10141,6 @@ ASN,subnet,name
 51156,95.215.84.0/22,ONGNET-AS OngNet Plus LLC
 51156,2001:678:a60::/48,ONGNET-AS OngNet Plus LLC
 51165,91.216.175.0/24,SCBK-AS JSC SEGEZHA PULP AND PAPER MILL
-51178,5.61.13.0/24,AVANTEL-SPB-AS JSC Avantel
-51178,5.61.14.0/23,AVANTEL-SPB-AS JSC Avantel
-51178,91.219.64.0/22,AVANTEL-SPB-AS JSC Avantel
-51178,92.249.4.0/24,AVANTEL-SPB-AS JSC Avantel
-51178,185.218.68.0/22,AVANTEL-SPB-AS JSC Avantel
-51178,188.68.184.0/22,AVANTEL-SPB-AS JSC Avantel
-51178,2a00:9801::/32,AVANTEL-SPB-AS JSC Avantel
-51178,2a0b:d0c0::/29,AVANTEL-SPB-AS JSC Avantel
 51181,91.216.164.0/24,SIBSAU-NET State educational institution for higher professional education SIBERIAN STATE AEROSPACE UNIVERSITY named after M.F.Reshetnev
 51183,91.216.187.0/24,ACOMPS-NET Aktiv Computers Ltd.
 51186,91.216.130.0/24,ITAR-TASS-AS ITAR-TASS State Enterprise
@@ -11651,11 +11656,6 @@ ASN,subnet,name
 197204,2a03:5c80::/32,Telemaks TeleMaks Ltd
 197204,2a05:6980::/29,Telemaks TeleMaks Ltd
 197204,2a0c:1ac0::/29,Telemaks TeleMaks Ltd
-197235,46.29.72.0/21,AVANTEL-SAMARA JSC Avantel
-197235,141.0.176.0/21,AVANTEL-SAMARA JSC Avantel
-197235,178.18.6.0/23,AVANTEL-SAMARA JSC Avantel
-197235,185.33.200.0/22,AVANTEL-SAMARA JSC Avantel
-197235,2a02:21f0::/32,AVANTEL-SAMARA JSC Avantel
 197257,91.217.184.0/24,"ARES-AS OOO Security enterprise ""ARES-OHRANA"""
 197273,91.217.220.0/24,OGK4-AS PJSC Unipro
 197275,91.219.56.0/22,ASLINKTELECOMNN Link Telecom NN Ltd.
