@@ -30,7 +30,6 @@ ASN,subnet,name
 0,31.130.0.0/19,
 0,31.131.140.0/22,
 0,31.132.96.0/19,
-0,31.133.104.0/21,
 0,31.133.224.0/19,
 0,31.134.128.0/18,
 0,31.135.32.0/19,
@@ -831,7 +830,6 @@ ASN,subnet,name
 0,193.142.246.0/24,
 0,193.150.0.0/23,
 0,193.150.118.0/23,
-0,193.150.124.0/24,
 0,193.163.205.0/24,UralNet LLC
 0,193.164.146.0/24,
 0,193.168.130.0/24,LLC Pismo
@@ -1016,7 +1014,6 @@ ASN,subnet,name
 0,195.211.88.0/22,
 0,195.211.100.0/22,
 0,195.216.210.0/23,
-0,195.230.99.0/24,
 0,195.234.91.0/24,Men Danil Valentinovich
 0,195.234.96.0/24,
 0,195.234.154.0/24,"LLC ""T1 INNOVATIONS"""
@@ -1141,6 +1138,7 @@ ASN,subnet,name
 0,2a06:1300::/29,Auction LLC
 0,2a06:2680::/29,TELECOM SERVICE LLC
 0,2a06:4380::/29,Auction LLC
+0,2a06:6480::/29,Alexey Geiner
 0,2a06:7700::/29,MegaServer LLC
 0,2a06:c000::/29,"LLC ""Internet Tehnologii"""
 0,2a06:c3c0::/29,LLC IT-service
@@ -2719,6 +2717,7 @@ ASN,subnet,name
 5563,46.52.240.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,46.146.0.0/15,"URAL JSC ""ER-Telecom Holding"""
 5563,46.161.128.0/18,"URAL JSC ""ER-Telecom Holding"""
+5563,46.229.64.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,46.229.216.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,46.236.128.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,46.252.112.0/20,"URAL JSC ""ER-Telecom Holding"""
@@ -2778,6 +2777,7 @@ ASN,subnet,name
 5563,79.172.52.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,79.172.54.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,79.172.56.0/21,"URAL JSC ""ER-Telecom Holding"""
+5563,80.69.176.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,80.70.224.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,80.82.80.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,80.83.240.0/20,"URAL JSC ""ER-Telecom Holding"""
@@ -2791,6 +2791,7 @@ ASN,subnet,name
 5563,81.94.16.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,81.163.96.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,82.114.96.0/19,"URAL JSC ""ER-Telecom Holding"""
+5563,82.117.64.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,82.117.160.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,82.147.96.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,82.193.128.0/22,"URAL JSC ""ER-Telecom Holding"""
@@ -2849,6 +2850,8 @@ ASN,subnet,name
 5563,91.144.128.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,91.185.32.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,91.192.60.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,91.192.172.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,91.201.72.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,91.202.220.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,91.203.168.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,91.219.64.0/22,"URAL JSC ""ER-Telecom Holding"""
@@ -2866,6 +2869,7 @@ ASN,subnet,name
 5563,92.249.4.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,92.255.128.0/17,"URAL JSC ""ER-Telecom Holding"""
 5563,93.88.160.0/20,"URAL JSC ""ER-Telecom Holding"""
+5563,93.91.160.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,93.92.64.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,93.94.176.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,93.159.232.0/21,"URAL JSC ""ER-Telecom Holding"""
@@ -2885,13 +2889,16 @@ ASN,subnet,name
 5563,94.232.128.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,94.247.240.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,95.78.0.0/15,"URAL JSC ""ER-Telecom Holding"""
+5563,95.170.128.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,95.174.192.0/19,"URAL JSC ""ER-Telecom Holding"""
+5563,95.181.128.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,109.68.136.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,109.124.0.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,109.163.216.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,109.163.240.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,109.167.128.0/17,"URAL JSC ""ER-Telecom Holding"""
 5563,109.194.0.0/15,"URAL JSC ""ER-Telecom Holding"""
+5563,109.202.0.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,109.227.192.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,109.233.232.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,109.234.128.0/21,"URAL JSC ""ER-Telecom Holding"""
@@ -2907,6 +2914,7 @@ ASN,subnet,name
 5563,178.18.6.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,178.18.208.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,178.18.216.0/24,"URAL JSC ""ER-Telecom Holding"""
+5563,178.57.192.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,178.75.0.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,178.78.0.0/18,"URAL JSC ""ER-Telecom Holding"""
 5563,178.161.128.0/17,"URAL JSC ""ER-Telecom Holding"""
@@ -2917,6 +2925,7 @@ ASN,subnet,name
 5563,185.7.48.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.7.200.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.16.64.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,185.18.124.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.20.80.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,185.20.81.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,185.20.82.0/24,"URAL JSC ""ER-Telecom Holding"""
@@ -2925,6 +2934,7 @@ ASN,subnet,name
 5563,185.33.200.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.36.60.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.37.56.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,185.37.164.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.41.168.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.42.80.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,185.45.60.0/22,"URAL JSC ""ER-Telecom Holding"""
@@ -2958,7 +2968,9 @@ ASN,subnet,name
 5563,194.58.62.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,194.88.14.0/24,"URAL JSC ""ER-Telecom Holding"""
 5563,194.246.112.0/23,"URAL JSC ""ER-Telecom Holding"""
+5563,195.49.168.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,195.54.192.0/19,"URAL JSC ""ER-Telecom Holding"""
+5563,195.60.244.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,195.64.140.0/23,"URAL JSC ""ER-Telecom Holding"""
 5563,195.64.192.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,195.64.196.0/23,"URAL JSC ""ER-Telecom Holding"""
@@ -2978,6 +2990,7 @@ ASN,subnet,name
 5563,195.177.120.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,195.206.32.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,195.211.28.0/22,"URAL JSC ""ER-Telecom Holding"""
+5563,212.17.0.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,212.33.224.0/19,"URAL JSC ""ER-Telecom Holding"""
 5563,212.57.96.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,212.57.112.0/23,"URAL JSC ""ER-Telecom Holding"""
@@ -2996,6 +3009,7 @@ ASN,subnet,name
 5563,217.28.208.0/21,"URAL JSC ""ER-Telecom Holding"""
 5563,217.28.216.0/22,"URAL JSC ""ER-Telecom Holding"""
 5563,217.29.48.0/23,"URAL JSC ""ER-Telecom Holding"""
+5563,217.29.80.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,217.74.160.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,217.76.176.0/20,"URAL JSC ""ER-Telecom Holding"""
 5563,217.117.176.0/20,"URAL JSC ""ER-Telecom Holding"""
@@ -3008,6 +3022,7 @@ ASN,subnet,name
 5563,2001:67c:1584::/48,"URAL JSC ""ER-Telecom Holding"""
 5563,2001:7f8:78::/48,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:14d0::/29,"URAL JSC ""ER-Telecom Holding"""
+5563,2a00:1730::/32,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:1c78::/29,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:5cc0::/29,"URAL JSC ""ER-Telecom Holding"""
 5563,2a00:6f80::/29,"URAL JSC ""ER-Telecom Holding"""
@@ -4142,24 +4157,6 @@ ASN,subnet,name
 8662,2001:678:3d0::/48,LENENERGO PJSC Rosseti Lenenergo
 8663,185.13.84.0/24,"KUBANNET Federal State Budgetary Educational Institution of Higher Education ""Kuban State University"""
 8706,193.104.102.0/24,VDA-AS LLC Volga-Dnepr Airlines
-8711,46.229.64.0/20,AVANTEL-BARNAUL-AS JSC Avantel
-8711,80.69.176.0/20,AVANTEL-BARNAUL-AS JSC Avantel
-8711,82.117.64.0/19,AVANTEL-BARNAUL-AS JSC Avantel
-8711,91.192.172.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,91.201.72.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,93.91.160.0/20,AVANTEL-BARNAUL-AS JSC Avantel
-8711,95.170.128.0/19,AVANTEL-BARNAUL-AS JSC Avantel
-8711,95.181.128.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,109.202.0.0/19,AVANTEL-BARNAUL-AS JSC Avantel
-8711,178.57.192.0/20,AVANTEL-BARNAUL-AS JSC Avantel
-8711,185.18.124.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,185.37.164.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,195.49.168.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,195.60.244.0/22,AVANTEL-BARNAUL-AS JSC Avantel
-8711,212.17.0.0/19,AVANTEL-BARNAUL-AS JSC Avantel
-8711,217.29.80.0/20,AVANTEL-BARNAUL-AS JSC Avantel
-8711,2a00:1730::/32,AVANTEL-BARNAUL-AS JSC Avantel
-8711,2a00:f920::/32,AVANTEL-BARNAUL-AS JSC Avantel
 8712,176.113.48.0/20,INTA-AS Kirunets Tatyana Ivanovna
 8732,31.13.32.0/19,COMCOR-AS JSC Comcor
 8732,46.39.32.0/19,COMCOR-AS JSC Comcor
@@ -5115,7 +5112,7 @@ ASN,subnet,name
 21143,185.165.224.0/22,TULSUISP Tula State University
 21166,77.94.32.0/20,AS21166 SatGate LLC
 21166,77.94.48.0/21,AS21166 SatGate LLC
-21166,82.198.0.0/19,AS21166 SatGate LLC
+21166,82.198.0.0/20,AS21166 SatGate LLC
 21166,2a02:7200::/32,AS21166 SatGate LLC
 21184,80.92.160.0/20,Farpost Farpost Int.
 21184,2a0a:5cc0::/29,Farpost Farpost Int.
@@ -8562,7 +8559,9 @@ ASN,subnet,name
 48241,91.210.132.0/22,TTECH-AS Invest Mobile LLC
 48241,91.233.88.0/24,TTECH-AS Invest Mobile LLC
 48241,94.141.116.0/22,TTECH-AS Invest Mobile LLC
-48241,129.101.80.0/21,TTECH-AS Invest Mobile LLC
+48241,129.101.80.0/22,TTECH-AS Invest Mobile LLC
+48241,129.101.85.0/24,TTECH-AS Invest Mobile LLC
+48241,129.101.86.0/23,TTECH-AS Invest Mobile LLC
 48241,129.101.88.0/21,TTECH-AS Invest Mobile LLC
 48241,185.15.188.0/22,TTECH-AS Invest Mobile LLC
 48241,193.106.68.0/22,TTECH-AS Invest Mobile LLC
@@ -10048,7 +10047,6 @@ ASN,subnet,name
 50787,193.105.236.0/24,KRSK-SBIT-AS PJSC Krasnoyarskenergosbit
 50789,178.218.48.0/20,AIRONET-AS Amatek Ltd
 50797,46.29.37.0/24,TOPSRV-AS Hot-Host LLC
-50797,94.247.140.0/24,TOPSRV-AS Hot-Host LLC
 50797,2a13:b3c0::/29,TOPSRV-AS Hot-Host LLC
 50802,46.151.104.0/21,TELECOMBIS-AS Bogorodskoe Information Systems Ltd
 50802,195.135.240.0/22,TELECOMBIS-AS Bogorodskoe Information Systems Ltd
@@ -11427,6 +11425,7 @@ ASN,subnet,name
 61964,80.244.38.0/24,FREEDOM-AS Freedom LLC
 61964,80.244.39.0/24,FREEDOM-AS Freedom LLC
 61964,80.244.40.0/21,FREEDOM-AS Freedom LLC
+61964,82.198.16.0/20,FREEDOM-AS Freedom LLC
 61964,185.17.202.0/24,FREEDOM-AS Freedom LLC
 61964,185.199.8.0/22,FREEDOM-AS Freedom LLC
 61964,2a0a:9740::/31,FREEDOM-AS Freedom LLC
@@ -11707,6 +11706,7 @@ ASN,subnet,name
 197567,91.224.98.0/23,ASITLTD Telekom-Servis Ltd.
 197571,2001:67c:ccc::/48,"SPUTNIK LLC ""Search portal Sputnik"""
 197577,91.223.105.0/24,KomTelecom-AS KomTelecom LLC
+197624,94.247.140.0/24,GOODMANLTD-AS GOODMAN LTD
 197624,2a05:8600::/29,GOODMANLTD-AS GOODMAN LTD
 197627,91.223.181.0/24,EGY4-AS Ellad G. Yatsko
 197627,2001:678:5c8::/48,EGY4-AS Ellad G. Yatsko
@@ -11853,6 +11853,7 @@ ASN,subnet,name
 197765,185.104.104.0/22,ITPARK_DC Autonomous public institution High technology park IT-park
 197765,185.152.80.0/22,ITPARK_DC Autonomous public institution High technology park IT-park
 197765,2a00:dac0::/32,ITPARK_DC Autonomous public institution High technology park IT-park
+197768,31.133.104.0/21,"SIBSTRIN-AS FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION ""NOVOSIBIRSK STATE ARCHITECTURAL AND CONSTRUCTION UNIVERSITY (SIBSTRIN)"""
 197773,91.226.185.0/24,"EESK-AS JSC ""Ekaterinburgskaja jelektrosetevaja kompanija"""
 197780,91.226.234.0/24,"CMIRIT-AS MUNICIPAL INSTITUTION ""CENTER OF MUNICIPAL INFORMATION RESOURCES AND TECHNOLOGIES"""
 197783,91.226.200.0/24,"Bryansk_Engineering_Works-as Joint Stock Company ""Management Company ""Bryansk Engineering Works"""
@@ -11880,6 +11881,7 @@ ASN,subnet,name
 197969,2a02:6d80::/32,"MARSAT-AS Federal State Unitary Enterprise ""Morsviazsputnik"""
 197987,91.226.48.0/23,FESCO-AS FESCO Transportation Group Managing Company LLC
 197998,91.243.124.0/23,AfkGroup-AS LLC Afk group
+198021,195.230.99.0/24,"BA-NSK-AS LLC ""Business Alliance"""
 198027,46.173.21.0/24,X5-AS PJSC X5 Corporate Center
 198027,91.206.100.0/23,X5-AS PJSC X5 Corporate Center
 198028,193.194.105.0/24,"BG-MARKET-AS OOO ""COMPLEX AUTOMATION"""
@@ -11899,6 +11901,7 @@ ASN,subnet,name
 198117,91.231.213.0/24,KORUSC-AS KORUS Consulting Group LLC
 198134,193.161.193.0/24,GETWIFI-AS OOO GETWIFI
 198137,91.231.233.0/24,Net-Nord-AS OOO Net-Nord
+198181,193.150.124.0/24,"OPENTECH-NSK Ltd ""Open Technologies"""
 198182,176.100.128.0/19,ISP-customers SP Sbezhnev
 198185,130.255.8.0/21,LIGALINK-AS LigaLink LLC
 198185,2a00:4aa0::/32,LIGALINK-AS LigaLink LLC
@@ -12696,15 +12699,14 @@ ASN,subnet,name
 204049,2a12:d740::/29,AS_LLC3DATA LLC 3data
 204137,185.112.224.0/22,ORIONNET-IRK Orion telecom ltd
 204137,2a02:6860::/32,ORIONNET-IRK Orion telecom ltd
-204161,45.9.140.0/22,TRITEL-MSK-204161 Alexey Geiner
-204161,46.148.176.0/20,TRITEL-MSK-204161 Alexey Geiner
-204161,91.207.96.0/23,TRITEL-MSK-204161 Alexey Geiner
-204161,91.207.108.0/23,TRITEL-MSK-204161 Alexey Geiner
-204161,95.215.112.0/22,TRITEL-MSK-204161 Alexey Geiner
-204161,185.112.140.0/22,TRITEL-MSK-204161 Alexey Geiner
-204161,195.88.14.0/23,TRITEL-MSK-204161 Alexey Geiner
-204161,195.216.212.0/23,TRITEL-MSK-204161 Alexey Geiner
-204161,2a06:6480::/29,TRITEL-MSK-204161 Alexey Geiner
+204161,45.9.140.0/22,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,46.148.176.0/20,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,91.207.96.0/23,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,91.207.108.0/23,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,95.215.112.0/22,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,185.112.140.0/22,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,195.88.14.0/23,TRITEL-MSK-204161 KRYMSVYAZ LTD
+204161,195.216.212.0/23,TRITEL-MSK-204161 KRYMSVYAZ LTD
 204198,185.111.84.0/22,"monetaru NCO ""MONETA"" (LLC)"
 204198,2001:67c:25c8::/48,"monetaru NCO ""MONETA"" (LLC)"
 204226,185.89.8.0/22,I-Teco I-Teco JSC
@@ -13100,6 +13102,7 @@ ASN,subnet,name
 208677,94.139.252.0/22,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,94.158.22.0/23,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,95.174.88.0/21,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
+208677,129.101.84.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,131.222.134.0/23,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,141.101.151.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,141.101.152.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
