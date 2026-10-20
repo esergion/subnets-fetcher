@@ -515,6 +515,7 @@ ASN,subnet,name
 0,130.49.215.0/24,Aleksandr Valerevich Mokhonko
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
+0,137.22.144.0/20,
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
 0,141.98.233.0/24,Quasar LLC
@@ -547,7 +548,6 @@ ASN,subnet,name
 0,168.113.154.0/23,"LLC ""Internet Tehnologii"""
 0,168.113.160.0/22,
 0,168.113.164.0/23,
-0,168.113.212.0/23,
 0,168.113.214.0/23,"LLC ""Internet Tehnologii"""
 0,168.113.244.0/22,
 0,171.22.242.0/24,"LLC ""STORM LABS"""
@@ -565,6 +565,7 @@ ASN,subnet,name
 0,176.99.96.0/19,
 0,176.99.128.0/17,
 0,176.100.64.0/18,
+0,176.100.128.0/19,
 0,176.100.240.0/22,
 0,176.102.0.0/21,
 0,176.102.8.0/21,
@@ -11899,7 +11900,6 @@ ASN,subnet,name
 198134,193.161.193.0/24,GETWIFI-AS OOO GETWIFI
 198137,91.231.233.0/24,Net-Nord-AS OOO Net-Nord
 198181,193.150.124.0/24,"OPENTECH-NSK Ltd ""Open Technologies"""
-198182,176.100.128.0/19,ISP-customers SP Sbezhnev
 198185,130.255.8.0/21,LIGALINK-AS LigaLink LLC
 198185,2a00:4aa0::/32,LIGALINK-AS LigaLink LLC
 198195,91.232.39.0/24,BLIZCO-AS Martyukhin Pavel Alexandrovitch
@@ -13635,6 +13635,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
+218361,168.113.212.0/23,
 218422,159.200.201.0/24,"tundra-tc LLC ""TUNDRA TELECOM"""
 218422,2a11:300::/29,"tundra-tc LLC ""TUNDRA TELECOM"""
 218523,2001:678:11c0::/48,CF-AS LLC CLOUD FACILITIES
