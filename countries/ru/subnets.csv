@@ -12,6 +12,7 @@ ASN,subnet,name
 0,5.180.174.0/23,LLC IT BASIS
 0,5.181.0.0/22,Sysoev Aleksey Anatolevich
 0,5.181.252.0/22,Anton Rashitovich Khalikov
+0,5.182.36.0/22,Anton Rashitovich Khalikov
 0,5.182.84.0/22,Viktoriya Alekseevna Golovina
 0,5.252.20.0/22,Sysoev Aleksey Anatolevich
 0,31.12.75.0/24,Mikhail Tonkonog
@@ -518,7 +519,7 @@ ASN,subnet,name
 0,131.117.216.0/21,INEWS LLC
 0,137.22.144.0/21,
 0,137.22.152.0/22,
-0,137.22.156.0/23,
+0,137.22.156.0/24,
 0,137.22.159.0/24,
 0,139.28.72.0/22,Sysoev Aleksey Anatolevich
 0,139.28.168.0/22,VVT LLC
@@ -546,7 +547,7 @@ ASN,subnet,name
 0,157.228.73.0/24,"Mws Cloud, Limited Liability Company"
 0,157.228.76.0/22,"Mws Cloud, Limited Liability Company"
 0,158.255.0.0/21,LLC IT BASIS
-0,159.200.200.0/24,
+0,159.200.200.0/24,"LLC ""ESCROW TELECOM"""
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,160.5.208.0/20,Next LLC
 0,168.113.128.0/20,Next LLC
@@ -727,7 +728,7 @@ ASN,subnet,name
 0,185.188.96.0/22,Aksioma Ltd
 0,185.190.40.0/22,Uralskie Kabelnie Seti - Ozersk LLC
 0,185.190.180.0/22,MIR TELEKOM LLC
-0,185.191.196.0/22,Max Host LLC
+0,185.191.196.0/22,WEBA HOST LLC
 0,185.193.46.0/24,"LLC ""AUTOMATIC GATE - 2000"""
 0,185.193.88.0/23,IP Khnykin Vitaliy Yakovlevich
 0,185.199.144.0/22,LOGOS-K LLC
@@ -1211,7 +1212,7 @@ ASN,subnet,name
 0,2a0a:340::/29,Uralskie Kabelnie Seti - Ozersk LLC
 0,2a0a:980::/29,IP Khnykin Vitaliy Yakovlevich
 0,2a0a:ec0::/29,MIR TELEKOM LLC
-0,2a0a:2540::/29,Max Host LLC
+0,2a0a:2540::/29,WEBA HOST LLC
 0,2a0a:3040::/29,intersat Ltd.
 0,2a0a:8580::/29,Sysoev Aleksey Anatolevich
 0,2a0a:8f80::/29,i7 LLC
@@ -7151,7 +7152,6 @@ ASN,subnet,name
 42007,2.59.160.0/22,BIG-AS Perviy TSOD LLC
 42007,2.59.216.0/22,BIG-AS Perviy TSOD LLC
 42007,5.1.41.0/24,BIG-AS Perviy TSOD LLC
-42007,5.182.36.0/22,BIG-AS Perviy TSOD LLC
 42007,31.222.227.0/24,BIG-AS Perviy TSOD LLC
 42007,31.222.241.0/24,BIG-AS Perviy TSOD LLC
 42007,45.8.144.0/22,BIG-AS Perviy TSOD LLC
@@ -12216,6 +12216,7 @@ ASN,subnet,name
 199430,2001:67c:11fc::/48,GOODWOOD Limited Liability Company GOODWOOD
 199445,185.207.22.0/24,SENTASERV Senta Service LLC
 199445,2a12:ba40::/29,SENTASERV Senta Service LLC
+199546,137.22.157.0/24,MOSCOMNET-AS Moscomnet LLC
 199546,161.104.100.0/22,MOSCOMNET-AS Moscomnet LLC
 199546,185.180.125.0/24,MOSCOMNET-AS Moscomnet LLC
 199546,185.221.164.0/23,MOSCOMNET-AS Moscomnet LLC
