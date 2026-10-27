@@ -538,7 +538,6 @@ ASN,subnet,name
 0,147.78.8.0/22,OOO TeleMontag
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
-0,153.79.176.0/22,"JSC ""Redcom-lnternet"""
 0,153.79.180.0/23,
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
@@ -547,7 +546,6 @@ ASN,subnet,name
 0,157.228.73.0/24,"Mws Cloud, Limited Liability Company"
 0,157.228.76.0/22,"Mws Cloud, Limited Liability Company"
 0,158.255.0.0/21,LLC IT BASIS
-0,159.200.200.0/24,"JSC ""Redcom-lnternet"""
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,160.5.208.0/20,Next LLC
 0,168.113.128.0/20,Next LLC
@@ -4313,6 +4311,8 @@ ASN,subnet,name
 8749,91.235.241.0/24,"REDCOM-AS JSC ""Redcom-lnternet"""
 8749,91.236.12.0/24,"REDCOM-AS JSC ""Redcom-lnternet"""
 8749,94.125.48.0/21,"REDCOM-AS JSC ""Redcom-lnternet"""
+8749,153.79.176.0/22,"REDCOM-AS JSC ""Redcom-lnternet"""
+8749,159.200.200.0/24,"REDCOM-AS JSC ""Redcom-lnternet"""
 8749,159.253.168.0/21,"REDCOM-AS JSC ""Redcom-lnternet"""
 8749,164.138.88.0/21,"REDCOM-AS JSC ""Redcom-lnternet"""
 8749,185.3.180.0/22,"REDCOM-AS JSC ""Redcom-lnternet"""
@@ -4699,7 +4699,7 @@ ASN,subnet,name
 12976,2a01:6e0::/32,AS-CWSVYAZ CITIC Telecom CPC Rus LLC
 12979,213.156.128.0/22,TSINET JSC Transinfoset
 13016,93.189.248.0/21,TELELINE-NET Teleline Ltd.
-13029,195.2.214.0/23,"GCSI-CHUVASHII-AS Autonomous institution Center of Information Technologies of Ministry of Digital Development, Information Policy and Mass Communications of the Chuvash Republic"
+13029,195.2.214.0/23,"GCSI-CHUVASHII-AS Budget Institution of Chuvash Republic ""Center of Information Technologies"" of the Ministry of Digital Development, Information policy and Mass Communication of Chuvash Republic"
 13079,213.168.128.0/19,ZONDH Zond Holding JSC
 13105,82.118.128.0/19,LUKOIL-INFORM-AS INFORM LLC
 13105,95.171.224.0/19,LUKOIL-INFORM-AS INFORM LLC
@@ -5661,6 +5661,7 @@ ASN,subnet,name
 29184,91.232.8.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,94.187.192.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,94.187.196.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
+29184,94.187.200.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,146.19.253.0/24,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,171.33.244.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
 29184,176.118.0.0/22,IGRA-SERVICE-AS-UL IGRA-SERVICE LLC
@@ -13239,10 +13240,6 @@ ASN,subnet,name
 210028,194.12.56.0/21,"cs LLC ""Complex Systems"""
 210038,91.225.24.0/24,ETPGPB LLC ETP GPB
 210038,194.24.173.0/24,ETPGPB LLC ETP GPB
-210047,185.82.196.0/22,"maximanm-as Maxima, LLC"
-210047,185.124.152.0/22,"maximanm-as Maxima, LLC"
-210047,185.124.228.0/22,"maximanm-as Maxima, LLC"
-210047,2a09:4e80::/29,"maximanm-as Maxima, LLC"
 210063,2.58.212.0/24,COMPANY-TELECOM-AS Company Telecom LLC
 210063,212.111.77.0/24,COMPANY-TELECOM-AS Company Telecom LLC
 210063,212.111.78.0/24,COMPANY-TELECOM-AS Company Telecom LLC
@@ -13253,6 +13250,10 @@ ASN,subnet,name
 210109,31.135.248.0/22,"kurgan-telecom-as LLC ""Kurgan-Telecom"""
 210201,194.34.96.0/22,Connected-businiess Connected Business LLC
 210239,45.129.152.0/22,zniis-as The M.I. Krivosheev National Research Centre for Telecommunication
+210267,185.82.196.0/22,"maximan-as Maxima, LLC"
+210267,185.124.152.0/22,"maximan-as Maxima, LLC"
+210267,185.124.228.0/22,"maximan-as Maxima, LLC"
+210267,2a09:4e80::/29,"maximan-as Maxima, LLC"
 210328,2001:67c:29c::/48,ALMAZ AO ALMAZ
 210416,193.9.22.0/24,SVRHOUSE SVRHOUSE LLC
 210431,185.140.175.0/24,TKH-I-AS TKH-Invest Ltd.
