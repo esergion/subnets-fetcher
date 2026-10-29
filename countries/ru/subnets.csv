@@ -517,7 +517,6 @@ ASN,subnet,name
 0,130.49.215.0/24,Aleksandr Valerevich Mokhonko
 0,130.193.73.0/24,Vladimir Dmitriev
 0,131.117.216.0/21,INEWS LLC
-0,137.22.144.0/21,
 0,137.22.152.0/22,
 0,137.22.156.0/24,
 0,137.22.159.0/24,
@@ -998,7 +997,6 @@ ASN,subnet,name
 0,195.93.148.0/23,
 0,195.93.240.0/23,
 0,195.93.244.0/24,FS LLC
-0,195.95.214.0/23,
 0,195.110.32.0/23,
 0,195.128.96.0/22,Skynetwork LLC
 0,195.128.120.0/21,
@@ -6741,6 +6739,7 @@ ASN,subnet,name
 39561,95.163.220.0/22,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
 39561,95.163.224.0/20,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
 39561,95.163.240.0/21,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
+39561,129.101.92.0/22,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
 39561,130.49.148.0/22,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
 39561,134.0.112.0/21,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
 39561,151.248.112.0/20,"AS-REGRU ""Domain names registrar REG.RU"", Ltd"
@@ -7040,6 +7039,7 @@ ASN,subnet,name
 41465,89.19.206.0/24,VGT_RU Limited Liability Company VolgoGazTelecom
 41469,89.250.224.0/20,TECOS-AS ZSRCT TECOS Ltd.
 41475,89.20.32.0/20,SDK-AS SDK Ltd.
+41475,195.95.214.0/23,SDK-AS SDK Ltd.
 41475,2a14:7fc0::/29,SDK-AS SDK Ltd.
 41512,195.78.72.0/23,"NPO-Design-AS ""NPO-Design"" LLC"
 41525,185.213.156.0/22,FILI-AS FILI-Telecom LLC
@@ -8567,7 +8567,7 @@ ASN,subnet,name
 48241,91.210.132.0/22,TTECH-AS Invest Mobile LLC
 48241,91.233.88.0/24,TTECH-AS Invest Mobile LLC
 48241,94.141.116.0/22,TTECH-AS Invest Mobile LLC
-48241,129.101.88.0/21,TTECH-AS Invest Mobile LLC
+48241,129.101.88.0/22,TTECH-AS Invest Mobile LLC
 48241,159.200.128.0/18,TTECH-AS Invest Mobile LLC
 48241,185.15.188.0/22,TTECH-AS Invest Mobile LLC
 48241,193.106.68.0/22,TTECH-AS Invest Mobile LLC
@@ -12603,8 +12603,6 @@ ASN,subnet,name
 202498,178.130.140.0/22,TinkoffMobile-AS T-MOB LLC
 202498,193.143.64.0/22,TinkoffMobile-AS T-MOB LLC
 202498,212.233.84.0/22,TinkoffMobile-AS T-MOB LLC
-202501,185.36.100.0/24,"SAKHALINSVYAZ Joint-stock companies ""Sakhalinsvyaz"""
-202501,2a0f:6f40::/29,"SAKHALINSVYAZ Joint-stock companies ""Sakhalinsvyaz"""
 202508,193.93.232.0/22,TR-Nord-As FoamLine LLC
 202510,193.93.28.0/22,nwth North-western Trade House LLC
 202510,2a0c:9840::/29,nwth North-western Trade House LLC
@@ -13389,6 +13387,7 @@ ASN,subnet,name
 211183,130.49.143.0/24,AdminVPS AdminVPS OOO
 211183,130.49.146.0/24,AdminVPS AdminVPS OOO
 211183,130.49.153.0/24,AdminVPS AdminVPS OOO
+211183,137.22.144.0/21,AdminVPS AdminVPS OOO
 211183,138.16.152.0/22,AdminVPS AdminVPS OOO
 211183,138.16.224.0/22,AdminVPS AdminVPS OOO
 211183,153.80.184.0/23,AdminVPS AdminVPS OOO
