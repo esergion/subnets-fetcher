@@ -444,6 +444,8 @@ ASN,subnet,name
 0,91.241.128.0/19,
 0,91.243.224.0/19,
 0,91.245.66.0/23,
+0,91.245.128.0/19,
+0,91.247.0.0/19,
 0,91.247.190.0/24,Quasar LLC
 0,91.247.232.0/21,
 0,92.42.96.0/24,"OOO ""MIR"""
@@ -462,6 +464,7 @@ ASN,subnet,name
 0,93.157.57.0/24,
 0,93.157.120.0/21,
 0,93.157.160.0/21,
+0,93.157.232.0/21,
 0,93.157.240.0/22,
 0,93.159.216.0/22,intersat Ltd.
 0,93.159.220.0/22,"Mws Cloud, Limited Liability Company"
@@ -504,6 +507,7 @@ ASN,subnet,name
 0,109.197.8.0/21,
 0,109.197.48.0/21,
 0,109.197.224.0/21,
+0,109.206.128.0/19,
 0,109.207.176.0/20,
 0,109.229.32.0/19,
 0,109.234.32.0/24,McHost LLC
@@ -578,6 +582,7 @@ ASN,subnet,name
 0,176.106.8.0/21,
 0,176.106.16.0/20,
 0,176.106.64.0/19,
+0,176.108.192.0/19,
 0,176.111.64.0/21,
 0,176.111.208.0/21,
 0,176.112.90.0/24,
@@ -1096,6 +1101,7 @@ ASN,subnet,name
 0,2001:67c:233c::/48,
 0,2001:67c:244c::/48,
 0,2001:67c:26a0::/48,
+0,2001:67c:2704::/48,
 0,2001:67c:29b8::/48,
 0,2001:67c:2c00::/48,
 0,2001:67c:2df4::/48,
@@ -8567,7 +8573,6 @@ ASN,subnet,name
 48241,91.210.132.0/22,TTECH-AS Invest Mobile LLC
 48241,91.233.88.0/24,TTECH-AS Invest Mobile LLC
 48241,94.141.116.0/22,TTECH-AS Invest Mobile LLC
-48241,159.200.128.0/18,TTECH-AS Invest Mobile LLC
 48241,185.15.188.0/22,TTECH-AS Invest Mobile LLC
 48241,193.106.68.0/22,TTECH-AS Invest Mobile LLC
 48241,217.12.32.0/22,TTECH-AS Invest Mobile LLC
@@ -9982,12 +9987,6 @@ ASN,subnet,name
 50488,2001:67c:c7c::/48,UTELCOM LLC Utelcom
 50502,91.216.81.0/24,"GSRAN-AS Kamchatka Branch, Geophysical Service, Russian Academy of Science"
 50516,91.228.220.0/22,MAXIPLACE-AS Maxiplace Ltd.
-50519,91.245.128.0/19,SSP-AS SSP Ltd.
-50519,91.247.0.0/19,SSP-AS SSP Ltd.
-50519,93.157.232.0/21,SSP-AS SSP Ltd.
-50519,109.206.128.0/19,SSP-AS SSP Ltd.
-50519,176.108.192.0/19,SSP-AS SSP Ltd.
-50519,2001:67c:2704::/48,SSP-AS SSP Ltd.
 50536,195.191.130.0/23,Jamal-Kontinent JSC Sigma-KTV
 50538,37.110.240.0/21,"Petros OOO ""Petrosvyaz"""
 50538,109.235.216.0/21,"Petros OOO ""Petrosvyaz"""
@@ -13120,6 +13119,7 @@ ASN,subnet,name
 208677,141.101.152.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,141.101.201.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,152.89.196.0/24,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
+208677,159.200.128.0/18,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,168.113.252.0/22,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,168.222.176.0/22,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
 208677,176.108.240.0/20,"CLOUDRU-AS ""Cloud Technologies"" LLC trading as Cloud.ru"
