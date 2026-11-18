@@ -5392,10 +5392,10 @@ ASN,subnet,name
 25381,85.234.96.0/19,"SVT-AS LLC ""Svyaztranzit"""
 25381,185.154.192.0/22,"SVT-AS LLC ""Svyaztranzit"""
 25381,2a0a:6f40::/29,"SVT-AS LLC ""Svyaztranzit"""
-25437,91.214.80.0/22,ALCOM-AS Osipenko Alexander Nikolaevich
-25437,92.118.132.0/22,ALCOM-AS Osipenko Alexander Nikolaevich
-25437,194.50.9.0/24,ALCOM-AS Osipenko Alexander Nikolaevich
-25437,2a09:acc0::/29,ALCOM-AS Osipenko Alexander Nikolaevich
+25437,91.214.80.0/22,DTK-AS Osipenko Alexander Nikolaevich
+25437,92.118.132.0/22,DTK-AS Osipenko Alexander Nikolaevich
+25437,194.50.9.0/24,DTK-AS Osipenko Alexander Nikolaevich
+25437,2a09:acc0::/29,DTK-AS Osipenko Alexander Nikolaevich
 25451,185.105.48.0/22,RUNTT RU LLC
 25451,2a00:4600::/32,RUNTT RU LLC
 25474,62.105.32.0/21,OKB-TELECOM-AS OKB-TELECOM JSC
@@ -13663,7 +13663,7 @@ ASN,subnet,name
 216322,2a13:51c0::/29,Atomdata-inn-AS Atomdata-Innopolis JSC
 216363,185.94.182.0/24,istra-dot-net-as OOO Istra.net
 216363,2a13:c9c0::/32,istra-dot-net-as OOO Istra.net
-218070,2a0e:9540::/29,Agat JSC
+218070,2a0e:9540::/29,AGAT_ASN Agat JSC
 218119,195.234.96.0/24,"GIAC-MVD-RU FEDERAL STATE INSTITUTION ""MAIN INFORMATION AND ANALYTICAL CENTER OF THE MINISTRY OF INTERNAL AFFAIRS OF THE RUSSIAN FEDERATION"""
 218361,168.113.212.0/23,spectr SPECTR LIMITED LIABILITY COMPANY
 218422,159.200.201.0/24,"tundra-tc LLC ""TUNDRA TELECOM"""
