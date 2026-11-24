@@ -548,7 +548,7 @@ ASN,subnet,name
 0,147.138.224.0/19,Andrei Zaitsev
 0,151.0.0.0/18,Vadim Druzev
 0,153.76.160.0/20,JSC Datacenter
-0,153.79.180.0/23,
+0,153.79.180.0/24,
 0,153.80.163.0/24,
 0,153.80.178.0/23,Mikhail Tonkonog
 0,153.80.249.0/24,"LLC ""Internet Tehnologii"""
@@ -557,12 +557,13 @@ ASN,subnet,name
 0,157.228.73.0/24,"Mws Cloud, Limited Liability Company"
 0,157.228.76.0/22,"Mws Cloud, Limited Liability Company"
 0,158.255.0.0/21,LLC IT BASIS
-0,159.200.80.0/20,
+0,159.200.80.0/20,"LLC ""ESCROW TELECOM"""
 0,159.253.120.0/24,Sysoev Aleksey Anatolevich
 0,160.5.208.0/20,Next LLC
 0,168.113.128.0/20,Next LLC
 0,168.113.154.0/23,"LLC ""Internet Tehnologii"""
-0,168.113.160.0/23,
+0,168.113.160.0/24,
+0,168.113.161.0/24,
 0,168.113.163.0/24,
 0,168.113.214.0/23,"LLC ""Internet Tehnologii"""
 0,168.113.244.0/22,
@@ -9750,6 +9751,7 @@ ASN,subnet,name
 49729,185.137.76.0/22,"MODULBANK-AS Open Joint Stock Company Commercial Bank ""Modulbank"""
 49729,2a07:280::/29,"MODULBANK-AS Open Joint Stock Company Commercial Bank ""Modulbank"""
 49730,91.213.169.0/24,"AUXO-AS ""AUXO IT SERVICES"" LLC"
+49730,153.79.181.0/24,"AUXO-AS ""AUXO IT SERVICES"" LLC"
 49732,94.230.240.0/20,TYVASVIAZINFORM-AS Joint Stock Company Tyvasviazinform
 49732,185.193.196.0/22,TYVASVIAZINFORM-AS Joint Stock Company Tyvasviazinform
 49732,2a0b:980::/32,TYVASVIAZINFORM-AS Joint Stock Company Tyvasviazinform
